@@ -1,4 +1,4 @@
-var map = L.map('map').setView([37.8, -96], 4);
+var map = L.map('map');
 
 	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 		maxZoom: 18,
@@ -9,7 +9,8 @@ var map = L.map('map').setView([37.8, -96], 4);
 		zoomOffset: -1
 	}).addTo(map);
 
-	var geojson = L.geoJson(caCounties).addTo(map);
+    var geojson = L.geoJson(caCounties).addTo(map);
+    map.fitBounds(geojson.getBounds());
 
 //Read the data
 d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/5_OneCatSevNumOrdered.csv", function(data) {
