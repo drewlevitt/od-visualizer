@@ -1,0 +1,61 @@
+At the top, a sentence with drop-down menus: "Show trips [to|from] [zone] by [mode] during the [day type] [day part]. [Reset]"
+    What if we don't have fully symmetrical OD data? like some zones only have origin data and others only have destination data? Or is this a dumb edge case that's not worth handling? (Probably.)
+        For now let's insist that o_name and d_name MUST contain all the same unique values.
+    Clicking "Reset" just sets [zone] to "none." Then handle that.
+    
+Guide: "Use the drop-down menus to select travel mode, direction, and time period. You can also select a zone for analysis using the drop-down, or click a zone on the map to select it."
+
+On mouseover a given polygon: tooltip: "[Zone name]: click to select this zone for analysis." If there is already a selection, also show "[Day type] [day part] [mode] trips from [selected zone|this zone] to [this zone|selected zone]: [num_trips] ([pct] of all [outbound|inbound] [mode] trips)"
+
+
+I think we can handle the dropdowns uniformly via something like:
+var options = {direction: 'inbound', ...}
+d3.selectAll("select")
+    .on("change", function(e) {
+        options[e.target.name] = e.target.value;
+        updateMap(options);
+    });
+but I can't confirm the exact syntax of the event handler so we'll just have to try it in practice :-P
+
+
+It would be easiest if we can just use the human-readable zone names AS the zone IDs. We would need to enforce uniqueness among these names (which usually seems like a good idea) and we might need to restrict the use of certain characters, which would probably not be a huge problem in practice, but might be difficult to figure out exactly WHAT the restrictions are (!).
+    quotes (that match the quote type wrapping the string). using backticks (technically creating template literals) might effectively dodge this problem
+    Alternatively, zones could have [alpha]numeric IDs, stored as 'id' under each 'Feature', and also have human-readable names, stored as 'name' under each 'Feature''s 'properties'. And the flow table would have o_id, o_name, d_id, and d_name. Use the _name fields to populate 
+    
+We will need to procedurally generate cutpoints for a given set of selections. Think we should use quantiles - probably quintiles specifically
+    d3.scaleQuantile
+quantile = d3.scaleQuantile()
+  .domain(data) // pass the whole dataset to a scaleQuantile’s domain
+  .range(["white", "pink", "red"]) // or a range of colors equal in length to the number of quantiles desired
+    I think we can just recalculate `quantile` every time a selection changes, and that'll be that, right?!
+    We may need to map.removeLayer and layer.addTo(map) every time... we'll see
+    layer.setStyle would seem to help bigtime
+  //For each feature, returns the styling
+  function mapStyle(feature) {
+    return {
+        fillColor: getColor(feature),
+        color: 'black', opacity: 1, weight: 0.5,
+        opacity: 1,
+        fillOpacity: 0.8,
+    };
+  }
+  
+  //Whenever called, styles the map
+  function colorMap() {
+    if(!overlay)
+      return;
+    //preprocess();
+    overlay.setStyle(mapStyle);
+  }
+  
+GeoJSON spec:
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[[x0, y0], [x1, y1]]]
+  },
+  "properties": {
+    "name": "Dinagat Islands"
+  }
+}

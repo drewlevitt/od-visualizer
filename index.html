@@ -1,3 +1,29 @@
 <html>
-    <p>This is a web page.</p>
+
+<head>
+    <meta charset="utf-8">
+
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+
+    <!-- Color Scale -->
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+    <script src="my_script.js"></script>
+</head>
+
+<p>Use the drop-down menus to select travel mode, direction, and time period. You can also select a zone for analysis
+    using the drop-down, or click a zone on the map to select it.</p>
+
+<p>Show trips <select name="direction" id="direction">
+        <option value="inbound">to</option>
+        <option value="outbound">from</option>
+    </select> <select id="selectZone">
+        <option value="none">[select a zone]</option>
+    </select> by <select id="selectMode"></select> during the <select id="selectDayType"></select> <select
+        id="selectDayPart"></select>. [Reset]</p>
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+
 </html>
