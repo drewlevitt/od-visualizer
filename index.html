@@ -9,7 +9,8 @@
     <!-- Color Scale -->
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
-    <script src="my_script.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
 </head>
 
 <p>Use the drop-down menus to select travel mode, direction, and time period. You can also select a zone for analysis
@@ -25,5 +26,8 @@
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
+
+<script type="text/javascript" src="ca_counties.js"></script>
+<script src="my_script.js"></script>
 
 </html>
