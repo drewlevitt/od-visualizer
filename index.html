@@ -11,34 +11,35 @@
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <script src="https://d3js.org/d3-dsv.v2.min.js"></script>
+    <script src="https://d3js.org/d3-fetch.v2.min.js"></script>
 
     <style>
 		html, body {
 			height: 100%;
-			margin: 0;
+			/* margin: 0; */
 		}
 		#map {
-			width: 600px;
-			height: 400px;
+			width: 1000px;
+			height: 700px;
 		}
 	</style>
 </head>
 
-<p>Use the drop-down menus to select travel mode, direction, and time period. You can also select a zone for analysis
+<p>Use the drop-down menus to select direction and year. You can also select a zone for analysis
     using the drop-down, or click a zone on the map to select it.</p>
 
-<p>Show trips <select name="direction" id="direction">
+<p>Show commute trips <select id="direction">
         <option value="inbound">to</option>
         <option value="outbound">from</option>
-    </select> <select id="selectZone">
+    </select> <select id="zone">
         <option value="none">[select a zone]</option>
-    </select> by <select id="selectMode"></select> during the <select id="selectDayType"></select> <select
-        id="selectDayPart"></select>. [Reset]</p>
+    </select> for the year <select id="year"></select>. [Reset]</p>
 
 <!-- Create a div where the graph will take place -->
 <div id="map"></div>
 
-<script type="text/javascript" src="ca_counties.js"></script>
-<script src="my_script.js"></script>
+<script type="text/javascript" src="ca_counties_min.js"></script>
+<script src="od_visualizer.js"></script>
 
 </html>

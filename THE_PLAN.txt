@@ -59,3 +59,17 @@ GeoJSON spec:
     "name": "Dinagat Islands"
   }
 }
+
+
+
+
+How to handle zero-volume flows?
+    Could fill with 0 BEFORE recalculating quantile cutpoints, but this would usually result in a ton of 0s that will fill up the bottom bucket
+    I want to have zero-volume polygons be transparent - still draw the border but have no fill color.
+    And then I want to apply quantiles to only non-zero volume polygons, and fill them with the corresponding colors.
+
+How to associate CSV data with the Leaflet features?
+    Why don't I use d3 to filter the full CSV down to only relevant rows, then... create a dictionary so that Leaflet features can efficiently look up their corresponding values in the dictionary? (JS object property lookups are basically O(1).)
+    And, what, do I have a dictionary of colors too? No, right? I just have a d3 quantile scale that I wrap in a handler for if the Leaflet feature's value is `undefined`
+
+Do I need to add the GeoJSON layer to the Leaflet map only after loading the flows CSV data - i.e. within the d3.csv() block??

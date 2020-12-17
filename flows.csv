@@ -1,0 +1,3398 @@
+﻿year,o_id,o_name,d_id,d_name,vol
+2015,06001,Alameda,06001,Alameda,462270
+2015,06001,Alameda,06013,Contra Costa,41010
+2015,06001,Alameda,06017,El Dorado,11
+2015,06001,Alameda,06019,Fresno,97
+2015,06001,Alameda,06023,Humboldt,61
+2015,06001,Alameda,06029,Kern,65
+2015,06001,Alameda,06033,Lake,18
+2015,06001,Alameda,06037,Los Angeles,732
+2015,06001,Alameda,06041,Marin,4823
+2015,06001,Alameda,06045,Mendocino,55
+2015,06001,Alameda,06047,Merced,28
+2015,06001,Alameda,06053,Monterey,291
+2015,06001,Alameda,06055,Napa,304
+2015,06001,Alameda,06057,Nevada,22
+2015,06001,Alameda,06059,Orange,134
+2015,06001,Alameda,06061,Placer,146
+2015,06001,Alameda,06065,Riverside,37
+2015,06001,Alameda,06067,Sacramento,899
+2015,06001,Alameda,06069,San Benito,114
+2015,06001,Alameda,06071,San Bernardino,147
+2015,06001,Alameda,06073,San Diego,187
+2015,06001,Alameda,06075,San Francisco,92246
+2015,06001,Alameda,06077,San Joaquin,2500
+2015,06001,Alameda,06079,San Luis Obispo,11
+2015,06001,Alameda,06081,San Mateo,35263
+2015,06001,Alameda,06083,Santa Barbara,43
+2015,06001,Alameda,06085,Santa Clara,70878
+2015,06001,Alameda,06087,Santa Cruz,410
+2015,06001,Alameda,06089,Shasta,92
+2015,06001,Alameda,06095,Solano,1670
+2015,06001,Alameda,06097,Sonoma,962
+2015,06001,Alameda,06099,Stanislaus,619
+2015,06001,Alameda,06101,Sutter,17
+2015,06001,Alameda,06103,Tehama,8
+2015,06001,Alameda,06109,Tuolumne,7
+2015,06001,Alameda,06111,Ventura,26
+2015,06001,Alameda,06113,Yolo,304
+2015,06001,Alameda,06115,Yuba,9
+2015,06003,Alpine,06003,Alpine,173
+2015,06003,Alpine,06017,El Dorado,79
+2015,06003,Alpine,06037,Los Angeles,3
+2015,06003,Alpine,06075,San Francisco,4
+2015,06003,Alpine,06085,Santa Clara,4
+2015,06005,Amador,06001,Alameda,80
+2015,06005,Amador,06003,Alpine,43
+2015,06005,Amador,06005,Amador,8063
+2015,06005,Amador,06007,Butte,55
+2015,06005,Amador,06009,Calaveras,396
+2015,06005,Amador,06013,Contra Costa,80
+2015,06005,Amador,06017,El Dorado,378
+2015,06005,Amador,06029,Kern,4
+2015,06005,Amador,06037,Los Angeles,56
+2015,06005,Amador,06041,Marin,41
+2015,06005,Amador,06045,Mendocino,5
+2015,06005,Amador,06057,Nevada,11
+2015,06005,Amador,06061,Placer,187
+2015,06005,Amador,06067,Sacramento,1538
+2015,06005,Amador,06071,San Bernardino,3
+2015,06005,Amador,06075,San Francisco,27
+2015,06005,Amador,06077,San Joaquin,467
+2015,06005,Amador,06081,San Mateo,89
+2015,06005,Amador,06085,Santa Clara,85
+2015,06005,Amador,06095,Solano,27
+2015,06005,Amador,06097,Sonoma,57
+2015,06005,Amador,06099,Stanislaus,19
+2015,06005,Amador,06107,Tulare,23
+2015,06005,Amador,06109,Tuolumne,66
+2015,06005,Amador,06111,Ventura,4
+2015,06005,Amador,06113,Yolo,35
+2015,06007,Butte,06001,Alameda,121
+2015,06007,Butte,06005,Amador,3
+2015,06007,Butte,06007,Butte,79201
+2015,06007,Butte,06011,Colusa,244
+2015,06007,Butte,06013,Contra Costa,63
+2015,06007,Butte,06017,El Dorado,32
+2015,06007,Butte,06019,Fresno,44
+2015,06007,Butte,06021,Glenn,951
+2015,06007,Butte,06023,Humboldt,26
+2015,06007,Butte,06025,Imperial,8
+2015,06007,Butte,06029,Kern,10
+2015,06007,Butte,06031,Kings,15
+2015,06007,Butte,06033,Lake,8
+2015,06007,Butte,06035,Lassen,52
+2015,06007,Butte,06037,Los Angeles,41
+2015,06007,Butte,06041,Marin,31
+2015,06007,Butte,06045,Mendocino,18
+2015,06007,Butte,06047,Merced,34
+2015,06007,Butte,06049,Modoc,8
+2015,06007,Butte,06053,Monterey,17
+2015,06007,Butte,06055,Napa,16
+2015,06007,Butte,06057,Nevada,72
+2015,06007,Butte,06059,Orange,26
+2015,06007,Butte,06061,Placer,263
+2015,06007,Butte,06063,Plumas,107
+2015,06007,Butte,06067,Sacramento,651
+2015,06007,Butte,06071,San Bernardino,5
+2015,06007,Butte,06073,San Diego,29
+2015,06007,Butte,06075,San Francisco,183
+2015,06007,Butte,06077,San Joaquin,78
+2015,06007,Butte,06079,San Luis Obispo,15
+2015,06007,Butte,06081,San Mateo,141
+2015,06007,Butte,06085,Santa Clara,106
+2015,06007,Butte,06089,Shasta,215
+2015,06007,Butte,06093,Siskiyou,13
+2015,06007,Butte,06095,Solano,58
+2015,06007,Butte,06097,Sonoma,70
+2015,06007,Butte,06101,Sutter,1330
+2015,06007,Butte,06103,Tehama,801
+2015,06007,Butte,06105,Trinity,25
+2015,06007,Butte,06113,Yolo,71
+2015,06007,Butte,06115,Yuba,1094
+2015,06009,Calaveras,06001,Alameda,341
+2015,06009,Calaveras,06003,Alpine,74
+2015,06009,Calaveras,06005,Amador,1080
+2015,06009,Calaveras,06009,Calaveras,8886
+2015,06009,Calaveras,06013,Contra Costa,102
+2015,06009,Calaveras,06041,Marin,17
+2015,06009,Calaveras,06047,Merced,5
+2015,06009,Calaveras,06055,Napa,44
+2015,06009,Calaveras,06063,Plumas,14
+2015,06009,Calaveras,06067,Sacramento,608
+2015,06009,Calaveras,06075,San Francisco,40
+2015,06009,Calaveras,06077,San Joaquin,2268
+2015,06009,Calaveras,06081,San Mateo,94
+2015,06009,Calaveras,06085,Santa Clara,155
+2015,06009,Calaveras,06087,Santa Cruz,25
+2015,06009,Calaveras,06089,Shasta,38
+2015,06009,Calaveras,06093,Siskiyou,12
+2015,06009,Calaveras,06095,Solano,13
+2015,06009,Calaveras,06097,Sonoma,17
+2015,06009,Calaveras,06099,Stanislaus,524
+2015,06009,Calaveras,06109,Tuolumne,1023
+2015,06009,Calaveras,06113,Yolo,81
+2015,06011,Colusa,06001,Alameda,6
+2015,06011,Colusa,06007,Butte,71
+2015,06011,Colusa,06011,Colusa,6624
+2015,06011,Colusa,06021,Glenn,280
+2015,06011,Colusa,06033,Lake,8
+2015,06011,Colusa,06053,Monterey,17
+2015,06011,Colusa,06061,Placer,23
+2015,06011,Colusa,06067,Sacramento,175
+2015,06011,Colusa,06081,San Mateo,4
+2015,06011,Colusa,06089,Shasta,14
+2015,06011,Colusa,06095,Solano,155
+2015,06011,Colusa,06097,Sonoma,32
+2015,06011,Colusa,06099,Stanislaus,2
+2015,06011,Colusa,06101,Sutter,240
+2015,06011,Colusa,06103,Tehama,8
+2015,06011,Colusa,06113,Yolo,787
+2015,06011,Colusa,06115,Yuba,120
+2015,06013,Contra Costa,06001,Alameda,100160
+2015,06013,Contra Costa,06005,Amador,8
+2015,06013,Contra Costa,06007,Butte,16
+2015,06013,Contra Costa,06009,Calaveras,19
+2015,06013,Contra Costa,06011,Colusa,12
+2015,06013,Contra Costa,06013,Contra Costa,283631
+2015,06013,Contra Costa,06017,El Dorado,77
+2015,06013,Contra Costa,06019,Fresno,22
+2015,06013,Contra Costa,06023,Humboldt,27
+2015,06013,Contra Costa,06029,Kern,10
+2015,06013,Contra Costa,06033,Lake,16
+2015,06013,Contra Costa,06037,Los Angeles,681
+2015,06013,Contra Costa,06039,Madera,21
+2015,06013,Contra Costa,06041,Marin,8564
+2015,06013,Contra Costa,06043,Mariposa,3
+2015,06013,Contra Costa,06045,Mendocino,54
+2015,06013,Contra Costa,06047,Merced,32
+2015,06013,Contra Costa,06051,Mono,8
+2015,06013,Contra Costa,06053,Monterey,330
+2015,06013,Contra Costa,06055,Napa,1653
+2015,06013,Contra Costa,06059,Orange,262
+2015,06013,Contra Costa,06061,Placer,88
+2015,06013,Contra Costa,06065,Riverside,34
+2015,06013,Contra Costa,06067,Sacramento,1687
+2015,06013,Contra Costa,06069,San Benito,11
+2015,06013,Contra Costa,06071,San Bernardino,111
+2015,06013,Contra Costa,06073,San Diego,194
+2015,06013,Contra Costa,06075,San Francisco,58089
+2015,06013,Contra Costa,06077,San Joaquin,2271
+2015,06013,Contra Costa,06079,San Luis Obispo,91
+2015,06013,Contra Costa,06081,San Mateo,11201
+2015,06013,Contra Costa,06083,Santa Barbara,44
+2015,06013,Contra Costa,06085,Santa Clara,14023
+2015,06013,Contra Costa,06087,Santa Cruz,219
+2015,06013,Contra Costa,06089,Shasta,32
+2015,06013,Contra Costa,06095,Solano,7534
+2015,06013,Contra Costa,06097,Sonoma,968
+2015,06013,Contra Costa,06099,Stanislaus,389
+2015,06013,Contra Costa,06101,Sutter,10
+2015,06013,Contra Costa,06103,Tehama,15
+2015,06013,Contra Costa,06109,Tuolumne,7
+2015,06013,Contra Costa,06111,Ventura,15
+2015,06013,Contra Costa,06113,Yolo,788
+2015,06015,Del Norte,06007,Butte,6
+2015,06015,Del Norte,06015,Del Norte,7619
+2015,06015,Del Norte,06019,Fresno,11
+2015,06015,Del Norte,06023,Humboldt,58
+2015,06015,Del Norte,06037,Los Angeles,8
+2015,06015,Del Norte,06059,Orange,14
+2015,06015,Del Norte,06085,Santa Clara,7
+2015,06015,Del Norte,06093,Siskiyou,16
+2015,06017,El Dorado,06001,Alameda,203
+2015,06017,El Dorado,06003,Alpine,140
+2015,06017,El Dorado,06005,Amador,450
+2015,06017,El Dorado,06007,Butte,11
+2015,06017,El Dorado,06009,Calaveras,11
+2015,06017,El Dorado,06013,Contra Costa,183
+2015,06017,El Dorado,06017,El Dorado,43057
+2015,06017,El Dorado,06019,Fresno,136
+2015,06017,El Dorado,06023,Humboldt,89
+2015,06017,El Dorado,06029,Kern,19
+2015,06017,El Dorado,06035,Lassen,6
+2015,06017,El Dorado,06037,Los Angeles,146
+2015,06017,El Dorado,06041,Marin,103
+2015,06017,El Dorado,06047,Merced,23
+2015,06017,El Dorado,06051,Mono,24
+2015,06017,El Dorado,06053,Monterey,50
+2015,06017,El Dorado,06055,Napa,86
+2015,06017,El Dorado,06057,Nevada,271
+2015,06017,El Dorado,06059,Orange,34
+2015,06017,El Dorado,06061,Placer,3788
+2015,06017,El Dorado,06065,Riverside,22
+2015,06017,El Dorado,06067,Sacramento,21424
+2015,06017,El Dorado,06071,San Bernardino,38
+2015,06017,El Dorado,06073,San Diego,12
+2015,06017,El Dorado,06075,San Francisco,300
+2015,06017,El Dorado,06077,San Joaquin,329
+2015,06017,El Dorado,06081,San Mateo,216
+2015,06017,El Dorado,06085,Santa Clara,486
+2015,06017,El Dorado,06087,Santa Cruz,24
+2015,06017,El Dorado,06089,Shasta,28
+2015,06017,El Dorado,06095,Solano,419
+2015,06017,El Dorado,06097,Sonoma,41
+2015,06017,El Dorado,06099,Stanislaus,2
+2015,06017,El Dorado,06101,Sutter,41
+2015,06017,El Dorado,06109,Tuolumne,18
+2015,06017,El Dorado,06111,Ventura,41
+2015,06017,El Dorado,06113,Yolo,1026
+2015,06017,El Dorado,06115,Yuba,70
+2015,06019,Fresno,06001,Alameda,256
+2015,06019,Fresno,06005,Amador,6
+2015,06019,Fresno,06007,Butte,29
+2015,06019,Fresno,06009,Calaveras,7
+2015,06019,Fresno,06011,Colusa,11
+2015,06019,Fresno,06013,Contra Costa,57
+2015,06019,Fresno,06017,El Dorado,19
+2015,06019,Fresno,06019,Fresno,328904
+2015,06019,Fresno,06023,Humboldt,9
+2015,06019,Fresno,06025,Imperial,41
+2015,06019,Fresno,06029,Kern,1092
+2015,06019,Fresno,06031,Kings,5012
+2015,06019,Fresno,06033,Lake,13
+2015,06019,Fresno,06035,Lassen,13
+2015,06019,Fresno,06037,Los Angeles,758
+2015,06019,Fresno,06039,Madera,10446
+2015,06019,Fresno,06043,Mariposa,113
+2015,06019,Fresno,06047,Merced,843
+2015,06019,Fresno,06053,Monterey,528
+2015,06019,Fresno,06055,Napa,25
+2015,06019,Fresno,06057,Nevada,19
+2015,06019,Fresno,06059,Orange,187
+2015,06019,Fresno,06061,Placer,26
+2015,06019,Fresno,06065,Riverside,56
+2015,06019,Fresno,06067,Sacramento,284
+2015,06019,Fresno,06069,San Benito,34
+2015,06019,Fresno,06071,San Bernardino,24
+2015,06019,Fresno,06073,San Diego,49
+2015,06019,Fresno,06075,San Francisco,74
+2015,06019,Fresno,06077,San Joaquin,748
+2015,06019,Fresno,06079,San Luis Obispo,200
+2015,06019,Fresno,06081,San Mateo,165
+2015,06019,Fresno,06083,Santa Barbara,79
+2015,06019,Fresno,06085,Santa Clara,516
+2015,06019,Fresno,06087,Santa Cruz,76
+2015,06019,Fresno,06089,Shasta,120
+2015,06019,Fresno,06095,Solano,67
+2015,06019,Fresno,06097,Sonoma,64
+2015,06019,Fresno,06099,Stanislaus,488
+2015,06019,Fresno,06101,Sutter,10
+2015,06019,Fresno,06107,Tulare,7650
+2015,06019,Fresno,06109,Tuolumne,89
+2015,06019,Fresno,06111,Ventura,37
+2015,06019,Fresno,06113,Yolo,26
+2015,06019,Fresno,06115,Yuba,6
+2015,06021,Glenn,06001,Alameda,34
+2015,06021,Glenn,06005,Amador,9
+2015,06021,Glenn,06007,Butte,1862
+2015,06021,Glenn,06011,Colusa,406
+2015,06021,Glenn,06013,Contra Costa,9
+2015,06021,Glenn,06021,Glenn,6784
+2015,06021,Glenn,06023,Humboldt,1
+2015,06021,Glenn,06029,Kern,25
+2015,06021,Glenn,06037,Los Angeles,3
+2015,06021,Glenn,06045,Mendocino,16
+2015,06021,Glenn,06063,Plumas,8
+2015,06021,Glenn,06067,Sacramento,8
+2015,06021,Glenn,06075,San Francisco,2
+2015,06021,Glenn,06089,Shasta,109
+2015,06021,Glenn,06093,Siskiyou,3
+2015,06021,Glenn,06095,Solano,21
+2015,06021,Glenn,06099,Stanislaus,2
+2015,06021,Glenn,06101,Sutter,33
+2015,06021,Glenn,06103,Tehama,592
+2015,06021,Glenn,06113,Yolo,112
+2015,06023,Humboldt,06001,Alameda,42
+2015,06023,Humboldt,06013,Contra Costa,19
+2015,06023,Humboldt,06015,Del Norte,214
+2015,06023,Humboldt,06019,Fresno,2
+2015,06023,Humboldt,06023,Humboldt,55376
+2015,06023,Humboldt,06029,Kern,39
+2015,06023,Humboldt,06033,Lake,33
+2015,06023,Humboldt,06037,Los Angeles,69
+2015,06023,Humboldt,06039,Madera,1
+2015,06023,Humboldt,06045,Mendocino,19
+2015,06023,Humboldt,06049,Modoc,6
+2015,06023,Humboldt,06059,Orange,4
+2015,06023,Humboldt,06065,Riverside,13
+2015,06023,Humboldt,06067,Sacramento,42
+2015,06023,Humboldt,06075,San Francisco,46
+2015,06023,Humboldt,06077,San Joaquin,8
+2015,06023,Humboldt,06081,San Mateo,15
+2015,06023,Humboldt,06083,Santa Barbara,7
+2015,06023,Humboldt,06095,Solano,1
+2015,06023,Humboldt,06097,Sonoma,88
+2015,06023,Humboldt,06101,Sutter,18
+2015,06023,Humboldt,06105,Trinity,172
+2015,06023,Humboldt,06115,Yuba,18
+2015,06025,Imperial,06013,Contra Costa,9
+2015,06025,Imperial,06019,Fresno,142
+2015,06025,Imperial,06025,Imperial,52807
+2015,06025,Imperial,06029,Kern,69
+2015,06025,Imperial,06031,Kings,8
+2015,06025,Imperial,06037,Los Angeles,167
+2015,06025,Imperial,06053,Monterey,30
+2015,06025,Imperial,06059,Orange,10
+2015,06025,Imperial,06065,Riverside,1576
+2015,06025,Imperial,06067,Sacramento,23
+2015,06025,Imperial,06071,San Bernardino,126
+2015,06025,Imperial,06073,San Diego,904
+2015,06025,Imperial,06077,San Joaquin,17
+2015,06025,Imperial,06081,San Mateo,6
+2015,06025,Imperial,06085,Santa Clara,2
+2015,06025,Imperial,06087,Santa Cruz,31
+2015,06025,Imperial,06099,Stanislaus,43
+2015,06025,Imperial,06115,Yuba,5
+2015,06027,Inyo,06027,Inyo,7378
+2015,06027,Inyo,06029,Kern,45
+2015,06027,Inyo,06037,Los Angeles,14
+2015,06027,Inyo,06051,Mono,618
+2015,06027,Inyo,06059,Orange,9
+2015,06027,Inyo,06071,San Bernardino,9
+2015,06027,Inyo,06111,Ventura,1
+2015,06029,Kern,06001,Alameda,68
+2015,06029,Kern,06007,Butte,58
+2015,06029,Kern,06013,Contra Costa,61
+2015,06029,Kern,06019,Fresno,432
+2015,06029,Kern,06021,Glenn,28
+2015,06029,Kern,06023,Humboldt,12
+2015,06029,Kern,06025,Imperial,15
+2015,06029,Kern,06027,Inyo,302
+2015,06029,Kern,06029,Kern,301472
+2015,06029,Kern,06031,Kings,481
+2015,06029,Kern,06037,Los Angeles,8922
+2015,06029,Kern,06039,Madera,95
+2015,06029,Kern,06041,Marin,18
+2015,06029,Kern,06051,Mono,7
+2015,06029,Kern,06053,Monterey,183
+2015,06029,Kern,06059,Orange,382
+2015,06029,Kern,06063,Plumas,30
+2015,06029,Kern,06065,Riverside,119
+2015,06029,Kern,06067,Sacramento,161
+2015,06029,Kern,06069,San Benito,16
+2015,06029,Kern,06071,San Bernardino,851
+2015,06029,Kern,06073,San Diego,260
+2015,06029,Kern,06075,San Francisco,49
+2015,06029,Kern,06077,San Joaquin,106
+2015,06029,Kern,06079,San Luis Obispo,232
+2015,06029,Kern,06081,San Mateo,9
+2015,06029,Kern,06083,Santa Barbara,421
+2015,06029,Kern,06085,Santa Clara,107
+2015,06029,Kern,06087,Santa Cruz,37
+2015,06029,Kern,06089,Shasta,19
+2015,06029,Kern,06095,Solano,38
+2015,06029,Kern,06099,Stanislaus,22
+2015,06029,Kern,06103,Tehama,15
+2015,06029,Kern,06107,Tulare,2998
+2015,06029,Kern,06111,Ventura,539
+2015,06031,Kings,06013,Contra Costa,20
+2015,06031,Kings,06019,Fresno,5695
+2015,06031,Kings,06025,Imperial,8
+2015,06031,Kings,06029,Kern,921
+2015,06031,Kings,06031,Kings,41634
+2015,06031,Kings,06037,Los Angeles,134
+2015,06031,Kings,06039,Madera,283
+2015,06031,Kings,06047,Merced,7
+2015,06031,Kings,06053,Monterey,17
+2015,06031,Kings,06059,Orange,19
+2015,06031,Kings,06067,Sacramento,7
+2015,06031,Kings,06071,San Bernardino,12
+2015,06031,Kings,06073,San Diego,103
+2015,06031,Kings,06075,San Francisco,19
+2015,06031,Kings,06077,San Joaquin,33
+2015,06031,Kings,06079,San Luis Obispo,476
+2015,06031,Kings,06081,San Mateo,10
+2015,06031,Kings,06083,Santa Barbara,14
+2015,06031,Kings,06085,Santa Clara,64
+2015,06031,Kings,06097,Sonoma,40
+2015,06031,Kings,06099,Stanislaus,93
+2015,06031,Kings,06107,Tulare,3835
+2015,06031,Kings,06111,Ventura,26
+2015,06033,Lake,06001,Alameda,99
+2015,06033,Lake,06011,Colusa,23
+2015,06033,Lake,06013,Contra Costa,34
+2015,06033,Lake,06017,El Dorado,22
+2015,06033,Lake,06023,Humboldt,7
+2015,06033,Lake,06029,Kern,15
+2015,06033,Lake,06033,Lake,16885
+2015,06033,Lake,06041,Marin,77
+2015,06033,Lake,06045,Mendocino,1247
+2015,06033,Lake,06047,Merced,84
+2015,06033,Lake,06055,Napa,1686
+2015,06033,Lake,06057,Nevada,26
+2015,06033,Lake,06067,Sacramento,39
+2015,06033,Lake,06075,San Francisco,120
+2015,06033,Lake,06077,San Joaquin,10
+2015,06033,Lake,06081,San Mateo,59
+2015,06033,Lake,06085,Santa Clara,19
+2015,06033,Lake,06095,Solano,39
+2015,06033,Lake,06097,Sonoma,1244
+2015,06033,Lake,06113,Yolo,123
+2015,06035,Lassen,06001,Alameda,4
+2015,06035,Lassen,06007,Butte,10
+2015,06035,Lassen,06035,Lassen,8113
+2015,06035,Lassen,06041,Marin,12
+2015,06035,Lassen,06049,Modoc,92
+2015,06035,Lassen,06055,Napa,6
+2015,06035,Lassen,06063,Plumas,285
+2015,06035,Lassen,06067,Sacramento,5
+2015,06035,Lassen,06075,San Francisco,3
+2015,06035,Lassen,06077,San Joaquin,8
+2015,06035,Lassen,06089,Shasta,110
+2015,06035,Lassen,06093,Siskiyou,13
+2015,06037,Los Angeles,06001,Alameda,1003
+2015,06037,Los Angeles,06005,Amador,11
+2015,06037,Los Angeles,06007,Butte,61
+2015,06037,Los Angeles,06009,Calaveras,33
+2015,06037,Los Angeles,06011,Colusa,13
+2015,06037,Los Angeles,06013,Contra Costa,360
+2015,06037,Los Angeles,06017,El Dorado,133
+2015,06037,Los Angeles,06019,Fresno,502
+2015,06037,Los Angeles,06023,Humboldt,178
+2015,06037,Los Angeles,06025,Imperial,212
+2015,06037,Los Angeles,06027,Inyo,101
+2015,06037,Los Angeles,06029,Kern,7522
+2015,06037,Los Angeles,06031,Kings,86
+2015,06037,Los Angeles,06033,Lake,115
+2015,06037,Los Angeles,06037,Los Angeles,4181968
+2015,06037,Los Angeles,06039,Madera,73
+2015,06037,Los Angeles,06041,Marin,153
+2015,06037,Los Angeles,06043,Mariposa,16
+2015,06037,Los Angeles,06045,Mendocino,45
+2015,06037,Los Angeles,06047,Merced,175
+2015,06037,Los Angeles,06051,Mono,88
+2015,06037,Los Angeles,06053,Monterey,501
+2015,06037,Los Angeles,06055,Napa,56
+2015,06037,Los Angeles,06057,Nevada,67
+2015,06037,Los Angeles,06059,Orange,185878
+2015,06037,Los Angeles,06061,Placer,159
+2015,06037,Los Angeles,06063,Plumas,32
+2015,06037,Los Angeles,06065,Riverside,14020
+2015,06037,Los Angeles,06067,Sacramento,651
+2015,06037,Los Angeles,06069,San Benito,36
+2015,06037,Los Angeles,06071,San Bernardino,54570
+2015,06037,Los Angeles,06073,San Diego,5530
+2015,06037,Los Angeles,06075,San Francisco,1420
+2015,06037,Los Angeles,06077,San Joaquin,175
+2015,06037,Los Angeles,06079,San Luis Obispo,215
+2015,06037,Los Angeles,06081,San Mateo,682
+2015,06037,Los Angeles,06083,Santa Barbara,2098
+2015,06037,Los Angeles,06085,Santa Clara,1426
+2015,06037,Los Angeles,06087,Santa Cruz,129
+2015,06037,Los Angeles,06089,Shasta,16
+2015,06037,Los Angeles,06091,Sierra,4
+2015,06037,Los Angeles,06093,Siskiyou,8
+2015,06037,Los Angeles,06095,Solano,64
+2015,06037,Los Angeles,06097,Sonoma,267
+2015,06037,Los Angeles,06099,Stanislaus,182
+2015,06037,Los Angeles,06103,Tehama,10
+2015,06037,Los Angeles,06107,Tulare,298
+2015,06037,Los Angeles,06109,Tuolumne,17
+2015,06037,Los Angeles,06111,Ventura,36952
+2015,06037,Los Angeles,06113,Yolo,129
+2015,06037,Los Angeles,06115,Yuba,19
+2015,06039,Madera,06001,Alameda,29
+2015,06039,Madera,06013,Contra Costa,18
+2015,06039,Madera,06017,El Dorado,15
+2015,06039,Madera,06019,Fresno,9859
+2015,06039,Madera,06029,Kern,87
+2015,06039,Madera,06031,Kings,35
+2015,06039,Madera,06035,Lassen,5
+2015,06039,Madera,06037,Los Angeles,110
+2015,06039,Madera,06039,Madera,30551
+2015,06039,Madera,06043,Mariposa,446
+2015,06039,Madera,06047,Merced,1425
+2015,06039,Madera,06051,Mono,19
+2015,06039,Madera,06053,Monterey,50
+2015,06039,Madera,06059,Orange,37
+2015,06039,Madera,06061,Placer,38
+2015,06039,Madera,06067,Sacramento,186
+2015,06039,Madera,06069,San Benito,66
+2015,06039,Madera,06071,San Bernardino,11
+2015,06039,Madera,06073,San Diego,13
+2015,06039,Madera,06075,San Francisco,56
+2015,06039,Madera,06077,San Joaquin,59
+2015,06039,Madera,06079,San Luis Obispo,83
+2015,06039,Madera,06081,San Mateo,62
+2015,06039,Madera,06085,Santa Clara,155
+2015,06039,Madera,06087,Santa Cruz,87
+2015,06039,Madera,06099,Stanislaus,351
+2015,06039,Madera,06103,Tehama,27
+2015,06039,Madera,06107,Tulare,101
+2015,06039,Madera,06109,Tuolumne,15
+2015,06039,Madera,06113,Yolo,23
+2015,06041,Marin,06001,Alameda,4052
+2015,06041,Marin,06013,Contra Costa,1957
+2015,06041,Marin,06019,Fresno,59
+2015,06041,Marin,06023,Humboldt,40
+2015,06041,Marin,06033,Lake,28
+2015,06041,Marin,06037,Los Angeles,193
+2015,06041,Marin,06041,Marin,81726
+2015,06041,Marin,06045,Mendocino,57
+2015,06041,Marin,06055,Napa,476
+2015,06041,Marin,06057,Nevada,8
+2015,06041,Marin,06059,Orange,50
+2015,06041,Marin,06061,Placer,62
+2015,06041,Marin,06067,Sacramento,38
+2015,06041,Marin,06071,San Bernardino,22
+2015,06041,Marin,06073,San Diego,27
+2015,06041,Marin,06075,San Francisco,27614
+2015,06041,Marin,06077,San Joaquin,11
+2015,06041,Marin,06081,San Mateo,2485
+2015,06041,Marin,06085,Santa Clara,1097
+2015,06041,Marin,06087,Santa Cruz,45
+2015,06041,Marin,06095,Solano,472
+2015,06041,Marin,06097,Sonoma,4387
+2015,06041,Marin,06099,Stanislaus,37
+2015,06041,Marin,06101,Sutter,18
+2015,06041,Marin,06113,Yolo,29
+2015,06043,Mariposa,06001,Alameda,36
+2015,06043,Mariposa,06013,Contra Costa,35
+2015,06043,Mariposa,06019,Fresno,232
+2015,06043,Mariposa,06037,Los Angeles,6
+2015,06043,Mariposa,06039,Madera,272
+2015,06043,Mariposa,06043,Mariposa,5096
+2015,06043,Mariposa,06047,Merced,401
+2015,06043,Mariposa,06053,Monterey,44
+2015,06043,Mariposa,06061,Placer,14
+2015,06043,Mariposa,06073,San Diego,10
+2015,06043,Mariposa,06075,San Francisco,24
+2015,06043,Mariposa,06077,San Joaquin,37
+2015,06043,Mariposa,06085,Santa Clara,93
+2015,06043,Mariposa,06099,Stanislaus,322
+2015,06043,Mariposa,06109,Tuolumne,408
+2015,06045,Mendocino,06001,Alameda,59
+2015,06045,Mendocino,06007,Butte,33
+2015,06045,Mendocino,06013,Contra Costa,120
+2015,06045,Mendocino,06015,Del Norte,17
+2015,06045,Mendocino,06023,Humboldt,108
+2015,06045,Mendocino,06033,Lake,329
+2015,06045,Mendocino,06037,Los Angeles,25
+2015,06045,Mendocino,06041,Marin,223
+2015,06045,Mendocino,06045,Mendocino,33177
+2015,06045,Mendocino,06055,Napa,34
+2015,06045,Mendocino,06067,Sacramento,50
+2015,06045,Mendocino,06071,San Bernardino,56
+2015,06045,Mendocino,06073,San Diego,24
+2015,06045,Mendocino,06075,San Francisco,134
+2015,06045,Mendocino,06079,San Luis Obispo,89
+2015,06045,Mendocino,06081,San Mateo,35
+2015,06045,Mendocino,06085,Santa Clara,32
+2015,06045,Mendocino,06087,Santa Cruz,17
+2015,06045,Mendocino,06089,Shasta,18
+2015,06045,Mendocino,06095,Solano,25
+2015,06045,Mendocino,06097,Sonoma,848
+2015,06045,Mendocino,06101,Sutter,41
+2015,06045,Mendocino,06105,Trinity,40
+2015,06045,Mendocino,06113,Yolo,2
+2015,06047,Merced,06001,Alameda,966
+2015,06047,Merced,06007,Butte,13
+2015,06047,Merced,06009,Calaveras,4
+2015,06047,Merced,06013,Contra Costa,111
+2015,06047,Merced,06017,El Dorado,4
+2015,06047,Merced,06019,Fresno,1857
+2015,06047,Merced,06023,Humboldt,18
+2015,06047,Merced,06029,Kern,38
+2015,06047,Merced,06031,Kings,5
+2015,06047,Merced,06037,Los Angeles,178
+2015,06047,Merced,06039,Madera,1667
+2015,06047,Merced,06041,Marin,18
+2015,06047,Merced,06043,Mariposa,98
+2015,06047,Merced,06047,Merced,68122
+2015,06047,Merced,06053,Monterey,303
+2015,06047,Merced,06055,Napa,18
+2015,06047,Merced,06057,Nevada,41
+2015,06047,Merced,06061,Placer,45
+2015,06047,Merced,06065,Riverside,5
+2015,06047,Merced,06067,Sacramento,173
+2015,06047,Merced,06069,San Benito,1030
+2015,06047,Merced,06071,San Bernardino,25
+2015,06047,Merced,06073,San Diego,42
+2015,06047,Merced,06075,San Francisco,233
+2015,06047,Merced,06077,San Joaquin,1490
+2015,06047,Merced,06079,San Luis Obispo,47
+2015,06047,Merced,06081,San Mateo,252
+2015,06047,Merced,06083,Santa Barbara,13
+2015,06047,Merced,06085,Santa Clara,4259
+2015,06047,Merced,06087,Santa Cruz,240
+2015,06047,Merced,06089,Shasta,66
+2015,06047,Merced,06095,Solano,102
+2015,06047,Merced,06099,Stanislaus,11195
+2015,06047,Merced,06107,Tulare,157
+2015,06047,Merced,06109,Tuolumne,78
+2015,06047,Merced,06111,Ventura,15
+2015,06047,Merced,06113,Yolo,63
+2015,06049,Modoc,06007,Butte,2
+2015,06049,Modoc,06035,Lassen,48
+2015,06049,Modoc,06043,Mariposa,12
+2015,06049,Modoc,06049,Modoc,2612
+2015,06049,Modoc,06067,Sacramento,5
+2015,06049,Modoc,06081,San Mateo,18
+2015,06049,Modoc,06089,Shasta,65
+2015,06049,Modoc,06093,Siskiyou,223
+2015,06049,Modoc,06101,Sutter,6
+2015,06049,Modoc,06113,Yolo,1
+2015,06051,Mono,06017,El Dorado,8
+2015,06051,Mono,06027,Inyo,357
+2015,06051,Mono,06029,Kern,47
+2015,06051,Mono,06031,Kings,6
+2015,06051,Mono,06037,Los Angeles,93
+2015,06051,Mono,06051,Mono,6418
+2015,06051,Mono,06059,Orange,18
+2015,06051,Mono,06111,Ventura,7
+2015,06053,Monterey,06001,Alameda,404
+2015,06053,Monterey,06013,Contra Costa,147
+2015,06053,Monterey,06017,El Dorado,13
+2015,06053,Monterey,06019,Fresno,193
+2015,06053,Monterey,06025,Imperial,33
+2015,06053,Monterey,06029,Kern,55
+2015,06053,Monterey,06037,Los Angeles,191
+2015,06053,Monterey,06039,Madera,7
+2015,06053,Monterey,06041,Marin,24
+2015,06053,Monterey,06047,Merced,23
+2015,06053,Monterey,06053,Monterey,159094
+2015,06053,Monterey,06059,Orange,84
+2015,06053,Monterey,06061,Placer,4
+2015,06053,Monterey,06065,Riverside,2
+2015,06053,Monterey,06067,Sacramento,51
+2015,06053,Monterey,06069,San Benito,1949
+2015,06053,Monterey,06071,San Bernardino,16
+2015,06053,Monterey,06073,San Diego,30
+2015,06053,Monterey,06075,San Francisco,156
+2015,06053,Monterey,06077,San Joaquin,43
+2015,06053,Monterey,06079,San Luis Obispo,695
+2015,06053,Monterey,06081,San Mateo,461
+2015,06053,Monterey,06083,Santa Barbara,13
+2015,06053,Monterey,06085,Santa Clara,5200
+2015,06053,Monterey,06087,Santa Cruz,9640
+2015,06053,Monterey,06095,Solano,6
+2015,06053,Monterey,06097,Sonoma,23
+2015,06053,Monterey,06099,Stanislaus,23
+2015,06053,Monterey,06111,Ventura,6
+2015,06053,Monterey,06113,Yolo,103
+2015,06055,Napa,06001,Alameda,1047
+2015,06055,Napa,06007,Butte,22
+2015,06055,Napa,06011,Colusa,11
+2015,06055,Napa,06013,Contra Costa,1873
+2015,06055,Napa,06019,Fresno,12
+2015,06055,Napa,06023,Humboldt,4
+2015,06055,Napa,06033,Lake,65
+2015,06055,Napa,06037,Los Angeles,48
+2015,06055,Napa,06039,Madera,13
+2015,06055,Napa,06041,Marin,1312
+2015,06055,Napa,06045,Mendocino,36
+2015,06055,Napa,06047,Merced,23
+2015,06055,Napa,06053,Monterey,8
+2015,06055,Napa,06055,Napa,51743
+2015,06055,Napa,06057,Nevada,16
+2015,06055,Napa,06059,Orange,11
+2015,06055,Napa,06061,Placer,42
+2015,06055,Napa,06065,Riverside,13
+2015,06055,Napa,06067,Sacramento,370
+2015,06055,Napa,06073,San Diego,27
+2015,06055,Napa,06075,San Francisco,1788
+2015,06055,Napa,06077,San Joaquin,87
+2015,06055,Napa,06079,San Luis Obispo,46
+2015,06055,Napa,06081,San Mateo,525
+2015,06055,Napa,06085,Santa Clara,460
+2015,06055,Napa,06087,Santa Cruz,10
+2015,06055,Napa,06095,Solano,4422
+2015,06055,Napa,06097,Sonoma,2423
+2015,06055,Napa,06099,Stanislaus,17
+2015,06055,Napa,06105,Trinity,84
+2015,06055,Napa,06107,Tulare,25
+2015,06055,Napa,06113,Yolo,189
+2015,06057,Nevada,06001,Alameda,205
+2015,06057,Nevada,06005,Amador,54
+2015,06057,Nevada,06007,Butte,163
+2015,06057,Nevada,06013,Contra Costa,77
+2015,06057,Nevada,06017,El Dorado,132
+2015,06057,Nevada,06019,Fresno,138
+2015,06057,Nevada,06021,Glenn,12
+2015,06057,Nevada,06023,Humboldt,9
+2015,06057,Nevada,06037,Los Angeles,8
+2015,06057,Nevada,06041,Marin,64
+2015,06057,Nevada,06045,Mendocino,14
+2015,06057,Nevada,06055,Napa,9
+2015,06057,Nevada,06057,Nevada,29668
+2015,06057,Nevada,06059,Orange,63
+2015,06057,Nevada,06061,Placer,5139
+2015,06057,Nevada,06063,Plumas,17
+2015,06057,Nevada,06065,Riverside,4
+2015,06057,Nevada,06067,Sacramento,1486
+2015,06057,Nevada,06071,San Bernardino,2
+2015,06057,Nevada,06073,San Diego,45
+2015,06057,Nevada,06075,San Francisco,98
+2015,06057,Nevada,06081,San Mateo,185
+2015,06057,Nevada,06083,Santa Barbara,22
+2015,06057,Nevada,06085,Santa Clara,282
+2015,06057,Nevada,06087,Santa Cruz,11
+2015,06057,Nevada,06091,Sierra,27
+2015,06057,Nevada,06095,Solano,104
+2015,06057,Nevada,06097,Sonoma,5
+2015,06057,Nevada,06101,Sutter,172
+2015,06057,Nevada,06107,Tulare,6
+2015,06057,Nevada,06109,Tuolumne,7
+2015,06057,Nevada,06113,Yolo,61
+2015,06057,Nevada,06115,Yuba,980
+2015,06059,Orange,06001,Alameda,485
+2015,06059,Orange,06003,Alpine,14
+2015,06059,Orange,06007,Butte,41
+2015,06059,Orange,06009,Calaveras,31
+2015,06059,Orange,06013,Contra Costa,85
+2015,06059,Orange,06019,Fresno,77
+2015,06059,Orange,06023,Humboldt,25
+2015,06059,Orange,06025,Imperial,90
+2015,06059,Orange,06029,Kern,408
+2015,06059,Orange,06031,Kings,45
+2015,06059,Orange,06037,Los Angeles,185058
+2015,06059,Orange,06041,Marin,35
+2015,06059,Orange,06047,Merced,3
+2015,06059,Orange,06051,Mono,26
+2015,06059,Orange,06053,Monterey,47
+2015,06059,Orange,06055,Napa,16
+2015,06059,Orange,06057,Nevada,7
+2015,06059,Orange,06059,Orange,1242588
+2015,06059,Orange,06061,Placer,21
+2015,06059,Orange,06063,Plumas,24
+2015,06059,Orange,06065,Riverside,14166
+2015,06059,Orange,06067,Sacramento,254
+2015,06059,Orange,06071,San Bernardino,13538
+2015,06059,Orange,06073,San Diego,10828
+2015,06059,Orange,06075,San Francisco,357
+2015,06059,Orange,06077,San Joaquin,16
+2015,06059,Orange,06079,San Luis Obispo,144
+2015,06059,Orange,06081,San Mateo,336
+2015,06059,Orange,06083,Santa Barbara,449
+2015,06059,Orange,06085,Santa Clara,439
+2015,06059,Orange,06087,Santa Cruz,16
+2015,06059,Orange,06095,Solano,51
+2015,06059,Orange,06097,Sonoma,83
+2015,06059,Orange,06099,Stanislaus,86
+2015,06059,Orange,06107,Tulare,52
+2015,06059,Orange,06109,Tuolumne,11
+2015,06059,Orange,06111,Ventura,712
+2015,06059,Orange,06113,Yolo,13
+2015,06059,Orange,06115,Yuba,7
+2015,06061,Placer,06001,Alameda,627
+2015,06061,Placer,06005,Amador,61
+2015,06061,Placer,06007,Butte,173
+2015,06061,Placer,06011,Colusa,11
+2015,06061,Placer,06013,Contra Costa,486
+2015,06061,Placer,06015,Del Norte,2
+2015,06061,Placer,06017,El Dorado,1189
+2015,06061,Placer,06019,Fresno,98
+2015,06061,Placer,06023,Humboldt,28
+2015,06061,Placer,06027,Inyo,10
+2015,06061,Placer,06029,Kern,44
+2015,06061,Placer,06037,Los Angeles,238
+2015,06061,Placer,06041,Marin,110
+2015,06061,Placer,06045,Mendocino,20
+2015,06061,Placer,06047,Merced,63
+2015,06061,Placer,06053,Monterey,121
+2015,06061,Placer,06055,Napa,98
+2015,06061,Placer,06057,Nevada,2780
+2015,06061,Placer,06059,Orange,109
+2015,06061,Placer,06061,Placer,99291
+2015,06061,Placer,06063,Plumas,48
+2015,06061,Placer,06065,Riverside,15
+2015,06061,Placer,06067,Sacramento,42718
+2015,06061,Placer,06071,San Bernardino,65
+2015,06061,Placer,06073,San Diego,46
+2015,06061,Placer,06075,San Francisco,427
+2015,06061,Placer,06077,San Joaquin,346
+2015,06061,Placer,06079,San Luis Obispo,8
+2015,06061,Placer,06081,San Mateo,559
+2015,06061,Placer,06083,Santa Barbara,17
+2015,06061,Placer,06085,Santa Clara,829
+2015,06061,Placer,06087,Santa Cruz,31
+2015,06061,Placer,06089,Shasta,17
+2015,06061,Placer,06091,Sierra,37
+2015,06061,Placer,06095,Solano,1055
+2015,06061,Placer,06097,Sonoma,225
+2015,06061,Placer,06099,Stanislaus,50
+2015,06061,Placer,06101,Sutter,432
+2015,06061,Placer,06103,Tehama,31
+2015,06061,Placer,06107,Tulare,48
+2015,06061,Placer,06109,Tuolumne,22
+2015,06061,Placer,06111,Ventura,11
+2015,06061,Placer,06113,Yolo,3221
+2015,06061,Placer,06115,Yuba,2178
+2015,06063,Plumas,06005,Amador,15
+2015,06063,Plumas,06007,Butte,30
+2015,06063,Plumas,06017,El Dorado,33
+2015,06063,Plumas,06029,Kern,29
+2015,06063,Plumas,06035,Lassen,302
+2015,06063,Plumas,06037,Los Angeles,11
+2015,06063,Plumas,06041,Marin,5
+2015,06063,Plumas,06055,Napa,30
+2015,06063,Plumas,06057,Nevada,54
+2015,06063,Plumas,06061,Placer,38
+2015,06063,Plumas,06063,Plumas,6024
+2015,06063,Plumas,06067,Sacramento,58
+2015,06063,Plumas,06075,San Francisco,13
+2015,06063,Plumas,06081,San Mateo,4
+2015,06063,Plumas,06089,Shasta,5
+2015,06063,Plumas,06091,Sierra,18
+2015,06063,Plumas,06097,Sonoma,10
+2015,06063,Plumas,06101,Sutter,12
+2015,06063,Plumas,06113,Yolo,10
+2015,06065,Riverside,06001,Alameda,250
+2015,06065,Riverside,06007,Butte,9
+2015,06065,Riverside,06013,Contra Costa,90
+2015,06065,Riverside,06015,Del Norte,50
+2015,06065,Riverside,06017,El Dorado,59
+2015,06065,Riverside,06019,Fresno,243
+2015,06065,Riverside,06023,Humboldt,6
+2015,06065,Riverside,06025,Imperial,597
+2015,06065,Riverside,06027,Inyo,30
+2015,06065,Riverside,06029,Kern,355
+2015,06065,Riverside,06031,Kings,39
+2015,06065,Riverside,06035,Lassen,17
+2015,06065,Riverside,06037,Los Angeles,51975
+2015,06065,Riverside,06039,Madera,11
+2015,06065,Riverside,06041,Marin,45
+2015,06065,Riverside,06045,Mendocino,39
+2015,06065,Riverside,06047,Merced,1
+2015,06065,Riverside,06053,Monterey,74
+2015,06065,Riverside,06055,Napa,3
+2015,06065,Riverside,06059,Orange,73342
+2015,06065,Riverside,06061,Placer,37
+2015,06065,Riverside,06063,Plumas,14
+2015,06065,Riverside,06065,Riverside,622838
+2015,06065,Riverside,06067,Sacramento,279
+2015,06065,Riverside,06069,San Benito,12
+2015,06065,Riverside,06071,San Bernardino,97000
+2015,06065,Riverside,06073,San Diego,43613
+2015,06065,Riverside,06075,San Francisco,194
+2015,06065,Riverside,06077,San Joaquin,135
+2015,06065,Riverside,06079,San Luis Obispo,109
+2015,06065,Riverside,06081,San Mateo,210
+2015,06065,Riverside,06083,Santa Barbara,321
+2015,06065,Riverside,06085,Santa Clara,227
+2015,06065,Riverside,06087,Santa Cruz,19
+2015,06065,Riverside,06089,Shasta,13
+2015,06065,Riverside,06095,Solano,19
+2015,06065,Riverside,06099,Stanislaus,64
+2015,06065,Riverside,06101,Sutter,10
+2015,06065,Riverside,06103,Tehama,21
+2015,06065,Riverside,06105,Trinity,23
+2015,06065,Riverside,06107,Tulare,35
+2015,06065,Riverside,06109,Tuolumne,10
+2015,06065,Riverside,06111,Ventura,511
+2015,06065,Riverside,06115,Yuba,66
+2015,06067,Sacramento,06001,Alameda,2558
+2015,06067,Sacramento,06003,Alpine,5
+2015,06067,Sacramento,06005,Amador,1246
+2015,06067,Sacramento,06007,Butte,379
+2015,06067,Sacramento,06009,Calaveras,151
+2015,06067,Sacramento,06011,Colusa,70
+2015,06067,Sacramento,06013,Contra Costa,1992
+2015,06067,Sacramento,06015,Del Norte,33
+2015,06067,Sacramento,06017,El Dorado,8155
+2015,06067,Sacramento,06019,Fresno,231
+2015,06067,Sacramento,06021,Glenn,23
+2015,06067,Sacramento,06023,Humboldt,31
+2015,06067,Sacramento,06025,Imperial,48
+2015,06067,Sacramento,06027,Inyo,9
+2015,06067,Sacramento,06029,Kern,60
+2015,06067,Sacramento,06031,Kings,85
+2015,06067,Sacramento,06033,Lake,97
+2015,06067,Sacramento,06035,Lassen,22
+2015,06067,Sacramento,06037,Los Angeles,561
+2015,06067,Sacramento,06041,Marin,550
+2015,06067,Sacramento,06043,Mariposa,39
+2015,06067,Sacramento,06045,Mendocino,180
+2015,06067,Sacramento,06047,Merced,183
+2015,06067,Sacramento,06049,Modoc,4
+2015,06067,Sacramento,06053,Monterey,183
+2015,06067,Sacramento,06055,Napa,308
+2015,06067,Sacramento,06057,Nevada,292
+2015,06067,Sacramento,06059,Orange,300
+2015,06067,Sacramento,06061,Placer,39042
+2015,06067,Sacramento,06063,Plumas,8
+2015,06067,Sacramento,06065,Riverside,241
+2015,06067,Sacramento,06067,Sacramento,500834
+2015,06067,Sacramento,06071,San Bernardino,263
+2015,06067,Sacramento,06073,San Diego,148
+2015,06067,Sacramento,06075,San Francisco,2212
+2015,06067,Sacramento,06077,San Joaquin,10919
+2015,06067,Sacramento,06079,San Luis Obispo,67
+2015,06067,Sacramento,06081,San Mateo,940
+2015,06067,Sacramento,06083,Santa Barbara,7
+2015,06067,Sacramento,06085,Santa Clara,1801
+2015,06067,Sacramento,06087,Santa Cruz,56
+2015,06067,Sacramento,06089,Shasta,188
+2015,06067,Sacramento,06093,Siskiyou,38
+2015,06067,Sacramento,06095,Solano,5850
+2015,06067,Sacramento,06097,Sonoma,608
+2015,06067,Sacramento,06099,Stanislaus,666
+2015,06067,Sacramento,06101,Sutter,1038
+2015,06067,Sacramento,06103,Tehama,18
+2015,06067,Sacramento,06107,Tulare,92
+2015,06067,Sacramento,06109,Tuolumne,92
+2015,06067,Sacramento,06111,Ventura,49
+2015,06067,Sacramento,06113,Yolo,30077
+2015,06067,Sacramento,06115,Yuba,1112
+2015,06069,San Benito,06001,Alameda,185
+2015,06069,San Benito,06013,Contra Costa,74
+2015,06069,San Benito,06019,Fresno,6
+2015,06069,San Benito,06023,Humboldt,17
+2015,06069,San Benito,06037,Los Angeles,23
+2015,06069,San Benito,06041,Marin,12
+2015,06069,San Benito,06045,Mendocino,4
+2015,06069,San Benito,06047,Merced,63
+2015,06069,San Benito,06053,Monterey,2545
+2015,06069,San Benito,06065,Riverside,13
+2015,06069,San Benito,06067,Sacramento,32
+2015,06069,San Benito,06069,San Benito,11928
+2015,06069,San Benito,06075,San Francisco,83
+2015,06069,San Benito,06077,San Joaquin,28
+2015,06069,San Benito,06079,San Luis Obispo,6
+2015,06069,San Benito,06081,San Mateo,114
+2015,06069,San Benito,06085,Santa Clara,9030
+2015,06069,San Benito,06087,Santa Cruz,1038
+2015,06069,San Benito,06095,Solano,1
+2015,06069,San Benito,06097,Sonoma,52
+2015,06071,San Bernardino,06001,Alameda,243
+2015,06071,San Bernardino,06011,Colusa,11
+2015,06071,San Bernardino,06013,Contra Costa,140
+2015,06071,San Bernardino,06019,Fresno,62
+2015,06071,San Bernardino,06021,Glenn,12
+2015,06071,San Bernardino,06023,Humboldt,25
+2015,06071,San Bernardino,06025,Imperial,202
+2015,06071,San Bernardino,06027,Inyo,57
+2015,06071,San Bernardino,06029,Kern,1092
+2015,06071,San Bernardino,06031,Kings,21
+2015,06071,San Bernardino,06033,Lake,17
+2015,06071,San Bernardino,06037,Los Angeles,135859
+2015,06071,San Bernardino,06045,Mendocino,10
+2015,06071,San Bernardino,06047,Merced,10
+2015,06071,San Bernardino,06053,Monterey,137
+2015,06071,San Bernardino,06055,Napa,19
+2015,06071,San Bernardino,06057,Nevada,24
+2015,06071,San Bernardino,06059,Orange,35745
+2015,06071,San Bernardino,06061,Placer,41
+2015,06071,San Bernardino,06065,Riverside,64255
+2015,06071,San Bernardino,06067,Sacramento,265
+2015,06071,San Bernardino,06069,San Benito,58
+2015,06071,San Bernardino,06071,San Bernardino,569986
+2015,06071,San Bernardino,06073,San Diego,2420
+2015,06071,San Bernardino,06075,San Francisco,250
+2015,06071,San Bernardino,06077,San Joaquin,42
+2015,06071,San Bernardino,06079,San Luis Obispo,38
+2015,06071,San Bernardino,06081,San Mateo,88
+2015,06071,San Bernardino,06083,Santa Barbara,160
+2015,06071,San Bernardino,06085,Santa Clara,198
+2015,06071,San Bernardino,06087,Santa Cruz,30
+2015,06071,San Bernardino,06095,Solano,9
+2015,06071,San Bernardino,06097,Sonoma,64
+2015,06071,San Bernardino,06099,Stanislaus,53
+2015,06071,San Bernardino,06101,Sutter,14
+2015,06071,San Bernardino,06105,Trinity,17
+2015,06071,San Bernardino,06107,Tulare,53
+2015,06071,San Bernardino,06109,Tuolumne,6
+2015,06071,San Bernardino,06111,Ventura,501
+2015,06071,San Bernardino,06113,Yolo,62
+2015,06073,San Diego,06001,Alameda,249
+2015,06073,San Diego,06003,Alpine,87
+2015,06073,San Diego,06007,Butte,30
+2015,06073,San Diego,06009,Calaveras,7
+2015,06073,San Diego,06011,Colusa,18
+2015,06073,San Diego,06013,Contra Costa,67
+2015,06073,San Diego,06019,Fresno,58
+2015,06073,San Diego,06023,Humboldt,24
+2015,06073,San Diego,06025,Imperial,892
+2015,06073,San Diego,06027,Inyo,66
+2015,06073,San Diego,06029,Kern,356
+2015,06073,San Diego,06031,Kings,98
+2015,06073,San Diego,06033,Lake,6
+2015,06073,San Diego,06037,Los Angeles,7192
+2015,06073,San Diego,06041,Marin,18
+2015,06073,San Diego,06045,Mendocino,17
+2015,06073,San Diego,06047,Merced,9
+2015,06073,San Diego,06051,Mono,56
+2015,06073,San Diego,06053,Monterey,228
+2015,06073,San Diego,06055,Napa,15
+2015,06073,San Diego,06057,Nevada,29
+2015,06073,San Diego,06059,Orange,13290
+2015,06073,San Diego,06061,Placer,29
+2015,06073,San Diego,06065,Riverside,7053
+2015,06073,San Diego,06067,Sacramento,162
+2015,06073,San Diego,06071,San Bernardino,1171
+2015,06073,San Diego,06073,San Diego,1461502
+2015,06073,San Diego,06075,San Francisco,412
+2015,06073,San Diego,06077,San Joaquin,48
+2015,06073,San Diego,06079,San Luis Obispo,114
+2015,06073,San Diego,06081,San Mateo,268
+2015,06073,San Diego,06083,Santa Barbara,152
+2015,06073,San Diego,06085,Santa Clara,479
+2015,06073,San Diego,06095,Solano,103
+2015,06073,San Diego,06097,Sonoma,26
+2015,06073,San Diego,06099,Stanislaus,20
+2015,06073,San Diego,06101,Sutter,17
+2015,06073,San Diego,06107,Tulare,17
+2015,06073,San Diego,06111,Ventura,279
+2015,06073,San Diego,06113,Yolo,38
+2015,06075,San Francisco,06001,Alameda,21561
+2015,06075,San Francisco,06011,Colusa,38
+2015,06075,San Francisco,06013,Contra Costa,4116
+2015,06075,San Francisco,06017,El Dorado,24
+2015,06075,San Francisco,06019,Fresno,33
+2015,06075,San Francisco,06023,Humboldt,31
+2015,06075,San Francisco,06025,Imperial,11
+2015,06075,San Francisco,06031,Kings,13
+2015,06075,San Francisco,06035,Lassen,7
+2015,06075,San Francisco,06037,Los Angeles,371
+2015,06075,San Francisco,06041,Marin,6933
+2015,06075,San Francisco,06045,Mendocino,11
+2015,06075,San Francisco,06049,Modoc,6
+2015,06075,San Francisco,06055,Napa,321
+2015,06075,San Francisco,06059,Orange,82
+2015,06075,San Francisco,06061,Placer,99
+2015,06075,San Francisco,06065,Riverside,89
+2015,06075,San Francisco,06067,Sacramento,403
+2015,06075,San Francisco,06071,San Bernardino,48
+2015,06075,San Francisco,06073,San Diego,157
+2015,06075,San Francisco,06075,San Francisco,353484
+2015,06075,San Francisco,06077,San Joaquin,177
+2015,06075,San Francisco,06079,San Luis Obispo,33
+2015,06075,San Francisco,06081,San Mateo,48768
+2015,06075,San Francisco,06083,Santa Barbara,55
+2015,06075,San Francisco,06085,Santa Clara,27100
+2015,06075,San Francisco,06087,Santa Cruz,389
+2015,06075,San Francisco,06089,Shasta,18
+2015,06075,San Francisco,06095,Solano,506
+2015,06075,San Francisco,06097,Sonoma,990
+2015,06075,San Francisco,06099,Stanislaus,77
+2015,06075,San Francisco,06101,Sutter,12
+2015,06075,San Francisco,06103,Tehama,7
+2015,06075,San Francisco,06107,Tulare,17
+2015,06075,San Francisco,06109,Tuolumne,9
+2015,06075,San Francisco,06113,Yolo,162
+2015,06077,San Joaquin,06001,Alameda,26485
+2015,06077,San Joaquin,06005,Amador,702
+2015,06077,San Joaquin,06007,Butte,94
+2015,06077,San Joaquin,06009,Calaveras,505
+2015,06077,San Joaquin,06011,Colusa,85
+2015,06077,San Joaquin,06013,Contra Costa,5861
+2015,06077,San Joaquin,06017,El Dorado,181
+2015,06077,San Joaquin,06019,Fresno,369
+2015,06077,San Joaquin,06029,Kern,46
+2015,06077,San Joaquin,06031,Kings,7
+2015,06077,San Joaquin,06033,Lake,23
+2015,06077,San Joaquin,06037,Los Angeles,300
+2015,06077,San Joaquin,06039,Madera,92
+2015,06077,San Joaquin,06041,Marin,156
+2015,06077,San Joaquin,06043,Mariposa,9
+2015,06077,San Joaquin,06045,Mendocino,16
+2015,06077,San Joaquin,06047,Merced,363
+2015,06077,San Joaquin,06053,Monterey,136
+2015,06077,San Joaquin,06055,Napa,325
+2015,06077,San Joaquin,06057,Nevada,9
+2015,06077,San Joaquin,06059,Orange,166
+2015,06077,San Joaquin,06061,Placer,347
+2015,06077,San Joaquin,06063,Plumas,15
+2015,06077,San Joaquin,06065,Riverside,46
+2015,06077,San Joaquin,06067,Sacramento,8383
+2015,06077,San Joaquin,06069,San Benito,11
+2015,06077,San Joaquin,06071,San Bernardino,58
+2015,06077,San Joaquin,06073,San Diego,86
+2015,06077,San Joaquin,06075,San Francisco,2023
+2015,06077,San Joaquin,06077,San Joaquin,196952
+2015,06077,San Joaquin,06079,San Luis Obispo,6
+2015,06077,San Joaquin,06081,San Mateo,2040
+2015,06077,San Joaquin,06083,Santa Barbara,23
+2015,06077,San Joaquin,06085,Santa Clara,10075
+2015,06077,San Joaquin,06087,Santa Cruz,99
+2015,06077,San Joaquin,06089,Shasta,62
+2015,06077,San Joaquin,06093,Siskiyou,8
+2015,06077,San Joaquin,06095,Solano,1051
+2015,06077,San Joaquin,06097,Sonoma,197
+2015,06077,San Joaquin,06099,Stanislaus,12004
+2015,06077,San Joaquin,06101,Sutter,74
+2015,06077,San Joaquin,06103,Tehama,34
+2015,06077,San Joaquin,06107,Tulare,42
+2015,06077,San Joaquin,06109,Tuolumne,317
+2015,06077,San Joaquin,06113,Yolo,733
+2015,06079,San Luis Obispo,06001,Alameda,47
+2015,06079,San Luis Obispo,06007,Butte,16
+2015,06079,San Luis Obispo,06019,Fresno,260
+2015,06079,San Luis Obispo,06029,Kern,792
+2015,06079,San Luis Obispo,06031,Kings,182
+2015,06079,San Luis Obispo,06037,Los Angeles,631
+2015,06079,San Luis Obispo,06039,Madera,20
+2015,06079,San Luis Obispo,06041,Marin,19
+2015,06079,San Luis Obispo,06049,Modoc,42
+2015,06079,San Luis Obispo,06053,Monterey,1567
+2015,06079,San Luis Obispo,06059,Orange,83
+2015,06079,San Luis Obispo,06061,Placer,23
+2015,06079,San Luis Obispo,06067,Sacramento,153
+2015,06079,San Luis Obispo,06069,San Benito,13
+2015,06079,San Luis Obispo,06071,San Bernardino,25
+2015,06079,San Luis Obispo,06073,San Diego,54
+2015,06079,San Luis Obispo,06075,San Francisco,137
+2015,06079,San Luis Obispo,06077,San Joaquin,14
+2015,06079,San Luis Obispo,06079,San Luis Obispo,110495
+2015,06079,San Luis Obispo,06081,San Mateo,107
+2015,06079,San Luis Obispo,06083,Santa Barbara,8437
+2015,06079,San Luis Obispo,06085,Santa Clara,165
+2015,06079,San Luis Obispo,06097,Sonoma,21
+2015,06079,San Luis Obispo,06099,Stanislaus,17
+2015,06079,San Luis Obispo,06107,Tulare,190
+2015,06079,San Luis Obispo,06111,Ventura,111
+2015,06081,San Mateo,06001,Alameda,12423
+2015,06081,San Mateo,06007,Butte,29
+2015,06081,San Mateo,06013,Contra Costa,1916
+2015,06081,San Mateo,06019,Fresno,60
+2015,06081,San Mateo,06023,Humboldt,14
+2015,06081,San Mateo,06033,Lake,13
+2015,06081,San Mateo,06037,Los Angeles,340
+2015,06081,San Mateo,06039,Madera,13
+2015,06081,San Mateo,06041,Marin,1004
+2015,06081,San Mateo,06045,Mendocino,21
+2015,06081,San Mateo,06047,Merced,38
+2015,06081,San Mateo,06053,Monterey,72
+2015,06081,San Mateo,06055,Napa,114
+2015,06081,San Mateo,06057,Nevada,14
+2015,06081,San Mateo,06059,Orange,115
+2015,06081,San Mateo,06061,Placer,36
+2015,06081,San Mateo,06063,Plumas,53
+2015,06081,San Mateo,06065,Riverside,12
+2015,06081,San Mateo,06067,Sacramento,225
+2015,06081,San Mateo,06069,San Benito,25
+2015,06081,San Mateo,06071,San Bernardino,317
+2015,06081,San Mateo,06073,San Diego,233
+2015,06081,San Mateo,06075,San Francisco,81943
+2015,06081,San Mateo,06077,San Joaquin,47
+2015,06081,San Mateo,06081,San Mateo,218287
+2015,06081,San Mateo,06083,Santa Barbara,17
+2015,06081,San Mateo,06085,Santa Clara,58936
+2015,06081,San Mateo,06087,Santa Cruz,475
+2015,06081,San Mateo,06095,Solano,302
+2015,06081,San Mateo,06097,Sonoma,149
+2015,06081,San Mateo,06099,Stanislaus,31
+2015,06081,San Mateo,06107,Tulare,13
+2015,06081,San Mateo,06109,Tuolumne,22
+2015,06081,San Mateo,06111,Ventura,26
+2015,06081,San Mateo,06113,Yolo,35
+2015,06083,Santa Barbara,06001,Alameda,108
+2015,06083,Santa Barbara,06007,Butte,12
+2015,06083,Santa Barbara,06013,Contra Costa,73
+2015,06083,Santa Barbara,06019,Fresno,33
+2015,06083,Santa Barbara,06029,Kern,107
+2015,06083,Santa Barbara,06037,Los Angeles,1263
+2015,06083,Santa Barbara,06039,Madera,1
+2015,06083,Santa Barbara,06041,Marin,9
+2015,06083,Santa Barbara,06051,Mono,10
+2015,06083,Santa Barbara,06053,Monterey,99
+2015,06083,Santa Barbara,06059,Orange,148
+2015,06083,Santa Barbara,06065,Riverside,30
+2015,06083,Santa Barbara,06067,Sacramento,7
+2015,06083,Santa Barbara,06071,San Bernardino,101
+2015,06083,Santa Barbara,06073,San Diego,44
+2015,06083,Santa Barbara,06075,San Francisco,71
+2015,06083,Santa Barbara,06077,San Joaquin,4
+2015,06083,Santa Barbara,06079,San Luis Obispo,7730
+2015,06083,Santa Barbara,06081,San Mateo,39
+2015,06083,Santa Barbara,06083,Santa Barbara,186689
+2015,06083,Santa Barbara,06085,Santa Clara,188
+2015,06083,Santa Barbara,06087,Santa Cruz,53
+2015,06083,Santa Barbara,06093,Siskiyou,6
+2015,06083,Santa Barbara,06095,Solano,51
+2015,06083,Santa Barbara,06097,Sonoma,47
+2015,06083,Santa Barbara,06099,Stanislaus,8
+2015,06083,Santa Barbara,06105,Trinity,6
+2015,06083,Santa Barbara,06107,Tulare,8
+2015,06083,Santa Barbara,06111,Ventura,2481
+2015,06085,Santa Clara,06001,Alameda,37913
+2015,06085,Santa Clara,06007,Butte,11
+2015,06085,Santa Clara,06013,Contra Costa,3310
+2015,06085,Santa Clara,06017,El Dorado,59
+2015,06085,Santa Clara,06019,Fresno,220
+2015,06085,Santa Clara,06021,Glenn,32
+2015,06085,Santa Clara,06029,Kern,65
+2015,06085,Santa Clara,06031,Kings,12
+2015,06085,Santa Clara,06037,Los Angeles,745
+2015,06085,Santa Clara,06041,Marin,323
+2015,06085,Santa Clara,06045,Mendocino,19
+2015,06085,Santa Clara,06047,Merced,185
+2015,06085,Santa Clara,06053,Monterey,2727
+2015,06085,Santa Clara,06055,Napa,90
+2015,06085,Santa Clara,06057,Nevada,25
+2015,06085,Santa Clara,06059,Orange,338
+2015,06085,Santa Clara,06061,Placer,71
+2015,06085,Santa Clara,06063,Plumas,17
+2015,06085,Santa Clara,06065,Riverside,62
+2015,06085,Santa Clara,06067,Sacramento,299
+2015,06085,Santa Clara,06069,San Benito,1333
+2015,06085,Santa Clara,06071,San Bernardino,746
+2015,06085,Santa Clara,06073,San Diego,195
+2015,06085,Santa Clara,06075,San Francisco,14241
+2015,06085,Santa Clara,06077,San Joaquin,338
+2015,06085,Santa Clara,06079,San Luis Obispo,105
+2015,06085,Santa Clara,06081,San Mateo,45818
+2015,06085,Santa Clara,06083,Santa Barbara,99
+2015,06085,Santa Clara,06085,Santa Clara,774477
+2015,06085,Santa Clara,06087,Santa Cruz,4249
+2015,06085,Santa Clara,06089,Shasta,37
+2015,06085,Santa Clara,06093,Siskiyou,10
+2015,06085,Santa Clara,06095,Solano,267
+2015,06085,Santa Clara,06097,Sonoma,389
+2015,06085,Santa Clara,06099,Stanislaus,420
+2015,06085,Santa Clara,06103,Tehama,72
+2015,06085,Santa Clara,06107,Tulare,18
+2015,06085,Santa Clara,06111,Ventura,72
+2015,06085,Santa Clara,06113,Yolo,108
+2015,06087,Santa Cruz,06001,Alameda,862
+2015,06087,Santa Cruz,06009,Calaveras,10
+2015,06087,Santa Cruz,06013,Contra Costa,156
+2015,06087,Santa Cruz,06017,El Dorado,13
+2015,06087,Santa Cruz,06019,Fresno,4
+2015,06087,Santa Cruz,06023,Humboldt,10
+2015,06087,Santa Cruz,06027,Inyo,29
+2015,06087,Santa Cruz,06029,Kern,15
+2015,06087,Santa Cruz,06037,Los Angeles,56
+2015,06087,Santa Cruz,06039,Madera,15
+2015,06087,Santa Cruz,06041,Marin,30
+2015,06087,Santa Cruz,06053,Monterey,6583
+2015,06087,Santa Cruz,06055,Napa,34
+2015,06087,Santa Cruz,06059,Orange,9
+2015,06087,Santa Cruz,06061,Placer,25
+2015,06087,Santa Cruz,06065,Riverside,43
+2015,06087,Santa Cruz,06067,Sacramento,88
+2015,06087,Santa Cruz,06069,San Benito,700
+2015,06087,Santa Cruz,06073,San Diego,29
+2015,06087,Santa Cruz,06075,San Francisco,714
+2015,06087,Santa Cruz,06077,San Joaquin,17
+2015,06087,Santa Cruz,06081,San Mateo,1242
+2015,06087,Santa Cruz,06083,Santa Barbara,75
+2015,06087,Santa Cruz,06085,Santa Clara,17458
+2015,06087,Santa Cruz,06087,Santa Cruz,99105
+2015,06087,Santa Cruz,06089,Shasta,3
+2015,06087,Santa Cruz,06095,Solano,68
+2015,06087,Santa Cruz,06097,Sonoma,55
+2015,06087,Santa Cruz,06099,Stanislaus,75
+2015,06087,Santa Cruz,06111,Ventura,20
+2015,06087,Santa Cruz,06113,Yolo,20
+2015,06089,Shasta,06001,Alameda,94
+2015,06089,Shasta,06005,Amador,8
+2015,06089,Shasta,06007,Butte,271
+2015,06089,Shasta,06011,Colusa,21
+2015,06089,Shasta,06013,Contra Costa,52
+2015,06089,Shasta,06015,Del Norte,7
+2015,06089,Shasta,06017,El Dorado,9
+2015,06089,Shasta,06019,Fresno,9
+2015,06089,Shasta,06021,Glenn,68
+2015,06089,Shasta,06023,Humboldt,53
+2015,06089,Shasta,06025,Imperial,4
+2015,06089,Shasta,06033,Lake,1
+2015,06089,Shasta,06035,Lassen,172
+2015,06089,Shasta,06037,Los Angeles,41
+2015,06089,Shasta,06041,Marin,16
+2015,06089,Shasta,06045,Mendocino,14
+2015,06089,Shasta,06049,Modoc,54
+2015,06089,Shasta,06053,Monterey,39
+2015,06089,Shasta,06055,Napa,62
+2015,06089,Shasta,06057,Nevada,42
+2015,06089,Shasta,06059,Orange,13
+2015,06089,Shasta,06061,Placer,13
+2015,06089,Shasta,06063,Plumas,75
+2015,06089,Shasta,06067,Sacramento,340
+2015,06089,Shasta,06073,San Diego,7
+2015,06089,Shasta,06075,San Francisco,70
+2015,06089,Shasta,06077,San Joaquin,56
+2015,06089,Shasta,06081,San Mateo,49
+2015,06089,Shasta,06083,Santa Barbara,19
+2015,06089,Shasta,06085,Santa Clara,129
+2015,06089,Shasta,06087,Santa Cruz,7
+2015,06089,Shasta,06089,Shasta,62873
+2015,06089,Shasta,06093,Siskiyou,359
+2015,06089,Shasta,06095,Solano,2
+2015,06089,Shasta,06097,Sonoma,49
+2015,06089,Shasta,06099,Stanislaus,7
+2015,06089,Shasta,06101,Sutter,19
+2015,06089,Shasta,06103,Tehama,1733
+2015,06089,Shasta,06105,Trinity,356
+2015,06089,Shasta,06107,Tulare,22
+2015,06089,Shasta,06111,Ventura,6
+2015,06089,Shasta,06113,Yolo,42
+2015,06089,Shasta,06115,Yuba,10
+2015,06091,Sierra,06035,Lassen,31
+2015,06091,Sierra,06057,Nevada,153
+2015,06091,Sierra,06061,Placer,11
+2015,06091,Sierra,06063,Plumas,45
+2015,06091,Sierra,06091,Sierra,705
+2015,06093,Siskiyou,06007,Butte,7
+2015,06093,Siskiyou,06013,Contra Costa,8
+2015,06093,Siskiyou,06015,Del Norte,9
+2015,06093,Siskiyou,06017,El Dorado,4
+2015,06093,Siskiyou,06019,Fresno,8
+2015,06093,Siskiyou,06021,Glenn,4
+2015,06093,Siskiyou,06023,Humboldt,45
+2015,06093,Siskiyou,06033,Lake,5
+2015,06093,Siskiyou,06041,Marin,22
+2015,06093,Siskiyou,06049,Modoc,27
+2015,06093,Siskiyou,06057,Nevada,36
+2015,06093,Siskiyou,06061,Placer,4
+2015,06093,Siskiyou,06067,Sacramento,10
+2015,06093,Siskiyou,06073,San Diego,34
+2015,06093,Siskiyou,06075,San Francisco,5
+2015,06093,Siskiyou,06081,San Mateo,4
+2015,06093,Siskiyou,06085,Santa Clara,15
+2015,06093,Siskiyou,06087,Santa Cruz,4
+2015,06093,Siskiyou,06089,Shasta,254
+2015,06093,Siskiyou,06093,Siskiyou,14730
+2015,06093,Siskiyou,06095,Solano,4
+2015,06093,Siskiyou,06097,Sonoma,14
+2015,06093,Siskiyou,06103,Tehama,4
+2015,06093,Siskiyou,06105,Trinity,14
+2015,06093,Siskiyou,06107,Tulare,5
+2015,06095,Solano,06001,Alameda,10315
+2015,06095,Solano,06005,Amador,33
+2015,06095,Solano,06007,Butte,16
+2015,06095,Solano,06009,Calaveras,35
+2015,06095,Solano,06011,Colusa,52
+2015,06095,Solano,06013,Contra Costa,19504
+2015,06095,Solano,06017,El Dorado,20
+2015,06095,Solano,06019,Fresno,49
+2015,06095,Solano,06023,Humboldt,27
+2015,06095,Solano,06029,Kern,20
+2015,06095,Solano,06033,Lake,40
+2015,06095,Solano,06037,Los Angeles,214
+2015,06095,Solano,06041,Marin,5272
+2015,06095,Solano,06045,Mendocino,7
+2015,06095,Solano,06047,Merced,31
+2015,06095,Solano,06053,Monterey,38
+2015,06095,Solano,06055,Napa,11850
+2015,06095,Solano,06061,Placer,383
+2015,06095,Solano,06067,Sacramento,5287
+2015,06095,Solano,06071,San Bernardino,27
+2015,06095,Solano,06073,San Diego,108
+2015,06095,Solano,06075,San Francisco,8974
+2015,06095,Solano,06077,San Joaquin,538
+2015,06095,Solano,06081,San Mateo,2616
+2015,06095,Solano,06083,Santa Barbara,5
+2015,06095,Solano,06085,Santa Clara,1496
+2015,06095,Solano,06095,Solano,109059
+2015,06095,Solano,06097,Sonoma,2780
+2015,06095,Solano,06099,Stanislaus,32
+2015,06095,Solano,06101,Sutter,35
+2015,06095,Solano,06107,Tulare,26
+2015,06095,Solano,06109,Tuolumne,10
+2015,06095,Solano,06111,Ventura,24
+2015,06095,Solano,06113,Yolo,5058
+2015,06095,Solano,06115,Yuba,39
+2015,06097,Sonoma,06001,Alameda,2271
+2015,06097,Sonoma,06007,Butte,5
+2015,06097,Sonoma,06011,Colusa,9
+2015,06097,Sonoma,06013,Contra Costa,1155
+2015,06097,Sonoma,06017,El Dorado,33
+2015,06097,Sonoma,06019,Fresno,40
+2015,06097,Sonoma,06023,Humboldt,50
+2015,06097,Sonoma,06029,Kern,31
+2015,06097,Sonoma,06033,Lake,208
+2015,06097,Sonoma,06035,Lassen,11
+2015,06097,Sonoma,06037,Los Angeles,318
+2015,06097,Sonoma,06039,Madera,31
+2015,06097,Sonoma,06041,Marin,15863
+2015,06097,Sonoma,06045,Mendocino,970
+2015,06097,Sonoma,06053,Monterey,16
+2015,06097,Sonoma,06055,Napa,4434
+2015,06097,Sonoma,06057,Nevada,30
+2015,06097,Sonoma,06059,Orange,92
+2015,06097,Sonoma,06061,Placer,19
+2015,06097,Sonoma,06065,Riverside,8
+2015,06097,Sonoma,06067,Sacramento,260
+2015,06097,Sonoma,06069,San Benito,27
+2015,06097,Sonoma,06073,San Diego,96
+2015,06097,Sonoma,06075,San Francisco,6811
+2015,06097,Sonoma,06077,San Joaquin,67
+2015,06097,Sonoma,06079,San Luis Obispo,9
+2015,06097,Sonoma,06081,San Mateo,1233
+2015,06097,Sonoma,06085,Santa Clara,1095
+2015,06097,Sonoma,06087,Santa Cruz,32
+2015,06097,Sonoma,06089,Shasta,6
+2015,06097,Sonoma,06095,Solano,1009
+2015,06097,Sonoma,06097,Sonoma,197589
+2015,06097,Sonoma,06099,Stanislaus,27
+2015,06097,Sonoma,06109,Tuolumne,18
+2015,06097,Sonoma,06111,Ventura,7
+2015,06097,Sonoma,06113,Yolo,190
+2015,06099,Stanislaus,06001,Alameda,7159
+2015,06099,Stanislaus,06005,Amador,7
+2015,06099,Stanislaus,06009,Calaveras,147
+2015,06099,Stanislaus,06013,Contra Costa,1571
+2015,06099,Stanislaus,06015,Del Norte,1
+2015,06099,Stanislaus,06019,Fresno,528
+2015,06099,Stanislaus,06027,Inyo,9
+2015,06099,Stanislaus,06029,Kern,65
+2015,06099,Stanislaus,06031,Kings,64
+2015,06099,Stanislaus,06037,Los Angeles,194
+2015,06099,Stanislaus,06039,Madera,271
+2015,06099,Stanislaus,06041,Marin,75
+2015,06099,Stanislaus,06043,Mariposa,16
+2015,06099,Stanislaus,06047,Merced,6884
+2015,06099,Stanislaus,06053,Monterey,67
+2015,06099,Stanislaus,06055,Napa,49
+2015,06099,Stanislaus,06057,Nevada,39
+2015,06099,Stanislaus,06059,Orange,39
+2015,06099,Stanislaus,06061,Placer,100
+2015,06099,Stanislaus,06063,Plumas,34
+2015,06099,Stanislaus,06065,Riverside,117
+2015,06099,Stanislaus,06067,Sacramento,1219
+2015,06099,Stanislaus,06069,San Benito,71
+2015,06099,Stanislaus,06071,San Bernardino,81
+2015,06099,Stanislaus,06073,San Diego,7
+2015,06099,Stanislaus,06075,San Francisco,753
+2015,06099,Stanislaus,06077,San Joaquin,20138
+2015,06099,Stanislaus,06079,San Luis Obispo,31
+2015,06099,Stanislaus,06081,San Mateo,1021
+2015,06099,Stanislaus,06083,Santa Barbara,8
+2015,06099,Stanislaus,06085,Santa Clara,4639
+2015,06099,Stanislaus,06087,Santa Cruz,190
+2015,06099,Stanislaus,06089,Shasta,4
+2015,06099,Stanislaus,06093,Siskiyou,18
+2015,06099,Stanislaus,06095,Solano,196
+2015,06099,Stanislaus,06097,Sonoma,28
+2015,06099,Stanislaus,06099,Stanislaus,155348
+2015,06099,Stanislaus,06107,Tulare,36
+2015,06099,Stanislaus,06109,Tuolumne,554
+2015,06099,Stanislaus,06111,Ventura,6
+2015,06099,Stanislaus,06113,Yolo,225
+2015,06101,Sutter,06001,Alameda,156
+2015,06101,Sutter,06007,Butte,1458
+2015,06101,Sutter,06009,Calaveras,7
+2015,06101,Sutter,06011,Colusa,686
+2015,06101,Sutter,06013,Contra Costa,29
+2015,06101,Sutter,06017,El Dorado,21
+2015,06101,Sutter,06019,Fresno,30
+2015,06101,Sutter,06021,Glenn,69
+2015,06101,Sutter,06023,Humboldt,19
+2015,06101,Sutter,06029,Kern,37
+2015,06101,Sutter,06033,Lake,9
+2015,06101,Sutter,06035,Lassen,32
+2015,06101,Sutter,06037,Los Angeles,23
+2015,06101,Sutter,06045,Mendocino,5
+2015,06101,Sutter,06047,Merced,16
+2015,06101,Sutter,06053,Monterey,33
+2015,06101,Sutter,06055,Napa,18
+2015,06101,Sutter,06057,Nevada,193
+2015,06101,Sutter,06061,Placer,1345
+2015,06101,Sutter,06063,Plumas,24
+2015,06101,Sutter,06067,Sacramento,3083
+2015,06101,Sutter,06071,San Bernardino,12
+2015,06101,Sutter,06073,San Diego,14
+2015,06101,Sutter,06075,San Francisco,32
+2015,06101,Sutter,06077,San Joaquin,185
+2015,06101,Sutter,06081,San Mateo,58
+2015,06101,Sutter,06085,Santa Clara,53
+2015,06101,Sutter,06089,Shasta,82
+2015,06101,Sutter,06095,Solano,297
+2015,06101,Sutter,06097,Sonoma,8
+2015,06101,Sutter,06099,Stanislaus,6
+2015,06101,Sutter,06101,Sutter,21304
+2015,06101,Sutter,06103,Tehama,21
+2015,06101,Sutter,06113,Yolo,1736
+2015,06101,Sutter,06115,Yuba,5392
+2015,06103,Tehama,06001,Alameda,49
+2015,06103,Tehama,06007,Butte,1565
+2015,06103,Tehama,06011,Colusa,56
+2015,06103,Tehama,06013,Contra Costa,7
+2015,06103,Tehama,06019,Fresno,17
+2015,06103,Tehama,06021,Glenn,659
+2015,06103,Tehama,06023,Humboldt,36
+2015,06103,Tehama,06029,Kern,20
+2015,06103,Tehama,06033,Lake,1
+2015,06103,Tehama,06035,Lassen,12
+2015,06103,Tehama,06037,Los Angeles,23
+2015,06103,Tehama,06041,Marin,4
+2015,06103,Tehama,06047,Merced,3
+2015,06103,Tehama,06053,Monterey,2
+2015,06103,Tehama,06061,Placer,77
+2015,06103,Tehama,06063,Plumas,65
+2015,06103,Tehama,06065,Riverside,2
+2015,06103,Tehama,06067,Sacramento,74
+2015,06103,Tehama,06073,San Diego,20
+2015,06103,Tehama,06075,San Francisco,51
+2015,06103,Tehama,06077,San Joaquin,19
+2015,06103,Tehama,06081,San Mateo,1
+2015,06103,Tehama,06085,Santa Clara,33
+2015,06103,Tehama,06089,Shasta,3868
+2015,06103,Tehama,06093,Siskiyou,26
+2015,06103,Tehama,06097,Sonoma,9
+2015,06103,Tehama,06101,Sutter,45
+2015,06103,Tehama,06103,Tehama,15676
+2015,06103,Tehama,06105,Trinity,16
+2015,06103,Tehama,06113,Yolo,136
+2015,06103,Tehama,06115,Yuba,4
+2015,06105,Trinity,06001,Alameda,8
+2015,06105,Trinity,06023,Humboldt,317
+2015,06105,Trinity,06029,Kern,4
+2015,06105,Trinity,06067,Sacramento,8
+2015,06105,Trinity,06089,Shasta,135
+2015,06105,Trinity,06093,Siskiyou,18
+2015,06105,Trinity,06103,Tehama,29
+2015,06105,Trinity,06105,Trinity,4201
+2015,06107,Tulare,06001,Alameda,44
+2015,06107,Tulare,06007,Butte,85
+2015,06107,Tulare,06009,Calaveras,31
+2015,06107,Tulare,06013,Contra Costa,29
+2015,06107,Tulare,06019,Fresno,9696
+2015,06107,Tulare,06027,Inyo,8
+2015,06107,Tulare,06029,Kern,5837
+2015,06107,Tulare,06031,Kings,6127
+2015,06107,Tulare,06033,Lake,4
+2015,06107,Tulare,06037,Los Angeles,551
+2015,06107,Tulare,06039,Madera,326
+2015,06107,Tulare,06041,Marin,7
+2015,06107,Tulare,06043,Mariposa,26
+2015,06107,Tulare,06047,Merced,55
+2015,06107,Tulare,06053,Monterey,55
+2015,06107,Tulare,06057,Nevada,4
+2015,06107,Tulare,06059,Orange,74
+2015,06107,Tulare,06065,Riverside,49
+2015,06107,Tulare,06067,Sacramento,39
+2015,06107,Tulare,06069,San Benito,8
+2015,06107,Tulare,06071,San Bernardino,109
+2015,06107,Tulare,06073,San Diego,52
+2015,06107,Tulare,06075,San Francisco,23
+2015,06107,Tulare,06077,San Joaquin,132
+2015,06107,Tulare,06079,San Luis Obispo,133
+2015,06107,Tulare,06081,San Mateo,25
+2015,06107,Tulare,06083,Santa Barbara,87
+2015,06107,Tulare,06085,Santa Clara,161
+2015,06107,Tulare,06089,Shasta,12
+2015,06107,Tulare,06095,Solano,13
+2015,06107,Tulare,06097,Sonoma,6
+2015,06107,Tulare,06099,Stanislaus,41
+2015,06107,Tulare,06101,Sutter,8
+2015,06107,Tulare,06103,Tehama,10
+2015,06107,Tulare,06107,Tulare,140091
+2015,06107,Tulare,06111,Ventura,119
+2015,06107,Tulare,06113,Yolo,8
+2015,06109,Tuolumne,06001,Alameda,189
+2015,06109,Tuolumne,06003,Alpine,11
+2015,06109,Tuolumne,06005,Amador,5
+2015,06109,Tuolumne,06007,Butte,13
+2015,06109,Tuolumne,06009,Calaveras,582
+2015,06109,Tuolumne,06013,Contra Costa,68
+2015,06109,Tuolumne,06017,El Dorado,25
+2015,06109,Tuolumne,06019,Fresno,15
+2015,06109,Tuolumne,06029,Kern,51
+2015,06109,Tuolumne,06037,Los Angeles,16
+2015,06109,Tuolumne,06043,Mariposa,22
+2015,06109,Tuolumne,06045,Mendocino,10
+2015,06109,Tuolumne,06047,Merced,27
+2015,06109,Tuolumne,06053,Monterey,12
+2015,06109,Tuolumne,06055,Napa,8
+2015,06109,Tuolumne,06063,Plumas,22
+2015,06109,Tuolumne,06067,Sacramento,142
+2015,06109,Tuolumne,06075,San Francisco,42
+2015,06109,Tuolumne,06077,San Joaquin,214
+2015,06109,Tuolumne,06081,San Mateo,163
+2015,06109,Tuolumne,06085,Santa Clara,283
+2015,06109,Tuolumne,06087,Santa Cruz,55
+2015,06109,Tuolumne,06089,Shasta,18
+2015,06109,Tuolumne,06095,Solano,6
+2015,06109,Tuolumne,06097,Sonoma,22
+2015,06109,Tuolumne,06099,Stanislaus,630
+2015,06109,Tuolumne,06109,Tuolumne,16118
+2015,06109,Tuolumne,06113,Yolo,14
+2015,06111,Ventura,06001,Alameda,81
+2015,06111,Ventura,06015,Del Norte,32
+2015,06111,Ventura,06017,El Dorado,16
+2015,06111,Ventura,06019,Fresno,82
+2015,06111,Ventura,06029,Kern,511
+2015,06111,Ventura,06031,Kings,11
+2015,06111,Ventura,06037,Los Angeles,68295
+2015,06111,Ventura,06039,Madera,5
+2015,06111,Ventura,06041,Marin,20
+2015,06111,Ventura,06053,Monterey,42
+2015,06111,Ventura,06057,Nevada,11
+2015,06111,Ventura,06059,Orange,1184
+2015,06111,Ventura,06061,Placer,7
+2015,06111,Ventura,06065,Riverside,298
+2015,06111,Ventura,06067,Sacramento,77
+2015,06111,Ventura,06071,San Bernardino,360
+2015,06111,Ventura,06073,San Diego,340
+2015,06111,Ventura,06075,San Francisco,51
+2015,06111,Ventura,06079,San Luis Obispo,239
+2015,06111,Ventura,06081,San Mateo,57
+2015,06111,Ventura,06083,Santa Barbara,13549
+2015,06111,Ventura,06085,Santa Clara,258
+2015,06111,Ventura,06087,Santa Cruz,9
+2015,06111,Ventura,06089,Shasta,9
+2015,06111,Ventura,06097,Sonoma,19
+2015,06111,Ventura,06099,Stanislaus,34
+2015,06111,Ventura,06101,Sutter,39
+2015,06111,Ventura,06105,Trinity,8
+2015,06111,Ventura,06107,Tulare,61
+2015,06111,Ventura,06111,Ventura,302888
+2015,06111,Ventura,06113,Yolo,17
+2015,06113,Yolo,06001,Alameda,681
+2015,06113,Yolo,06005,Amador,55
+2015,06113,Yolo,06007,Butte,105
+2015,06113,Yolo,06011,Colusa,298
+2015,06113,Yolo,06013,Contra Costa,611
+2015,06113,Yolo,06017,El Dorado,191
+2015,06113,Yolo,06019,Fresno,33
+2015,06113,Yolo,06021,Glenn,12
+2015,06113,Yolo,06023,Humboldt,12
+2015,06113,Yolo,06029,Kern,13
+2015,06113,Yolo,06031,Kings,22
+2015,06113,Yolo,06037,Los Angeles,51
+2015,06113,Yolo,06041,Marin,96
+2015,06113,Yolo,06045,Mendocino,3
+2015,06113,Yolo,06051,Mono,7
+2015,06113,Yolo,06053,Monterey,2
+2015,06113,Yolo,06055,Napa,300
+2015,06113,Yolo,06057,Nevada,17
+2015,06113,Yolo,06059,Orange,16
+2015,06113,Yolo,06061,Placer,1095
+2015,06113,Yolo,06067,Sacramento,21574
+2015,06113,Yolo,06073,San Diego,40
+2015,06113,Yolo,06075,San Francisco,526
+2015,06113,Yolo,06077,San Joaquin,412
+2015,06113,Yolo,06079,San Luis Obispo,12
+2015,06113,Yolo,06081,San Mateo,220
+2015,06113,Yolo,06085,Santa Clara,293
+2015,06113,Yolo,06087,Santa Cruz,11
+2015,06113,Yolo,06089,Shasta,61
+2015,06113,Yolo,06095,Solano,4979
+2015,06113,Yolo,06097,Sonoma,64
+2015,06113,Yolo,06099,Stanislaus,42
+2015,06113,Yolo,06101,Sutter,257
+2015,06113,Yolo,06103,Tehama,30
+2015,06113,Yolo,06113,Yolo,57362
+2015,06113,Yolo,06115,Yuba,60
+2015,06115,Yuba,06001,Alameda,22
+2015,06115,Yuba,06005,Amador,17
+2015,06115,Yuba,06007,Butte,864
+2015,06115,Yuba,06011,Colusa,259
+2015,06115,Yuba,06013,Contra Costa,23
+2015,06115,Yuba,06017,El Dorado,134
+2015,06115,Yuba,06019,Fresno,30
+2015,06115,Yuba,06023,Humboldt,2
+2015,06115,Yuba,06033,Lake,17
+2015,06115,Yuba,06037,Los Angeles,16
+2015,06115,Yuba,06041,Marin,14
+2015,06115,Yuba,06057,Nevada,869
+2015,06115,Yuba,06061,Placer,2488
+2015,06115,Yuba,06063,Plumas,78
+2015,06115,Yuba,06067,Sacramento,2800
+2015,06115,Yuba,06073,San Diego,15
+2015,06115,Yuba,06075,San Francisco,26
+2015,06115,Yuba,06077,San Joaquin,105
+2015,06115,Yuba,06079,San Luis Obispo,8
+2015,06115,Yuba,06081,San Mateo,27
+2015,06115,Yuba,06085,Santa Clara,78
+2015,06115,Yuba,06087,Santa Cruz,6
+2015,06115,Yuba,06089,Shasta,46
+2015,06115,Yuba,06091,Sierra,8
+2015,06115,Yuba,06095,Solano,90
+2015,06115,Yuba,06099,Stanislaus,23
+2015,06115,Yuba,06101,Sutter,4803
+2015,06115,Yuba,06113,Yolo,635
+2015,06115,Yuba,06115,Yuba,12513
+2010,06001,Alameda,06001,Alameda,468181
+2010,06001,Alameda,06005,Amador,31
+2010,06001,Alameda,06007,Butte,31
+2010,06001,Alameda,06009,Calaveras,17
+2010,06001,Alameda,06013,Contra Costa,39883
+2010,06001,Alameda,06017,El Dorado,25
+2010,06001,Alameda,06019,Fresno,124
+2010,06001,Alameda,06023,Humboldt,16
+2010,06001,Alameda,06025,Imperial,14
+2010,06001,Alameda,06029,Kern,38
+2010,06001,Alameda,06031,Kings,9
+2010,06001,Alameda,06033,Lake,60
+2010,06001,Alameda,06035,Lassen,14
+2010,06001,Alameda,06037,Los Angeles,692
+2010,06001,Alameda,06039,Madera,59
+2010,06001,Alameda,06041,Marin,3711
+2010,06001,Alameda,06043,Mariposa,7
+2010,06001,Alameda,06045,Mendocino,13
+2010,06001,Alameda,06047,Merced,141
+2010,06001,Alameda,06053,Monterey,113
+2010,06001,Alameda,06055,Napa,552
+2010,06001,Alameda,06057,Nevada,58
+2010,06001,Alameda,06059,Orange,240
+2010,06001,Alameda,06061,Placer,148
+2010,06001,Alameda,06065,Riverside,90
+2010,06001,Alameda,06067,Sacramento,1014
+2010,06001,Alameda,06069,San Benito,118
+2010,06001,Alameda,06071,San Bernardino,234
+2010,06001,Alameda,06073,San Diego,286
+2010,06001,Alameda,06075,San Francisco,71861
+2010,06001,Alameda,06077,San Joaquin,1856
+2010,06001,Alameda,06079,San Luis Obispo,117
+2010,06001,Alameda,06081,San Mateo,34369
+2010,06001,Alameda,06083,Santa Barbara,64
+2010,06001,Alameda,06085,Santa Clara,64696
+2010,06001,Alameda,06087,Santa Cruz,522
+2010,06001,Alameda,06089,Shasta,59
+2010,06001,Alameda,06095,Solano,1774
+2010,06001,Alameda,06097,Sonoma,829
+2010,06001,Alameda,06099,Stanislaus,544
+2010,06001,Alameda,06101,Sutter,13
+2010,06001,Alameda,06103,Tehama,24
+2010,06001,Alameda,06107,Tulare,75
+2010,06001,Alameda,06111,Ventura,62
+2010,06001,Alameda,06113,Yolo,398
+2010,06001,Alameda,06115,Yuba,49
+2010,06003,Alpine,06003,Alpine,295
+2010,06003,Alpine,06017,El Dorado,49
+2010,06003,Alpine,06037,Los Angeles,13
+2010,06003,Alpine,06051,Mono,4
+2010,06003,Alpine,06067,Sacramento,5
+2010,06005,Amador,06001,Alameda,198
+2010,06005,Amador,06003,Alpine,82
+2010,06005,Amador,06005,Amador,9824
+2010,06005,Amador,06009,Calaveras,396
+2010,06005,Amador,06013,Contra Costa,251
+2010,06005,Amador,06017,El Dorado,304
+2010,06005,Amador,06037,Los Angeles,13
+2010,06005,Amador,06045,Mendocino,6
+2010,06005,Amador,06053,Monterey,19
+2010,06005,Amador,06055,Napa,9
+2010,06005,Amador,06061,Placer,30
+2010,06005,Amador,06067,Sacramento,1729
+2010,06005,Amador,06075,San Francisco,34
+2010,06005,Amador,06077,San Joaquin,473
+2010,06005,Amador,06079,San Luis Obispo,23
+2010,06005,Amador,06085,Santa Clara,114
+2010,06005,Amador,06087,Santa Cruz,37
+2010,06005,Amador,06095,Solano,6
+2010,06005,Amador,06097,Sonoma,11
+2010,06005,Amador,06099,Stanislaus,115
+2010,06005,Amador,06111,Ventura,15
+2010,06005,Amador,06113,Yolo,87
+2010,06007,Butte,06001,Alameda,223
+2010,06007,Butte,06007,Butte,78154
+2010,06007,Butte,06009,Calaveras,3
+2010,06007,Butte,06011,Colusa,356
+2010,06007,Butte,06013,Contra Costa,131
+2010,06007,Butte,06017,El Dorado,68
+2010,06007,Butte,06019,Fresno,13
+2010,06007,Butte,06021,Glenn,1084
+2010,06007,Butte,06023,Humboldt,77
+2010,06007,Butte,06029,Kern,17
+2010,06007,Butte,06033,Lake,77
+2010,06007,Butte,06035,Lassen,26
+2010,06007,Butte,06037,Los Angeles,32
+2010,06007,Butte,06041,Marin,19
+2010,06007,Butte,06043,Mariposa,12
+2010,06007,Butte,06045,Mendocino,39
+2010,06007,Butte,06047,Merced,29
+2010,06007,Butte,06049,Modoc,11
+2010,06007,Butte,06053,Monterey,6
+2010,06007,Butte,06055,Napa,39
+2010,06007,Butte,06057,Nevada,116
+2010,06007,Butte,06061,Placer,297
+2010,06007,Butte,06063,Plumas,314
+2010,06007,Butte,06067,Sacramento,641
+2010,06007,Butte,06071,San Bernardino,52
+2010,06007,Butte,06073,San Diego,30
+2010,06007,Butte,06075,San Francisco,47
+2010,06007,Butte,06077,San Joaquin,29
+2010,06007,Butte,06079,San Luis Obispo,14
+2010,06007,Butte,06081,San Mateo,176
+2010,06007,Butte,06083,Santa Barbara,99
+2010,06007,Butte,06085,Santa Clara,265
+2010,06007,Butte,06087,Santa Cruz,13
+2010,06007,Butte,06089,Shasta,192
+2010,06007,Butte,06093,Siskiyou,50
+2010,06007,Butte,06095,Solano,113
+2010,06007,Butte,06097,Sonoma,131
+2010,06007,Butte,06099,Stanislaus,20
+2010,06007,Butte,06101,Sutter,1359
+2010,06007,Butte,06103,Tehama,911
+2010,06007,Butte,06107,Tulare,24
+2010,06007,Butte,06109,Tuolumne,9
+2010,06007,Butte,06111,Ventura,27
+2010,06007,Butte,06113,Yolo,254
+2010,06007,Butte,06115,Yuba,1114
+2010,06009,Calaveras,06001,Alameda,484
+2010,06009,Calaveras,06003,Alpine,212
+2010,06009,Calaveras,06005,Amador,1944
+2010,06009,Calaveras,06009,Calaveras,9849
+2010,06009,Calaveras,06013,Contra Costa,243
+2010,06009,Calaveras,06017,El Dorado,27
+2010,06009,Calaveras,06019,Fresno,55
+2010,06009,Calaveras,06023,Humboldt,4
+2010,06009,Calaveras,06039,Madera,11
+2010,06009,Calaveras,06043,Mariposa,52
+2010,06009,Calaveras,06061,Placer,18
+2010,06009,Calaveras,06067,Sacramento,572
+2010,06009,Calaveras,06069,San Benito,13
+2010,06009,Calaveras,06075,San Francisco,80
+2010,06009,Calaveras,06077,San Joaquin,3175
+2010,06009,Calaveras,06081,San Mateo,13
+2010,06009,Calaveras,06085,Santa Clara,221
+2010,06009,Calaveras,06087,Santa Cruz,23
+2010,06009,Calaveras,06095,Solano,99
+2010,06009,Calaveras,06099,Stanislaus,347
+2010,06009,Calaveras,06107,Tulare,10
+2010,06009,Calaveras,06109,Tuolumne,1075
+2010,06009,Calaveras,06113,Yolo,111
+2010,06009,Calaveras,06115,Yuba,38
+2010,06011,Colusa,06007,Butte,133
+2010,06011,Colusa,06011,Colusa,6472
+2010,06011,Colusa,06013,Contra Costa,28
+2010,06011,Colusa,06021,Glenn,222
+2010,06011,Colusa,06033,Lake,3
+2010,06011,Colusa,06037,Los Angeles,40
+2010,06011,Colusa,06061,Placer,4
+2010,06011,Colusa,06067,Sacramento,237
+2010,06011,Colusa,06073,San Diego,4
+2010,06011,Colusa,06075,San Francisco,18
+2010,06011,Colusa,06077,San Joaquin,52
+2010,06011,Colusa,06081,San Mateo,9
+2010,06011,Colusa,06085,Santa Clara,11
+2010,06011,Colusa,06089,Shasta,10
+2010,06011,Colusa,06095,Solano,102
+2010,06011,Colusa,06101,Sutter,350
+2010,06011,Colusa,06103,Tehama,25
+2010,06011,Colusa,06113,Yolo,504
+2010,06011,Colusa,06115,Yuba,135
+2010,06013,Contra Costa,06001,Alameda,92797
+2010,06013,Contra Costa,06003,Alpine,19
+2010,06013,Contra Costa,06007,Butte,27
+2010,06013,Contra Costa,06011,Colusa,16
+2010,06013,Contra Costa,06013,Contra Costa,280521
+2010,06013,Contra Costa,06017,El Dorado,85
+2010,06013,Contra Costa,06019,Fresno,121
+2010,06013,Contra Costa,06023,Humboldt,43
+2010,06013,Contra Costa,06029,Kern,20
+2010,06013,Contra Costa,06033,Lake,68
+2010,06013,Contra Costa,06037,Los Angeles,809
+2010,06013,Contra Costa,06039,Madera,14
+2010,06013,Contra Costa,06041,Marin,6850
+2010,06013,Contra Costa,06043,Mariposa,21
+2010,06013,Contra Costa,06045,Mendocino,16
+2010,06013,Contra Costa,06047,Merced,81
+2010,06013,Contra Costa,06053,Monterey,142
+2010,06013,Contra Costa,06055,Napa,1328
+2010,06013,Contra Costa,06057,Nevada,22
+2010,06013,Contra Costa,06059,Orange,187
+2010,06013,Contra Costa,06061,Placer,98
+2010,06013,Contra Costa,06063,Plumas,21
+2010,06013,Contra Costa,06067,Sacramento,1335
+2010,06013,Contra Costa,06069,San Benito,70
+2010,06013,Contra Costa,06071,San Bernardino,143
+2010,06013,Contra Costa,06073,San Diego,125
+2010,06013,Contra Costa,06075,San Francisco,47861
+2010,06013,Contra Costa,06077,San Joaquin,1903
+2010,06013,Contra Costa,06081,San Mateo,10040
+2010,06013,Contra Costa,06083,Santa Barbara,68
+2010,06013,Contra Costa,06085,Santa Clara,11526
+2010,06013,Contra Costa,06087,Santa Cruz,235
+2010,06013,Contra Costa,06089,Shasta,62
+2010,06013,Contra Costa,06093,Siskiyou,15
+2010,06013,Contra Costa,06095,Solano,7442
+2010,06013,Contra Costa,06097,Sonoma,1040
+2010,06013,Contra Costa,06099,Stanislaus,320
+2010,06013,Contra Costa,06103,Tehama,20
+2010,06013,Contra Costa,06107,Tulare,11
+2010,06013,Contra Costa,06109,Tuolumne,21
+2010,06013,Contra Costa,06113,Yolo,404
+2010,06013,Contra Costa,06115,Yuba,17
+2010,06015,Del Norte,06001,Alameda,27
+2010,06015,Del Norte,06015,Del Norte,8458
+2010,06015,Del Norte,06023,Humboldt,137
+2010,06015,Del Norte,06035,Lassen,22
+2010,06015,Del Norte,06065,Riverside,42
+2010,06015,Del Norte,06067,Sacramento,12
+2010,06015,Del Norte,06097,Sonoma,24
+2010,06015,Del Norte,06109,Tuolumne,47
+2010,06017,El Dorado,06001,Alameda,492
+2010,06017,El Dorado,06003,Alpine,124
+2010,06017,El Dorado,06005,Amador,560
+2010,06017,El Dorado,06007,Butte,2
+2010,06017,El Dorado,06013,Contra Costa,358
+2010,06017,El Dorado,06017,El Dorado,44974
+2010,06017,El Dorado,06019,Fresno,161
+2010,06017,El Dorado,06029,Kern,32
+2010,06017,El Dorado,06037,Los Angeles,51
+2010,06017,El Dorado,06041,Marin,32
+2010,06017,El Dorado,06045,Mendocino,9
+2010,06017,El Dorado,06051,Mono,7
+2010,06017,El Dorado,06053,Monterey,24
+2010,06017,El Dorado,06055,Napa,208
+2010,06017,El Dorado,06057,Nevada,238
+2010,06017,El Dorado,06059,Orange,62
+2010,06017,El Dorado,06061,Placer,3505
+2010,06017,El Dorado,06063,Plumas,8
+2010,06017,El Dorado,06067,Sacramento,23560
+2010,06017,El Dorado,06073,San Diego,43
+2010,06017,El Dorado,06075,San Francisco,204
+2010,06017,El Dorado,06077,San Joaquin,277
+2010,06017,El Dorado,06079,San Luis Obispo,8
+2010,06017,El Dorado,06081,San Mateo,247
+2010,06017,El Dorado,06085,Santa Clara,436
+2010,06017,El Dorado,06087,Santa Cruz,31
+2010,06017,El Dorado,06089,Shasta,15
+2010,06017,El Dorado,06095,Solano,151
+2010,06017,El Dorado,06097,Sonoma,105
+2010,06017,El Dorado,06099,Stanislaus,84
+2010,06017,El Dorado,06101,Sutter,45
+2010,06017,El Dorado,06107,Tulare,5
+2010,06017,El Dorado,06109,Tuolumne,56
+2010,06017,El Dorado,06113,Yolo,689
+2010,06017,El Dorado,06115,Yuba,129
+2010,06019,Fresno,06001,Alameda,330
+2010,06019,Fresno,06007,Butte,22
+2010,06019,Fresno,06013,Contra Costa,142
+2010,06019,Fresno,06019,Fresno,324776
+2010,06019,Fresno,06021,Glenn,15
+2010,06019,Fresno,06023,Humboldt,28
+2010,06019,Fresno,06025,Imperial,42
+2010,06019,Fresno,06027,Inyo,6
+2010,06019,Fresno,06029,Kern,711
+2010,06019,Fresno,06031,Kings,3316
+2010,06019,Fresno,06035,Lassen,9
+2010,06019,Fresno,06037,Los Angeles,653
+2010,06019,Fresno,06039,Madera,9803
+2010,06019,Fresno,06041,Marin,10
+2010,06019,Fresno,06043,Mariposa,62
+2010,06019,Fresno,06045,Mendocino,23
+2010,06019,Fresno,06047,Merced,948
+2010,06019,Fresno,06053,Monterey,262
+2010,06019,Fresno,06055,Napa,8
+2010,06019,Fresno,06059,Orange,87
+2010,06019,Fresno,06061,Placer,16
+2010,06019,Fresno,06065,Riverside,45
+2010,06019,Fresno,06067,Sacramento,280
+2010,06019,Fresno,06069,San Benito,14
+2010,06019,Fresno,06071,San Bernardino,92
+2010,06019,Fresno,06073,San Diego,67
+2010,06019,Fresno,06075,San Francisco,217
+2010,06019,Fresno,06077,San Joaquin,449
+2010,06019,Fresno,06079,San Luis Obispo,66
+2010,06019,Fresno,06081,San Mateo,292
+2010,06019,Fresno,06083,Santa Barbara,11
+2010,06019,Fresno,06085,Santa Clara,579
+2010,06019,Fresno,06087,Santa Cruz,104
+2010,06019,Fresno,06095,Solano,30
+2010,06019,Fresno,06097,Sonoma,101
+2010,06019,Fresno,06099,Stanislaus,356
+2010,06019,Fresno,06101,Sutter,9
+2010,06019,Fresno,06107,Tulare,6665
+2010,06019,Fresno,06111,Ventura,30
+2010,06019,Fresno,06113,Yolo,66
+2010,06019,Fresno,06115,Yuba,44
+2010,06021,Glenn,06001,Alameda,15
+2010,06021,Glenn,06007,Butte,1674
+2010,06021,Glenn,06011,Colusa,335
+2010,06021,Glenn,06019,Fresno,20
+2010,06021,Glenn,06021,Glenn,8116
+2010,06021,Glenn,06037,Los Angeles,5
+2010,06021,Glenn,06041,Marin,21
+2010,06021,Glenn,06057,Nevada,27
+2010,06021,Glenn,06061,Placer,46
+2010,06021,Glenn,06067,Sacramento,14
+2010,06021,Glenn,06075,San Francisco,4
+2010,06021,Glenn,06077,San Joaquin,2
+2010,06021,Glenn,06081,San Mateo,9
+2010,06021,Glenn,06085,Santa Clara,13
+2010,06021,Glenn,06087,Santa Cruz,19
+2010,06021,Glenn,06089,Shasta,88
+2010,06021,Glenn,06093,Siskiyou,17
+2010,06021,Glenn,06095,Solano,3
+2010,06021,Glenn,06097,Sonoma,17
+2010,06021,Glenn,06101,Sutter,24
+2010,06021,Glenn,06103,Tehama,731
+2010,06021,Glenn,06107,Tulare,16
+2010,06021,Glenn,06113,Yolo,46
+2010,06023,Humboldt,06001,Alameda,2
+2010,06023,Humboldt,06007,Butte,10
+2010,06023,Humboldt,06011,Colusa,24
+2010,06023,Humboldt,06013,Contra Costa,42
+2010,06023,Humboldt,06015,Del Norte,252
+2010,06023,Humboldt,06023,Humboldt,57497
+2010,06023,Humboldt,06031,Kings,6
+2010,06023,Humboldt,06037,Los Angeles,57
+2010,06023,Humboldt,06041,Marin,19
+2010,06023,Humboldt,06043,Mariposa,31
+2010,06023,Humboldt,06045,Mendocino,108
+2010,06023,Humboldt,06053,Monterey,15
+2010,06023,Humboldt,06055,Napa,24
+2010,06023,Humboldt,06059,Orange,9
+2010,06023,Humboldt,06067,Sacramento,97
+2010,06023,Humboldt,06071,San Bernardino,4
+2010,06023,Humboldt,06073,San Diego,8
+2010,06023,Humboldt,06075,San Francisco,61
+2010,06023,Humboldt,06081,San Mateo,4
+2010,06023,Humboldt,06085,Santa Clara,23
+2010,06023,Humboldt,06089,Shasta,92
+2010,06023,Humboldt,06093,Siskiyou,68
+2010,06023,Humboldt,06095,Solano,58
+2010,06023,Humboldt,06097,Sonoma,2
+2010,06023,Humboldt,06103,Tehama,28
+2010,06023,Humboldt,06105,Trinity,66
+2010,06023,Humboldt,06113,Yolo,3
+2010,06025,Imperial,06019,Fresno,32
+2010,06025,Imperial,06025,Imperial,51171
+2010,06025,Imperial,06029,Kern,72
+2010,06025,Imperial,06037,Los Angeles,126
+2010,06025,Imperial,06043,Mariposa,14
+2010,06025,Imperial,06053,Monterey,69
+2010,06025,Imperial,06059,Orange,56
+2010,06025,Imperial,06065,Riverside,1231
+2010,06025,Imperial,06067,Sacramento,77
+2010,06025,Imperial,06069,San Benito,12
+2010,06025,Imperial,06071,San Bernardino,101
+2010,06025,Imperial,06073,San Diego,961
+2010,06025,Imperial,06081,San Mateo,10
+2010,06025,Imperial,06085,Santa Clara,13
+2010,06025,Imperial,06089,Shasta,5
+2010,06025,Imperial,06097,Sonoma,47
+2010,06025,Imperial,06099,Stanislaus,12
+2010,06025,Imperial,06111,Ventura,9
+2010,06027,Inyo,06007,Butte,14
+2010,06027,Inyo,06027,Inyo,7582
+2010,06027,Inyo,06029,Kern,5
+2010,06027,Inyo,06037,Los Angeles,30
+2010,06027,Inyo,06051,Mono,677
+2010,06027,Inyo,06057,Nevada,10
+2010,06027,Inyo,06059,Orange,10
+2010,06027,Inyo,06065,Riverside,7
+2010,06027,Inyo,06067,Sacramento,6
+2010,06027,Inyo,06071,San Bernardino,29
+2010,06027,Inyo,06073,San Diego,11
+2010,06027,Inyo,06087,Santa Cruz,4
+2010,06027,Inyo,06111,Ventura,1
+2010,06029,Kern,06001,Alameda,123
+2010,06029,Kern,06007,Butte,45
+2010,06029,Kern,06013,Contra Costa,72
+2010,06029,Kern,06019,Fresno,479
+2010,06029,Kern,06021,Glenn,4
+2010,06029,Kern,06023,Humboldt,25
+2010,06029,Kern,06025,Imperial,68
+2010,06029,Kern,06027,Inyo,257
+2010,06029,Kern,06029,Kern,282301
+2010,06029,Kern,06031,Kings,460
+2010,06029,Kern,06033,Lake,16
+2010,06029,Kern,06037,Los Angeles,10443
+2010,06029,Kern,06039,Madera,64
+2010,06029,Kern,06041,Marin,31
+2010,06029,Kern,06047,Merced,32
+2010,06029,Kern,06051,Mono,9
+2010,06029,Kern,06053,Monterey,195
+2010,06029,Kern,06057,Nevada,9
+2010,06029,Kern,06059,Orange,510
+2010,06029,Kern,06061,Placer,16
+2010,06029,Kern,06063,Plumas,54
+2010,06029,Kern,06065,Riverside,159
+2010,06029,Kern,06067,Sacramento,110
+2010,06029,Kern,06071,San Bernardino,1348
+2010,06029,Kern,06073,San Diego,449
+2010,06029,Kern,06075,San Francisco,52
+2010,06029,Kern,06077,San Joaquin,97
+2010,06029,Kern,06079,San Luis Obispo,268
+2010,06029,Kern,06081,San Mateo,119
+2010,06029,Kern,06083,Santa Barbara,610
+2010,06029,Kern,06085,Santa Clara,160
+2010,06029,Kern,06087,Santa Cruz,11
+2010,06029,Kern,06089,Shasta,28
+2010,06029,Kern,06093,Siskiyou,43
+2010,06029,Kern,06095,Solano,14
+2010,06029,Kern,06097,Sonoma,38
+2010,06029,Kern,06099,Stanislaus,17
+2010,06029,Kern,06101,Sutter,32
+2010,06029,Kern,06107,Tulare,3054
+2010,06029,Kern,06111,Ventura,899
+2010,06029,Kern,06115,Yuba,45
+2010,06031,Kings,06013,Contra Costa,52
+2010,06031,Kings,06019,Fresno,4998
+2010,06031,Kings,06023,Humboldt,18
+2010,06031,Kings,06029,Kern,1546
+2010,06031,Kings,06031,Kings,44944
+2010,06031,Kings,06037,Los Angeles,150
+2010,06031,Kings,06039,Madera,185
+2010,06031,Kings,06043,Mariposa,30
+2010,06031,Kings,06047,Merced,14
+2010,06031,Kings,06053,Monterey,49
+2010,06031,Kings,06063,Plumas,1
+2010,06031,Kings,06065,Riverside,29
+2010,06031,Kings,06067,Sacramento,19
+2010,06031,Kings,06069,San Benito,20
+2010,06031,Kings,06071,San Bernardino,48
+2010,06031,Kings,06073,San Diego,200
+2010,06031,Kings,06077,San Joaquin,57
+2010,06031,Kings,06079,San Luis Obispo,328
+2010,06031,Kings,06081,San Mateo,11
+2010,06031,Kings,06085,Santa Clara,146
+2010,06031,Kings,06099,Stanislaus,13
+2010,06031,Kings,06107,Tulare,3300
+2010,06031,Kings,06111,Ventura,22
+2010,06033,Lake,06001,Alameda,57
+2010,06033,Lake,06007,Butte,52
+2010,06033,Lake,06013,Contra Costa,55
+2010,06033,Lake,06017,El Dorado,31
+2010,06033,Lake,06029,Kern,12
+2010,06033,Lake,06033,Lake,17622
+2010,06033,Lake,06037,Los Angeles,54
+2010,06033,Lake,06041,Marin,191
+2010,06033,Lake,06045,Mendocino,1364
+2010,06033,Lake,06055,Napa,1240
+2010,06033,Lake,06065,Riverside,14
+2010,06033,Lake,06067,Sacramento,10
+2010,06033,Lake,06075,San Francisco,110
+2010,06033,Lake,06081,San Mateo,44
+2010,06033,Lake,06085,Santa Clara,66
+2010,06033,Lake,06087,Santa Cruz,12
+2010,06033,Lake,06089,Shasta,29
+2010,06033,Lake,06095,Solano,124
+2010,06033,Lake,06097,Sonoma,2002
+2010,06033,Lake,06103,Tehama,12
+2010,06033,Lake,06113,Yolo,12
+2010,06035,Lassen,06007,Butte,28
+2010,06035,Lassen,06023,Humboldt,5
+2010,06035,Lassen,06035,Lassen,9389
+2010,06035,Lassen,06049,Modoc,102
+2010,06035,Lassen,06059,Orange,4
+2010,06035,Lassen,06063,Plumas,220
+2010,06035,Lassen,06079,San Luis Obispo,7
+2010,06035,Lassen,06081,San Mateo,2
+2010,06035,Lassen,06089,Shasta,186
+2010,06035,Lassen,06103,Tehama,13
+2010,06037,Los Angeles,06001,Alameda,1355
+2010,06037,Los Angeles,06005,Amador,11
+2010,06037,Los Angeles,06007,Butte,158
+2010,06037,Los Angeles,06011,Colusa,14
+2010,06037,Los Angeles,06013,Contra Costa,407
+2010,06037,Los Angeles,06015,Del Norte,32
+2010,06037,Los Angeles,06017,El Dorado,30
+2010,06037,Los Angeles,06019,Fresno,625
+2010,06037,Los Angeles,06021,Glenn,4
+2010,06037,Los Angeles,06023,Humboldt,76
+2010,06037,Los Angeles,06025,Imperial,277
+2010,06037,Los Angeles,06027,Inyo,79
+2010,06037,Los Angeles,06029,Kern,7897
+2010,06037,Los Angeles,06031,Kings,22
+2010,06037,Los Angeles,06033,Lake,61
+2010,06037,Los Angeles,06035,Lassen,75
+2010,06037,Los Angeles,06037,Los Angeles,4063663
+2010,06037,Los Angeles,06039,Madera,28
+2010,06037,Los Angeles,06041,Marin,132
+2010,06037,Los Angeles,06045,Mendocino,159
+2010,06037,Los Angeles,06047,Merced,197
+2010,06037,Los Angeles,06051,Mono,63
+2010,06037,Los Angeles,06053,Monterey,579
+2010,06037,Los Angeles,06055,Napa,30
+2010,06037,Los Angeles,06057,Nevada,37
+2010,06037,Los Angeles,06059,Orange,181744
+2010,06037,Los Angeles,06061,Placer,42
+2010,06037,Los Angeles,06063,Plumas,12
+2010,06037,Los Angeles,06065,Riverside,15228
+2010,06037,Los Angeles,06067,Sacramento,766
+2010,06037,Los Angeles,06069,San Benito,59
+2010,06037,Los Angeles,06071,San Bernardino,57390
+2010,06037,Los Angeles,06073,San Diego,6734
+2010,06037,Los Angeles,06075,San Francisco,1634
+2010,06037,Los Angeles,06077,San Joaquin,181
+2010,06037,Los Angeles,06079,San Luis Obispo,365
+2010,06037,Los Angeles,06081,San Mateo,871
+2010,06037,Los Angeles,06083,Santa Barbara,1894
+2010,06037,Los Angeles,06085,Santa Clara,1195
+2010,06037,Los Angeles,06087,Santa Cruz,205
+2010,06037,Los Angeles,06089,Shasta,73
+2010,06037,Los Angeles,06095,Solano,116
+2010,06037,Los Angeles,06097,Sonoma,150
+2010,06037,Los Angeles,06099,Stanislaus,116
+2010,06037,Los Angeles,06101,Sutter,38
+2010,06037,Los Angeles,06105,Trinity,21
+2010,06037,Los Angeles,06107,Tulare,229
+2010,06037,Los Angeles,06109,Tuolumne,23
+2010,06037,Los Angeles,06111,Ventura,36602
+2010,06037,Los Angeles,06113,Yolo,176
+2010,06037,Los Angeles,06115,Yuba,37
+2010,06039,Madera,06001,Alameda,119
+2010,06039,Madera,06009,Calaveras,6
+2010,06039,Madera,06013,Contra Costa,30
+2010,06039,Madera,06019,Fresno,11549
+2010,06039,Madera,06029,Kern,20
+2010,06039,Madera,06031,Kings,146
+2010,06039,Madera,06037,Los Angeles,107
+2010,06039,Madera,06039,Madera,30794
+2010,06039,Madera,06041,Marin,20
+2010,06039,Madera,06043,Mariposa,634
+2010,06039,Madera,06047,Merced,1401
+2010,06039,Madera,06053,Monterey,16
+2010,06039,Madera,06055,Napa,8
+2010,06039,Madera,06057,Nevada,15
+2010,06039,Madera,06059,Orange,125
+2010,06039,Madera,06067,Sacramento,92
+2010,06039,Madera,06069,San Benito,46
+2010,06039,Madera,06075,San Francisco,55
+2010,06039,Madera,06077,San Joaquin,117
+2010,06039,Madera,06079,San Luis Obispo,14
+2010,06039,Madera,06081,San Mateo,8
+2010,06039,Madera,06083,Santa Barbara,27
+2010,06039,Madera,06085,Santa Clara,390
+2010,06039,Madera,06087,Santa Cruz,19
+2010,06039,Madera,06089,Shasta,23
+2010,06039,Madera,06095,Solano,6
+2010,06039,Madera,06097,Sonoma,32
+2010,06039,Madera,06099,Stanislaus,124
+2010,06039,Madera,06107,Tulare,178
+2010,06039,Madera,06111,Ventura,25
+2010,06041,Marin,06001,Alameda,4479
+2010,06041,Marin,06013,Contra Costa,2357
+2010,06041,Marin,06019,Fresno,15
+2010,06041,Marin,06023,Humboldt,8
+2010,06041,Marin,06027,Inyo,8
+2010,06041,Marin,06037,Los Angeles,210
+2010,06041,Marin,06041,Marin,78950
+2010,06041,Marin,06045,Mendocino,34
+2010,06041,Marin,06055,Napa,419
+2010,06041,Marin,06057,Nevada,15
+2010,06041,Marin,06059,Orange,36
+2010,06041,Marin,06061,Placer,15
+2010,06041,Marin,06065,Riverside,11
+2010,06041,Marin,06067,Sacramento,126
+2010,06041,Marin,06071,San Bernardino,30
+2010,06041,Marin,06073,San Diego,29
+2010,06041,Marin,06075,San Francisco,25931
+2010,06041,Marin,06077,San Joaquin,28
+2010,06041,Marin,06081,San Mateo,2016
+2010,06041,Marin,06083,Santa Barbara,42
+2010,06041,Marin,06085,Santa Clara,914
+2010,06041,Marin,06087,Santa Cruz,14
+2010,06041,Marin,06095,Solano,640
+2010,06041,Marin,06097,Sonoma,4187
+2010,06041,Marin,06099,Stanislaus,14
+2010,06041,Marin,06113,Yolo,58
+2010,06043,Mariposa,06001,Alameda,124
+2010,06043,Mariposa,06009,Calaveras,34
+2010,06043,Mariposa,06013,Contra Costa,19
+2010,06043,Mariposa,06019,Fresno,173
+2010,06043,Mariposa,06031,Kings,14
+2010,06043,Mariposa,06039,Madera,336
+2010,06043,Mariposa,06043,Mariposa,4982
+2010,06043,Mariposa,06047,Merced,521
+2010,06043,Mariposa,06053,Monterey,86
+2010,06043,Mariposa,06057,Nevada,27
+2010,06043,Mariposa,06067,Sacramento,62
+2010,06043,Mariposa,06081,San Mateo,11
+2010,06043,Mariposa,06085,Santa Clara,153
+2010,06043,Mariposa,06099,Stanislaus,280
+2010,06043,Mariposa,06109,Tuolumne,296
+2010,06043,Mariposa,06111,Ventura,19
+2010,06045,Mendocino,06001,Alameda,85
+2010,06045,Mendocino,06007,Butte,50
+2010,06045,Mendocino,06013,Contra Costa,13
+2010,06045,Mendocino,06017,El Dorado,16
+2010,06045,Mendocino,06019,Fresno,33
+2010,06045,Mendocino,06023,Humboldt,88
+2010,06045,Mendocino,06033,Lake,273
+2010,06045,Mendocino,06041,Marin,55
+2010,06045,Mendocino,06045,Mendocino,35397
+2010,06045,Mendocino,06053,Monterey,10
+2010,06045,Mendocino,06055,Napa,27
+2010,06045,Mendocino,06061,Placer,29
+2010,06045,Mendocino,06067,Sacramento,15
+2010,06045,Mendocino,06075,San Francisco,132
+2010,06045,Mendocino,06081,San Mateo,11
+2010,06045,Mendocino,06083,Santa Barbara,8
+2010,06045,Mendocino,06085,Santa Clara,54
+2010,06045,Mendocino,06087,Santa Cruz,18
+2010,06045,Mendocino,06089,Shasta,15
+2010,06045,Mendocino,06093,Siskiyou,14
+2010,06045,Mendocino,06095,Solano,21
+2010,06045,Mendocino,06097,Sonoma,963
+2010,06045,Mendocino,06103,Tehama,9
+2010,06045,Mendocino,06111,Ventura,19
+2010,06045,Mendocino,06113,Yolo,89
+2010,06047,Merced,06001,Alameda,755
+2010,06047,Merced,06007,Butte,12
+2010,06047,Merced,06009,Calaveras,25
+2010,06047,Merced,06013,Contra Costa,241
+2010,06047,Merced,06017,El Dorado,55
+2010,06047,Merced,06019,Fresno,1362
+2010,06047,Merced,06023,Humboldt,30
+2010,06047,Merced,06029,Kern,54
+2010,06047,Merced,06031,Kings,32
+2010,06047,Merced,06037,Los Angeles,38
+2010,06047,Merced,06039,Madera,1198
+2010,06047,Merced,06043,Mariposa,141
+2010,06047,Merced,06047,Merced,68465
+2010,06047,Merced,06053,Monterey,653
+2010,06047,Merced,06055,Napa,7
+2010,06047,Merced,06057,Nevada,15
+2010,06047,Merced,06059,Orange,39
+2010,06047,Merced,06061,Placer,19
+2010,06047,Merced,06065,Riverside,16
+2010,06047,Merced,06067,Sacramento,207
+2010,06047,Merced,06069,San Benito,640
+2010,06047,Merced,06071,San Bernardino,12
+2010,06047,Merced,06073,San Diego,124
+2010,06047,Merced,06075,San Francisco,185
+2010,06047,Merced,06077,San Joaquin,1610
+2010,06047,Merced,06079,San Luis Obispo,29
+2010,06047,Merced,06081,San Mateo,284
+2010,06047,Merced,06083,Santa Barbara,8
+2010,06047,Merced,06085,Santa Clara,4118
+2010,06047,Merced,06087,Santa Cruz,340
+2010,06047,Merced,06089,Shasta,30
+2010,06047,Merced,06095,Solano,102
+2010,06047,Merced,06097,Sonoma,86
+2010,06047,Merced,06099,Stanislaus,10053
+2010,06047,Merced,06101,Sutter,9
+2010,06047,Merced,06107,Tulare,54
+2010,06047,Merced,06109,Tuolumne,92
+2010,06047,Merced,06111,Ventura,11
+2010,06047,Merced,06113,Yolo,21
+2010,06049,Modoc,06027,Inyo,5
+2010,06049,Modoc,06035,Lassen,134
+2010,06049,Modoc,06049,Modoc,2826
+2010,06049,Modoc,06057,Nevada,7
+2010,06049,Modoc,06089,Shasta,74
+2010,06049,Modoc,06093,Siskiyou,257
+2010,06049,Modoc,06103,Tehama,8
+2010,06049,Modoc,06105,Trinity,7
+2010,06051,Mono,06003,Alpine,33
+2010,06051,Mono,06027,Inyo,817
+2010,06051,Mono,06029,Kern,24
+2010,06051,Mono,06037,Los Angeles,41
+2010,06051,Mono,06051,Mono,7132
+2010,06051,Mono,06053,Monterey,10
+2010,06051,Mono,06059,Orange,29
+2010,06051,Mono,06071,San Bernardino,6
+2010,06051,Mono,06097,Sonoma,10
+2010,06053,Monterey,06001,Alameda,506
+2010,06053,Monterey,06007,Butte,13
+2010,06053,Monterey,06011,Colusa,11
+2010,06053,Monterey,06013,Contra Costa,111
+2010,06053,Monterey,06017,El Dorado,65
+2010,06053,Monterey,06019,Fresno,111
+2010,06053,Monterey,06025,Imperial,30
+2010,06053,Monterey,06029,Kern,113
+2010,06053,Monterey,06031,Kings,42
+2010,06053,Monterey,06037,Los Angeles,293
+2010,06053,Monterey,06039,Madera,9
+2010,06053,Monterey,06041,Marin,19
+2010,06053,Monterey,06045,Mendocino,26
+2010,06053,Monterey,06047,Merced,32
+2010,06053,Monterey,06053,Monterey,158479
+2010,06053,Monterey,06055,Napa,12
+2010,06053,Monterey,06057,Nevada,25
+2010,06053,Monterey,06059,Orange,53
+2010,06053,Monterey,06061,Placer,10
+2010,06053,Monterey,06067,Sacramento,82
+2010,06053,Monterey,06069,San Benito,1513
+2010,06053,Monterey,06071,San Bernardino,13
+2010,06053,Monterey,06073,San Diego,158
+2010,06053,Monterey,06075,San Francisco,257
+2010,06053,Monterey,06077,San Joaquin,44
+2010,06053,Monterey,06079,San Luis Obispo,591
+2010,06053,Monterey,06081,San Mateo,270
+2010,06053,Monterey,06083,Santa Barbara,30
+2010,06053,Monterey,06085,Santa Clara,4750
+2010,06053,Monterey,06087,Santa Cruz,8551
+2010,06053,Monterey,06095,Solano,26
+2010,06053,Monterey,06097,Sonoma,28
+2010,06053,Monterey,06099,Stanislaus,37
+2010,06053,Monterey,06103,Tehama,11
+2010,06053,Monterey,06105,Trinity,5
+2010,06053,Monterey,06111,Ventura,32
+2010,06055,Napa,06001,Alameda,1271
+2010,06055,Napa,06013,Contra Costa,1576
+2010,06055,Napa,06033,Lake,248
+2010,06055,Napa,06037,Los Angeles,102
+2010,06055,Napa,06041,Marin,932
+2010,06055,Napa,06045,Mendocino,26
+2010,06055,Napa,06047,Merced,42
+2010,06055,Napa,06053,Monterey,47
+2010,06055,Napa,06055,Napa,48424
+2010,06055,Napa,06059,Orange,11
+2010,06055,Napa,06063,Plumas,8
+2010,06055,Napa,06067,Sacramento,298
+2010,06055,Napa,06073,San Diego,30
+2010,06055,Napa,06075,San Francisco,1864
+2010,06055,Napa,06077,San Joaquin,37
+2010,06055,Napa,06079,San Luis Obispo,32
+2010,06055,Napa,06081,San Mateo,321
+2010,06055,Napa,06085,Santa Clara,278
+2010,06055,Napa,06087,Santa Cruz,12
+2010,06055,Napa,06095,Solano,4441
+2010,06055,Napa,06097,Sonoma,2177
+2010,06055,Napa,06113,Yolo,161
+2010,06057,Nevada,06001,Alameda,129
+2010,06057,Nevada,06005,Amador,19
+2010,06057,Nevada,06007,Butte,62
+2010,06057,Nevada,06009,Calaveras,8
+2010,06057,Nevada,06013,Contra Costa,79
+2010,06057,Nevada,06017,El Dorado,120
+2010,06057,Nevada,06037,Los Angeles,107
+2010,06057,Nevada,06041,Marin,116
+2010,06057,Nevada,06053,Monterey,14
+2010,06057,Nevada,06057,Nevada,32211
+2010,06057,Nevada,06059,Orange,50
+2010,06057,Nevada,06061,Placer,6170
+2010,06057,Nevada,06063,Plumas,12
+2010,06057,Nevada,06065,Riverside,12
+2010,06057,Nevada,06067,Sacramento,1732
+2010,06057,Nevada,06073,San Diego,29
+2010,06057,Nevada,06075,San Francisco,108
+2010,06057,Nevada,06077,San Joaquin,29
+2010,06057,Nevada,06081,San Mateo,67
+2010,06057,Nevada,06083,Santa Barbara,12
+2010,06057,Nevada,06085,Santa Clara,220
+2010,06057,Nevada,06087,Santa Cruz,22
+2010,06057,Nevada,06089,Shasta,25
+2010,06057,Nevada,06091,Sierra,74
+2010,06057,Nevada,06095,Solano,70
+2010,06057,Nevada,06097,Sonoma,91
+2010,06057,Nevada,06099,Stanislaus,14
+2010,06057,Nevada,06101,Sutter,269
+2010,06057,Nevada,06109,Tuolumne,7
+2010,06057,Nevada,06113,Yolo,117
+2010,06057,Nevada,06115,Yuba,507
+2010,06059,Orange,06001,Alameda,192
+2010,06059,Orange,06003,Alpine,23
+2010,06059,Orange,06007,Butte,28
+2010,06059,Orange,06013,Contra Costa,84
+2010,06059,Orange,06017,El Dorado,10
+2010,06059,Orange,06019,Fresno,85
+2010,06059,Orange,06023,Humboldt,60
+2010,06059,Orange,06025,Imperial,21
+2010,06059,Orange,06027,Inyo,54
+2010,06059,Orange,06029,Kern,333
+2010,06059,Orange,06037,Los Angeles,178681
+2010,06059,Orange,06039,Madera,10
+2010,06059,Orange,06041,Marin,33
+2010,06059,Orange,06045,Mendocino,17
+2010,06059,Orange,06047,Merced,56
+2010,06059,Orange,06049,Modoc,4
+2010,06059,Orange,06051,Mono,9
+2010,06059,Orange,06053,Monterey,71
+2010,06059,Orange,06057,Nevada,29
+2010,06059,Orange,06059,Orange,1181354
+2010,06059,Orange,06061,Placer,71
+2010,06059,Orange,06063,Plumas,11
+2010,06059,Orange,06065,Riverside,15242
+2010,06059,Orange,06067,Sacramento,257
+2010,06059,Orange,06071,San Bernardino,12106
+2010,06059,Orange,06073,San Diego,13904
+2010,06059,Orange,06075,San Francisco,360
+2010,06059,Orange,06077,San Joaquin,67
+2010,06059,Orange,06079,San Luis Obispo,101
+2010,06059,Orange,06081,San Mateo,345
+2010,06059,Orange,06083,Santa Barbara,275
+2010,06059,Orange,06085,Santa Clara,626
+2010,06059,Orange,06087,Santa Cruz,65
+2010,06059,Orange,06089,Shasta,8
+2010,06059,Orange,06095,Solano,40
+2010,06059,Orange,06097,Sonoma,78
+2010,06059,Orange,06099,Stanislaus,83
+2010,06059,Orange,06103,Tehama,10
+2010,06059,Orange,06107,Tulare,54
+2010,06059,Orange,06111,Ventura,532
+2010,06059,Orange,06113,Yolo,45
+2010,06061,Placer,06001,Alameda,647
+2010,06061,Placer,06003,Alpine,12
+2010,06061,Placer,06005,Amador,107
+2010,06061,Placer,06007,Butte,131
+2010,06061,Placer,06011,Colusa,46
+2010,06061,Placer,06013,Contra Costa,308
+2010,06061,Placer,06017,El Dorado,1702
+2010,06061,Placer,06019,Fresno,143
+2010,06061,Placer,06029,Kern,4
+2010,06061,Placer,06033,Lake,11
+2010,06061,Placer,06035,Lassen,12
+2010,06061,Placer,06037,Los Angeles,284
+2010,06061,Placer,06039,Madera,9
+2010,06061,Placer,06041,Marin,81
+2010,06061,Placer,06045,Mendocino,28
+2010,06061,Placer,06047,Merced,70
+2010,06061,Placer,06053,Monterey,43
+2010,06061,Placer,06055,Napa,126
+2010,06061,Placer,06057,Nevada,2073
+2010,06061,Placer,06059,Orange,92
+2010,06061,Placer,06061,Placer,94857
+2010,06061,Placer,06063,Plumas,34
+2010,06061,Placer,06067,Sacramento,43598
+2010,06061,Placer,06073,San Diego,63
+2010,06061,Placer,06075,San Francisco,325
+2010,06061,Placer,06077,San Joaquin,505
+2010,06061,Placer,06079,San Luis Obispo,50
+2010,06061,Placer,06081,San Mateo,414
+2010,06061,Placer,06083,Santa Barbara,11
+2010,06061,Placer,06085,Santa Clara,662
+2010,06061,Placer,06089,Shasta,16
+2010,06061,Placer,06095,Solano,743
+2010,06061,Placer,06097,Sonoma,102
+2010,06061,Placer,06099,Stanislaus,26
+2010,06061,Placer,06101,Sutter,466
+2010,06061,Placer,06103,Tehama,21
+2010,06061,Placer,06107,Tulare,44
+2010,06061,Placer,06111,Ventura,11
+2010,06061,Placer,06113,Yolo,2633
+2010,06061,Placer,06115,Yuba,809
+2010,06063,Plumas,06001,Alameda,8
+2010,06063,Plumas,06005,Amador,4
+2010,06063,Plumas,06007,Butte,86
+2010,06063,Plumas,06013,Contra Costa,14
+2010,06063,Plumas,06021,Glenn,44
+2010,06063,Plumas,06035,Lassen,155
+2010,06063,Plumas,06037,Los Angeles,14
+2010,06063,Plumas,06041,Marin,18
+2010,06063,Plumas,06049,Modoc,29
+2010,06063,Plumas,06053,Monterey,10
+2010,06063,Plumas,06057,Nevada,152
+2010,06063,Plumas,06059,Orange,12
+2010,06063,Plumas,06061,Placer,60
+2010,06063,Plumas,06063,Plumas,7260
+2010,06063,Plumas,06067,Sacramento,29
+2010,06063,Plumas,06071,San Bernardino,68
+2010,06063,Plumas,06085,Santa Clara,28
+2010,06063,Plumas,06089,Shasta,13
+2010,06063,Plumas,06091,Sierra,272
+2010,06063,Plumas,06099,Stanislaus,13
+2010,06065,Riverside,06001,Alameda,151
+2010,06065,Riverside,06011,Colusa,15
+2010,06065,Riverside,06013,Contra Costa,106
+2010,06065,Riverside,06019,Fresno,186
+2010,06065,Riverside,06023,Humboldt,55
+2010,06065,Riverside,06025,Imperial,665
+2010,06065,Riverside,06029,Kern,530
+2010,06065,Riverside,06031,Kings,14
+2010,06065,Riverside,06033,Lake,9
+2010,06065,Riverside,06037,Los Angeles,50901
+2010,06065,Riverside,06039,Madera,15
+2010,06065,Riverside,06047,Merced,21
+2010,06065,Riverside,06049,Modoc,19
+2010,06065,Riverside,06053,Monterey,141
+2010,06065,Riverside,06055,Napa,9
+2010,06065,Riverside,06057,Nevada,9
+2010,06065,Riverside,06059,Orange,67180
+2010,06065,Riverside,06061,Placer,60
+2010,06065,Riverside,06065,Riverside,586265
+2010,06065,Riverside,06067,Sacramento,159
+2010,06065,Riverside,06071,San Bernardino,89709
+2010,06065,Riverside,06073,San Diego,38830
+2010,06065,Riverside,06075,San Francisco,288
+2010,06065,Riverside,06077,San Joaquin,45
+2010,06065,Riverside,06079,San Luis Obispo,107
+2010,06065,Riverside,06081,San Mateo,216
+2010,06065,Riverside,06083,Santa Barbara,210
+2010,06065,Riverside,06085,Santa Clara,361
+2010,06065,Riverside,06097,Sonoma,93
+2010,06065,Riverside,06099,Stanislaus,62
+2010,06065,Riverside,06107,Tulare,116
+2010,06065,Riverside,06109,Tuolumne,21
+2010,06065,Riverside,06111,Ventura,575
+2010,06065,Riverside,06113,Yolo,46
+2010,06067,Sacramento,06001,Alameda,2801
+2010,06067,Sacramento,06003,Alpine,16
+2010,06067,Sacramento,06005,Amador,1018
+2010,06067,Sacramento,06007,Butte,321
+2010,06067,Sacramento,06009,Calaveras,63
+2010,06067,Sacramento,06011,Colusa,124
+2010,06067,Sacramento,06013,Contra Costa,2137
+2010,06067,Sacramento,06017,El Dorado,6565
+2010,06067,Sacramento,06019,Fresno,468
+2010,06067,Sacramento,06021,Glenn,44
+2010,06067,Sacramento,06023,Humboldt,48
+2010,06067,Sacramento,06029,Kern,83
+2010,06067,Sacramento,06031,Kings,114
+2010,06067,Sacramento,06033,Lake,75
+2010,06067,Sacramento,06035,Lassen,8
+2010,06067,Sacramento,06037,Los Angeles,509
+2010,06067,Sacramento,06039,Madera,85
+2010,06067,Sacramento,06041,Marin,626
+2010,06067,Sacramento,06043,Mariposa,98
+2010,06067,Sacramento,06045,Mendocino,21
+2010,06067,Sacramento,06047,Merced,62
+2010,06067,Sacramento,06051,Mono,7
+2010,06067,Sacramento,06053,Monterey,109
+2010,06067,Sacramento,06055,Napa,373
+2010,06067,Sacramento,06057,Nevada,677
+2010,06067,Sacramento,06059,Orange,181
+2010,06067,Sacramento,06061,Placer,34539
+2010,06067,Sacramento,06063,Plumas,48
+2010,06067,Sacramento,06065,Riverside,82
+2010,06067,Sacramento,06067,Sacramento,502114
+2010,06067,Sacramento,06069,San Benito,10
+2010,06067,Sacramento,06071,San Bernardino,165
+2010,06067,Sacramento,06073,San Diego,199
+2010,06067,Sacramento,06075,San Francisco,1926
+2010,06067,Sacramento,06077,San Joaquin,8151
+2010,06067,Sacramento,06079,San Luis Obispo,64
+2010,06067,Sacramento,06081,San Mateo,1029
+2010,06067,Sacramento,06083,Santa Barbara,19
+2010,06067,Sacramento,06085,Santa Clara,2022
+2010,06067,Sacramento,06087,Santa Cruz,80
+2010,06067,Sacramento,06089,Shasta,80
+2010,06067,Sacramento,06095,Solano,6089
+2010,06067,Sacramento,06097,Sonoma,389
+2010,06067,Sacramento,06099,Stanislaus,778
+2010,06067,Sacramento,06101,Sutter,862
+2010,06067,Sacramento,06103,Tehama,12
+2010,06067,Sacramento,06105,Trinity,5
+2010,06067,Sacramento,06107,Tulare,26
+2010,06067,Sacramento,06109,Tuolumne,127
+2010,06067,Sacramento,06111,Ventura,20
+2010,06067,Sacramento,06113,Yolo,29095
+2010,06067,Sacramento,06115,Yuba,621
+2010,06069,San Benito,06001,Alameda,112
+2010,06069,San Benito,06007,Butte,7
+2010,06069,San Benito,06013,Contra Costa,11
+2010,06069,San Benito,06017,El Dorado,25
+2010,06069,San Benito,06019,Fresno,7
+2010,06069,San Benito,06037,Los Angeles,18
+2010,06069,San Benito,06047,Merced,21
+2010,06069,San Benito,06053,Monterey,2922
+2010,06069,San Benito,06061,Placer,17
+2010,06069,San Benito,06067,Sacramento,111
+2010,06069,San Benito,06069,San Benito,12213
+2010,06069,San Benito,06075,San Francisco,51
+2010,06069,San Benito,06077,San Joaquin,4
+2010,06069,San Benito,06081,San Mateo,149
+2010,06069,San Benito,06085,Santa Clara,7345
+2010,06069,San Benito,06087,Santa Cruz,848
+2010,06069,San Benito,06099,Stanislaus,14
+2010,06071,San Bernardino,06001,Alameda,201
+2010,06071,San Bernardino,06009,Calaveras,10
+2010,06071,San Bernardino,06013,Contra Costa,56
+2010,06071,San Bernardino,06017,El Dorado,25
+2010,06071,San Bernardino,06019,Fresno,110
+2010,06071,San Bernardino,06021,Glenn,24
+2010,06071,San Bernardino,06023,Humboldt,27
+2010,06071,San Bernardino,06025,Imperial,102
+2010,06071,San Bernardino,06027,Inyo,220
+2010,06071,San Bernardino,06029,Kern,1641
+2010,06071,San Bernardino,06031,Kings,27
+2010,06071,San Bernardino,06037,Los Angeles,126642
+2010,06071,San Bernardino,06039,Madera,33
+2010,06071,San Bernardino,06041,Marin,54
+2010,06071,San Bernardino,06043,Mariposa,11
+2010,06071,San Bernardino,06047,Merced,13
+2010,06071,San Bernardino,06051,Mono,11
+2010,06071,San Bernardino,06053,Monterey,134
+2010,06071,San Bernardino,06055,Napa,75
+2010,06071,San Bernardino,06059,Orange,34997
+2010,06071,San Bernardino,06061,Placer,51
+2010,06071,San Bernardino,06063,Plumas,55
+2010,06071,San Bernardino,06065,Riverside,65136
+2010,06071,San Bernardino,06067,Sacramento,297
+2010,06071,San Bernardino,06069,San Benito,20
+2010,06071,San Bernardino,06071,San Bernardino,570048
+2010,06071,San Bernardino,06073,San Diego,2062
+2010,06071,San Bernardino,06075,San Francisco,68
+2010,06071,San Bernardino,06077,San Joaquin,256
+2010,06071,San Bernardino,06079,San Luis Obispo,26
+2010,06071,San Bernardino,06081,San Mateo,158
+2010,06071,San Bernardino,06083,Santa Barbara,206
+2010,06071,San Bernardino,06085,Santa Clara,99
+2010,06071,San Bernardino,06089,Shasta,28
+2010,06071,San Bernardino,06095,Solano,10
+2010,06071,San Bernardino,06097,Sonoma,98
+2010,06071,San Bernardino,06101,Sutter,24
+2010,06071,San Bernardino,06105,Trinity,30
+2010,06071,San Bernardino,06107,Tulare,153
+2010,06071,San Bernardino,06109,Tuolumne,9
+2010,06071,San Bernardino,06111,Ventura,828
+2010,06071,San Bernardino,06113,Yolo,9
+2010,06073,San Diego,06001,Alameda,248
+2010,06073,San Diego,06003,Alpine,11
+2010,06073,San Diego,06007,Butte,121
+2010,06073,San Diego,06013,Contra Costa,28
+2010,06073,San Diego,06017,El Dorado,40
+2010,06073,San Diego,06019,Fresno,64
+2010,06073,San Diego,06025,Imperial,792
+2010,06073,San Diego,06027,Inyo,49
+2010,06073,San Diego,06029,Kern,258
+2010,06073,San Diego,06031,Kings,25
+2010,06073,San Diego,06037,Los Angeles,6884
+2010,06073,San Diego,06041,Marin,61
+2010,06073,San Diego,06043,Mariposa,9
+2010,06073,San Diego,06047,Merced,15
+2010,06073,San Diego,06053,Monterey,101
+2010,06073,San Diego,06055,Napa,22
+2010,06073,San Diego,06059,Orange,18788
+2010,06073,San Diego,06061,Placer,36
+2010,06073,San Diego,06063,Plumas,16
+2010,06073,San Diego,06065,Riverside,7400
+2010,06073,San Diego,06067,Sacramento,148
+2010,06073,San Diego,06069,San Benito,12
+2010,06073,San Diego,06071,San Bernardino,1383
+2010,06073,San Diego,06073,San Diego,1371498
+2010,06073,San Diego,06075,San Francisco,380
+2010,06073,San Diego,06079,San Luis Obispo,235
+2010,06073,San Diego,06081,San Mateo,346
+2010,06073,San Diego,06083,Santa Barbara,192
+2010,06073,San Diego,06085,Santa Clara,307
+2010,06073,San Diego,06087,Santa Cruz,31
+2010,06073,San Diego,06095,Solano,54
+2010,06073,San Diego,06097,Sonoma,26
+2010,06073,San Diego,06101,Sutter,9
+2010,06073,San Diego,06107,Tulare,5
+2010,06073,San Diego,06111,Ventura,410
+2010,06073,San Diego,06113,Yolo,37
+2010,06075,San Francisco,06001,Alameda,22009
+2010,06075,San Francisco,06007,Butte,5
+2010,06075,San Francisco,06013,Contra Costa,4851
+2010,06075,San Francisco,06019,Fresno,15
+2010,06075,San Francisco,06033,Lake,14
+2010,06075,San Francisco,06037,Los Angeles,532
+2010,06075,San Francisco,06041,Marin,7412
+2010,06075,San Francisco,06045,Mendocino,103
+2010,06075,San Francisco,06053,Monterey,225
+2010,06075,San Francisco,06055,Napa,380
+2010,06075,San Francisco,06059,Orange,92
+2010,06075,San Francisco,06065,Riverside,8
+2010,06075,San Francisco,06067,Sacramento,301
+2010,06075,San Francisco,06069,San Benito,15
+2010,06075,San Francisco,06071,San Bernardino,84
+2010,06075,San Francisco,06073,San Diego,81
+2010,06075,San Francisco,06075,San Francisco,330965
+2010,06075,San Francisco,06077,San Joaquin,82
+2010,06075,San Francisco,06081,San Mateo,43423
+2010,06075,San Francisco,06083,Santa Barbara,131
+2010,06075,San Francisco,06085,Santa Clara,19087
+2010,06075,San Francisco,06087,Santa Cruz,213
+2010,06075,San Francisco,06089,Shasta,18
+2010,06075,San Francisco,06095,Solano,618
+2010,06075,San Francisco,06097,Sonoma,889
+2010,06075,San Francisco,06099,Stanislaus,30
+2010,06075,San Francisco,06103,Tehama,17
+2010,06075,San Francisco,06111,Ventura,15
+2010,06075,San Francisco,06113,Yolo,244
+2010,06077,San Joaquin,06001,Alameda,26121
+2010,06077,San Joaquin,06003,Alpine,12
+2010,06077,San Joaquin,06005,Amador,503
+2010,06077,San Joaquin,06007,Butte,48
+2010,06077,San Joaquin,06009,Calaveras,440
+2010,06077,San Joaquin,06011,Colusa,19
+2010,06077,San Joaquin,06013,Contra Costa,5377
+2010,06077,San Joaquin,06017,El Dorado,170
+2010,06077,San Joaquin,06019,Fresno,327
+2010,06077,San Joaquin,06027,Inyo,9
+2010,06077,San Joaquin,06029,Kern,23
+2010,06077,San Joaquin,06033,Lake,6
+2010,06077,San Joaquin,06035,Lassen,33
+2010,06077,San Joaquin,06037,Los Angeles,182
+2010,06077,San Joaquin,06039,Madera,27
+2010,06077,San Joaquin,06041,Marin,381
+2010,06077,San Joaquin,06043,Mariposa,22
+2010,06077,San Joaquin,06045,Mendocino,16
+2010,06077,San Joaquin,06047,Merced,424
+2010,06077,San Joaquin,06053,Monterey,48
+2010,06077,San Joaquin,06055,Napa,177
+2010,06077,San Joaquin,06057,Nevada,21
+2010,06077,San Joaquin,06059,Orange,59
+2010,06077,San Joaquin,06061,Placer,219
+2010,06077,San Joaquin,06065,Riverside,106
+2010,06077,San Joaquin,06067,Sacramento,7805
+2010,06077,San Joaquin,06071,San Bernardino,28
+2010,06077,San Joaquin,06073,San Diego,28
+2010,06077,San Joaquin,06075,San Francisco,2582
+2010,06077,San Joaquin,06077,San Joaquin,193718
+2010,06077,San Joaquin,06079,San Luis Obispo,9
+2010,06077,San Joaquin,06081,San Mateo,1920
+2010,06077,San Joaquin,06085,Santa Clara,7954
+2010,06077,San Joaquin,06087,Santa Cruz,86
+2010,06077,San Joaquin,06095,Solano,1041
+2010,06077,San Joaquin,06097,Sonoma,197
+2010,06077,San Joaquin,06099,Stanislaus,10040
+2010,06077,San Joaquin,06101,Sutter,105
+2010,06077,San Joaquin,06103,Tehama,44
+2010,06077,San Joaquin,06107,Tulare,20
+2010,06077,San Joaquin,06109,Tuolumne,421
+2010,06077,San Joaquin,06111,Ventura,7
+2010,06077,San Joaquin,06113,Yolo,426
+2010,06077,San Joaquin,06115,Yuba,93
+2010,06079,San Luis Obispo,06001,Alameda,132
+2010,06079,San Luis Obispo,06013,Contra Costa,52
+2010,06079,San Luis Obispo,06019,Fresno,324
+2010,06079,San Luis Obispo,06029,Kern,298
+2010,06079,San Luis Obispo,06031,Kings,145
+2010,06079,San Luis Obispo,06037,Los Angeles,847
+2010,06079,San Luis Obispo,06045,Mendocino,12
+2010,06079,San Luis Obispo,06047,Merced,85
+2010,06079,San Luis Obispo,06053,Monterey,1248
+2010,06079,San Luis Obispo,06055,Napa,11
+2010,06079,San Luis Obispo,06059,Orange,243
+2010,06079,San Luis Obispo,06061,Placer,12
+2010,06079,San Luis Obispo,06065,Riverside,59
+2010,06079,San Luis Obispo,06069,San Benito,16
+2010,06079,San Luis Obispo,06071,San Bernardino,50
+2010,06079,San Luis Obispo,06073,San Diego,58
+2010,06079,San Luis Obispo,06075,San Francisco,58
+2010,06079,San Luis Obispo,06077,San Joaquin,19
+2010,06079,San Luis Obispo,06079,San Luis Obispo,105049
+2010,06079,San Luis Obispo,06081,San Mateo,161
+2010,06079,San Luis Obispo,06083,Santa Barbara,8244
+2010,06079,San Luis Obispo,06085,Santa Clara,305
+2010,06079,San Luis Obispo,06087,Santa Cruz,103
+2010,06079,San Luis Obispo,06095,Solano,18
+2010,06079,San Luis Obispo,06097,Sonoma,14
+2010,06079,San Luis Obispo,06099,Stanislaus,79
+2010,06079,San Luis Obispo,06107,Tulare,90
+2010,06079,San Luis Obispo,06109,Tuolumne,7
+2010,06079,San Luis Obispo,06111,Ventura,173
+2010,06079,San Luis Obispo,06113,Yolo,72
+2010,06081,San Mateo,06001,Alameda,13417
+2010,06081,San Mateo,06003,Alpine,10
+2010,06081,San Mateo,06005,Amador,29
+2010,06081,San Mateo,06013,Contra Costa,1909
+2010,06081,San Mateo,06019,Fresno,18
+2010,06081,San Mateo,06023,Humboldt,16
+2010,06081,San Mateo,06025,Imperial,20
+2010,06081,San Mateo,06029,Kern,14
+2010,06081,San Mateo,06037,Los Angeles,335
+2010,06081,San Mateo,06039,Madera,10
+2010,06081,San Mateo,06041,Marin,1142
+2010,06081,San Mateo,06047,Merced,15
+2010,06081,San Mateo,06053,Monterey,158
+2010,06081,San Mateo,06055,Napa,50
+2010,06081,San Mateo,06057,Nevada,25
+2010,06081,San Mateo,06059,Orange,97
+2010,06081,San Mateo,06061,Placer,14
+2010,06081,San Mateo,06065,Riverside,23
+2010,06081,San Mateo,06067,Sacramento,213
+2010,06081,San Mateo,06069,San Benito,13
+2010,06081,San Mateo,06071,San Bernardino,38
+2010,06081,San Mateo,06073,San Diego,73
+2010,06081,San Mateo,06075,San Francisco,75047
+2010,06081,San Mateo,06077,San Joaquin,72
+2010,06081,San Mateo,06079,San Luis Obispo,4
+2010,06081,San Mateo,06081,San Mateo,204512
+2010,06081,San Mateo,06083,Santa Barbara,78
+2010,06081,San Mateo,06085,Santa Clara,50215
+2010,06081,San Mateo,06087,Santa Cruz,441
+2010,06081,San Mateo,06093,Siskiyou,44
+2010,06081,San Mateo,06095,Solano,320
+2010,06081,San Mateo,06097,Sonoma,411
+2010,06081,San Mateo,06099,Stanislaus,90
+2010,06081,San Mateo,06109,Tuolumne,18
+2010,06081,San Mateo,06111,Ventura,39
+2010,06081,San Mateo,06113,Yolo,20
+2010,06081,San Mateo,06115,Yuba,11
+2010,06083,Santa Barbara,06001,Alameda,25
+2010,06083,Santa Barbara,06007,Butte,4
+2010,06083,Santa Barbara,06013,Contra Costa,10
+2010,06083,Santa Barbara,06019,Fresno,40
+2010,06083,Santa Barbara,06029,Kern,179
+2010,06083,Santa Barbara,06035,Lassen,55
+2010,06083,Santa Barbara,06037,Los Angeles,1820
+2010,06083,Santa Barbara,06047,Merced,12
+2010,06083,Santa Barbara,06051,Mono,13
+2010,06083,Santa Barbara,06053,Monterey,62
+2010,06083,Santa Barbara,06059,Orange,120
+2010,06083,Santa Barbara,06061,Placer,9
+2010,06083,Santa Barbara,06065,Riverside,80
+2010,06083,Santa Barbara,06067,Sacramento,26
+2010,06083,Santa Barbara,06071,San Bernardino,81
+2010,06083,Santa Barbara,06073,San Diego,89
+2010,06083,Santa Barbara,06075,San Francisco,30
+2010,06083,Santa Barbara,06079,San Luis Obispo,7218
+2010,06083,Santa Barbara,06081,San Mateo,43
+2010,06083,Santa Barbara,06083,Santa Barbara,176537
+2010,06083,Santa Barbara,06085,Santa Clara,117
+2010,06083,Santa Barbara,06087,Santa Cruz,20
+2010,06083,Santa Barbara,06095,Solano,13
+2010,06083,Santa Barbara,06097,Sonoma,21
+2010,06083,Santa Barbara,06099,Stanislaus,14
+2010,06083,Santa Barbara,06107,Tulare,36
+2010,06083,Santa Barbara,06111,Ventura,1865
+2010,06085,Santa Clara,06001,Alameda,38339
+2010,06085,Santa Clara,06005,Amador,10
+2010,06085,Santa Clara,06007,Butte,36
+2010,06085,Santa Clara,06009,Calaveras,12
+2010,06085,Santa Clara,06011,Colusa,49
+2010,06085,Santa Clara,06013,Contra Costa,3360
+2010,06085,Santa Clara,06017,El Dorado,37
+2010,06085,Santa Clara,06019,Fresno,157
+2010,06085,Santa Clara,06025,Imperial,33
+2010,06085,Santa Clara,06027,Inyo,10
+2010,06085,Santa Clara,06029,Kern,24
+2010,06085,Santa Clara,06031,Kings,18
+2010,06085,Santa Clara,06037,Los Angeles,799
+2010,06085,Santa Clara,06039,Madera,9
+2010,06085,Santa Clara,06041,Marin,741
+2010,06085,Santa Clara,06043,Mariposa,11
+2010,06085,Santa Clara,06047,Merced,105
+2010,06085,Santa Clara,06053,Monterey,2412
+2010,06085,Santa Clara,06055,Napa,85
+2010,06085,Santa Clara,06057,Nevada,18
+2010,06085,Santa Clara,06059,Orange,294
+2010,06085,Santa Clara,06061,Placer,19
+2010,06085,Santa Clara,06063,Plumas,33
+2010,06085,Santa Clara,06065,Riverside,81
+2010,06085,Santa Clara,06067,Sacramento,533
+2010,06085,Santa Clara,06069,San Benito,1108
+2010,06085,Santa Clara,06071,San Bernardino,94
+2010,06085,Santa Clara,06073,San Diego,386
+2010,06085,Santa Clara,06075,San Francisco,9570
+2010,06085,Santa Clara,06077,San Joaquin,497
+2010,06085,Santa Clara,06079,San Luis Obispo,140
+2010,06085,Santa Clara,06081,San Mateo,41522
+2010,06085,Santa Clara,06083,Santa Barbara,161
+2010,06085,Santa Clara,06085,Santa Clara,711535
+2010,06085,Santa Clara,06087,Santa Cruz,3725
+2010,06085,Santa Clara,06089,Shasta,100
+2010,06085,Santa Clara,06091,Sierra,11
+2010,06085,Santa Clara,06093,Siskiyou,15
+2010,06085,Santa Clara,06095,Solano,376
+2010,06085,Santa Clara,06097,Sonoma,349
+2010,06085,Santa Clara,06099,Stanislaus,208
+2010,06085,Santa Clara,06107,Tulare,34
+2010,06085,Santa Clara,06109,Tuolumne,62
+2010,06085,Santa Clara,06111,Ventura,73
+2010,06085,Santa Clara,06113,Yolo,127
+2010,06087,Santa Cruz,06001,Alameda,1007
+2010,06087,Santa Cruz,06009,Calaveras,12
+2010,06087,Santa Cruz,06013,Contra Costa,274
+2010,06087,Santa Cruz,06017,El Dorado,2
+2010,06087,Santa Cruz,06019,Fresno,62
+2010,06087,Santa Cruz,06029,Kern,27
+2010,06087,Santa Cruz,06031,Kings,11
+2010,06087,Santa Cruz,06037,Los Angeles,99
+2010,06087,Santa Cruz,06041,Marin,124
+2010,06087,Santa Cruz,06047,Merced,10
+2010,06087,Santa Cruz,06053,Monterey,5779
+2010,06087,Santa Cruz,06055,Napa,79
+2010,06087,Santa Cruz,06059,Orange,9
+2010,06087,Santa Cruz,06063,Plumas,42
+2010,06087,Santa Cruz,06067,Sacramento,45
+2010,06087,Santa Cruz,06069,San Benito,538
+2010,06087,Santa Cruz,06071,San Bernardino,12
+2010,06087,Santa Cruz,06073,San Diego,85
+2010,06087,Santa Cruz,06075,San Francisco,832
+2010,06087,Santa Cruz,06077,San Joaquin,41
+2010,06087,Santa Cruz,06079,San Luis Obispo,8
+2010,06087,Santa Cruz,06081,San Mateo,1305
+2010,06087,Santa Cruz,06083,Santa Barbara,23
+2010,06087,Santa Cruz,06085,Santa Clara,17451
+2010,06087,Santa Cruz,06087,Santa Cruz,93245
+2010,06087,Santa Cruz,06093,Siskiyou,31
+2010,06087,Santa Cruz,06095,Solano,10
+2010,06087,Santa Cruz,06097,Sonoma,102
+2010,06087,Santa Cruz,06099,Stanislaus,22
+2010,06087,Santa Cruz,06101,Sutter,48
+2010,06087,Santa Cruz,06107,Tulare,6
+2010,06087,Santa Cruz,06109,Tuolumne,41
+2010,06087,Santa Cruz,06111,Ventura,17
+2010,06087,Santa Cruz,06113,Yolo,5
+2010,06089,Shasta,06001,Alameda,139
+2010,06089,Shasta,06007,Butte,226
+2010,06089,Shasta,06009,Calaveras,16
+2010,06089,Shasta,06011,Colusa,42
+2010,06089,Shasta,06013,Contra Costa,49
+2010,06089,Shasta,06015,Del Norte,73
+2010,06089,Shasta,06017,El Dorado,32
+2010,06089,Shasta,06021,Glenn,126
+2010,06089,Shasta,06023,Humboldt,185
+2010,06089,Shasta,06029,Kern,6
+2010,06089,Shasta,06033,Lake,4
+2010,06089,Shasta,06035,Lassen,143
+2010,06089,Shasta,06037,Los Angeles,27
+2010,06089,Shasta,06041,Marin,12
+2010,06089,Shasta,06045,Mendocino,13
+2010,06089,Shasta,06047,Merced,24
+2010,06089,Shasta,06049,Modoc,75
+2010,06089,Shasta,06053,Monterey,14
+2010,06089,Shasta,06055,Napa,7
+2010,06089,Shasta,06059,Orange,10
+2010,06089,Shasta,06061,Placer,3
+2010,06089,Shasta,06063,Plumas,30
+2010,06089,Shasta,06067,Sacramento,148
+2010,06089,Shasta,06071,San Bernardino,11
+2010,06089,Shasta,06075,San Francisco,4
+2010,06089,Shasta,06077,San Joaquin,30
+2010,06089,Shasta,06081,San Mateo,118
+2010,06089,Shasta,06085,Santa Clara,57
+2010,06089,Shasta,06087,Santa Cruz,54
+2010,06089,Shasta,06089,Shasta,64248
+2010,06089,Shasta,06093,Siskiyou,421
+2010,06089,Shasta,06095,Solano,14
+2010,06089,Shasta,06097,Sonoma,15
+2010,06089,Shasta,06101,Sutter,10
+2010,06089,Shasta,06103,Tehama,1267
+2010,06089,Shasta,06105,Trinity,68
+2010,06089,Shasta,06109,Tuolumne,16
+2010,06089,Shasta,06113,Yolo,44
+2010,06089,Shasta,06115,Yuba,8
+2010,06091,Sierra,06001,Alameda,7
+2010,06091,Sierra,06035,Lassen,14
+2010,06091,Sierra,06049,Modoc,9
+2010,06091,Sierra,06057,Nevada,239
+2010,06091,Sierra,06063,Plumas,81
+2010,06091,Sierra,06071,San Bernardino,20
+2010,06091,Sierra,06091,Sierra,961
+2010,06091,Sierra,06115,Yuba,17
+2010,06093,Siskiyou,06007,Butte,3
+2010,06093,Siskiyou,06013,Contra Costa,26
+2010,06093,Siskiyou,06015,Del Norte,3
+2010,06093,Siskiyou,06017,El Dorado,12
+2010,06093,Siskiyou,06019,Fresno,3
+2010,06093,Siskiyou,06023,Humboldt,46
+2010,06093,Siskiyou,06035,Lassen,4
+2010,06093,Siskiyou,06037,Los Angeles,15
+2010,06093,Siskiyou,06049,Modoc,73
+2010,06093,Siskiyou,06053,Monterey,3
+2010,06093,Siskiyou,06055,Napa,25
+2010,06093,Siskiyou,06057,Nevada,4
+2010,06093,Siskiyou,06061,Placer,4
+2010,06093,Siskiyou,06065,Riverside,2
+2010,06093,Siskiyou,06067,Sacramento,29
+2010,06093,Siskiyou,06073,San Diego,4
+2010,06093,Siskiyou,06077,San Joaquin,12
+2010,06093,Siskiyou,06081,San Mateo,3
+2010,06093,Siskiyou,06085,Santa Clara,17
+2010,06093,Siskiyou,06089,Shasta,435
+2010,06093,Siskiyou,06093,Siskiyou,15419
+2010,06093,Siskiyou,06095,Solano,17
+2010,06093,Siskiyou,06097,Sonoma,19
+2010,06093,Siskiyou,06099,Stanislaus,3
+2010,06093,Siskiyou,06103,Tehama,26
+2010,06093,Siskiyou,06105,Trinity,14
+2010,06093,Siskiyou,06113,Yolo,5
+2010,06095,Solano,06001,Alameda,11723
+2010,06095,Solano,06005,Amador,19
+2010,06095,Solano,06007,Butte,62
+2010,06095,Solano,06011,Colusa,19
+2010,06095,Solano,06013,Contra Costa,19903
+2010,06095,Solano,06017,El Dorado,64
+2010,06095,Solano,06019,Fresno,14
+2010,06095,Solano,06027,Inyo,14
+2010,06095,Solano,06029,Kern,52
+2010,06095,Solano,06033,Lake,24
+2010,06095,Solano,06035,Lassen,43
+2010,06095,Solano,06037,Los Angeles,225
+2010,06095,Solano,06041,Marin,4362
+2010,06095,Solano,06043,Mariposa,17
+2010,06095,Solano,06045,Mendocino,29
+2010,06095,Solano,06047,Merced,31
+2010,06095,Solano,06053,Monterey,46
+2010,06095,Solano,06055,Napa,10825
+2010,06095,Solano,06057,Nevada,16
+2010,06095,Solano,06059,Orange,116
+2010,06095,Solano,06061,Placer,210
+2010,06095,Solano,06065,Riverside,61
+2010,06095,Solano,06067,Sacramento,5239
+2010,06095,Solano,06071,San Bernardino,56
+2010,06095,Solano,06073,San Diego,116
+2010,06095,Solano,06075,San Francisco,9854
+2010,06095,Solano,06077,San Joaquin,497
+2010,06095,Solano,06081,San Mateo,2619
+2010,06095,Solano,06083,Santa Barbara,6
+2010,06095,Solano,06085,Santa Clara,1493
+2010,06095,Solano,06087,Santa Cruz,36
+2010,06095,Solano,06089,Shasta,5
+2010,06095,Solano,06095,Solano,109343
+2010,06095,Solano,06097,Sonoma,2409
+2010,06095,Solano,06099,Stanislaus,8
+2010,06095,Solano,06101,Sutter,66
+2010,06095,Solano,06107,Tulare,31
+2010,06095,Solano,06109,Tuolumne,15
+2010,06095,Solano,06111,Ventura,33
+2010,06095,Solano,06113,Yolo,3908
+2010,06095,Solano,06115,Yuba,41
+2010,06097,Sonoma,06001,Alameda,2150
+2010,06097,Sonoma,06011,Colusa,19
+2010,06097,Sonoma,06013,Contra Costa,1246
+2010,06097,Sonoma,06017,El Dorado,27
+2010,06097,Sonoma,06019,Fresno,26
+2010,06097,Sonoma,06023,Humboldt,72
+2010,06097,Sonoma,06033,Lake,170
+2010,06097,Sonoma,06035,Lassen,9
+2010,06097,Sonoma,06037,Los Angeles,225
+2010,06097,Sonoma,06041,Marin,17457
+2010,06097,Sonoma,06045,Mendocino,1087
+2010,06097,Sonoma,06051,Mono,12
+2010,06097,Sonoma,06053,Monterey,31
+2010,06097,Sonoma,06055,Napa,3941
+2010,06097,Sonoma,06057,Nevada,43
+2010,06097,Sonoma,06059,Orange,56
+2010,06097,Sonoma,06061,Placer,38
+2010,06097,Sonoma,06063,Plumas,11
+2010,06097,Sonoma,06067,Sacramento,329
+2010,06097,Sonoma,06073,San Diego,97
+2010,06097,Sonoma,06075,San Francisco,6380
+2010,06097,Sonoma,06077,San Joaquin,33
+2010,06097,Sonoma,06081,San Mateo,1533
+2010,06097,Sonoma,06083,Santa Barbara,7
+2010,06097,Sonoma,06085,Santa Clara,727
+2010,06097,Sonoma,06087,Santa Cruz,222
+2010,06097,Sonoma,06095,Solano,1271
+2010,06097,Sonoma,06097,Sonoma,188435
+2010,06097,Sonoma,06099,Stanislaus,19
+2010,06097,Sonoma,06101,Sutter,7
+2010,06097,Sonoma,06107,Tulare,7
+2010,06097,Sonoma,06113,Yolo,89
+2010,06099,Stanislaus,06001,Alameda,8198
+2010,06099,Stanislaus,06005,Amador,132
+2010,06099,Stanislaus,06007,Butte,73
+2010,06099,Stanislaus,06009,Calaveras,155
+2010,06099,Stanislaus,06013,Contra Costa,1542
+2010,06099,Stanislaus,06017,El Dorado,24
+2010,06099,Stanislaus,06019,Fresno,425
+2010,06099,Stanislaus,06023,Humboldt,37
+2010,06099,Stanislaus,06025,Imperial,8
+2010,06099,Stanislaus,06029,Kern,54
+2010,06099,Stanislaus,06031,Kings,12
+2010,06099,Stanislaus,06037,Los Angeles,302
+2010,06099,Stanislaus,06039,Madera,270
+2010,06099,Stanislaus,06041,Marin,69
+2010,06099,Stanislaus,06043,Mariposa,38
+2010,06099,Stanislaus,06047,Merced,5646
+2010,06099,Stanislaus,06053,Monterey,287
+2010,06099,Stanislaus,06059,Orange,112
+2010,06099,Stanislaus,06061,Placer,54
+2010,06099,Stanislaus,06065,Riverside,15
+2010,06099,Stanislaus,06067,Sacramento,1184
+2010,06099,Stanislaus,06069,San Benito,76
+2010,06099,Stanislaus,06071,San Bernardino,17
+2010,06099,Stanislaus,06073,San Diego,50
+2010,06099,Stanislaus,06075,San Francisco,854
+2010,06099,Stanislaus,06077,San Joaquin,17140
+2010,06099,Stanislaus,06081,San Mateo,1167
+2010,06099,Stanislaus,06085,Santa Clara,3983
+2010,06099,Stanislaus,06087,Santa Cruz,66
+2010,06099,Stanislaus,06089,Shasta,31
+2010,06099,Stanislaus,06095,Solano,172
+2010,06099,Stanislaus,06097,Sonoma,51
+2010,06099,Stanislaus,06099,Stanislaus,157079
+2010,06099,Stanislaus,06103,Tehama,18
+2010,06099,Stanislaus,06107,Tulare,79
+2010,06099,Stanislaus,06109,Tuolumne,885
+2010,06099,Stanislaus,06113,Yolo,154
+2010,06101,Sutter,06001,Alameda,84
+2010,06101,Sutter,06005,Amador,26
+2010,06101,Sutter,06007,Butte,1361
+2010,06101,Sutter,06011,Colusa,743
+2010,06101,Sutter,06013,Contra Costa,31
+2010,06101,Sutter,06017,El Dorado,99
+2010,06101,Sutter,06019,Fresno,5
+2010,06101,Sutter,06021,Glenn,57
+2010,06101,Sutter,06035,Lassen,8
+2010,06101,Sutter,06037,Los Angeles,28
+2010,06101,Sutter,06045,Mendocino,17
+2010,06101,Sutter,06053,Monterey,10
+2010,06101,Sutter,06055,Napa,31
+2010,06101,Sutter,06057,Nevada,396
+2010,06101,Sutter,06061,Placer,1617
+2010,06101,Sutter,06063,Plumas,9
+2010,06101,Sutter,06067,Sacramento,3890
+2010,06101,Sutter,06073,San Diego,47
+2010,06101,Sutter,06075,San Francisco,61
+2010,06101,Sutter,06077,San Joaquin,91
+2010,06101,Sutter,06079,San Luis Obispo,11
+2010,06101,Sutter,06081,San Mateo,7
+2010,06101,Sutter,06085,Santa Clara,119
+2010,06101,Sutter,06087,Santa Cruz,39
+2010,06101,Sutter,06089,Shasta,59
+2010,06101,Sutter,06095,Solano,309
+2010,06101,Sutter,06097,Sonoma,19
+2010,06101,Sutter,06101,Sutter,20068
+2010,06101,Sutter,06111,Ventura,16
+2010,06101,Sutter,06113,Yolo,2267
+2010,06101,Sutter,06115,Yuba,6052
+2010,06103,Tehama,06001,Alameda,56
+2010,06103,Tehama,06005,Amador,5
+2010,06103,Tehama,06007,Butte,1601
+2010,06103,Tehama,06009,Calaveras,11
+2010,06103,Tehama,06011,Colusa,3
+2010,06103,Tehama,06013,Contra Costa,3
+2010,06103,Tehama,06019,Fresno,3
+2010,06103,Tehama,06021,Glenn,538
+2010,06103,Tehama,06023,Humboldt,2
+2010,06103,Tehama,06029,Kern,89
+2010,06103,Tehama,06035,Lassen,14
+2010,06103,Tehama,06037,Los Angeles,52
+2010,06103,Tehama,06041,Marin,14
+2010,06103,Tehama,06049,Modoc,8
+2010,06103,Tehama,06053,Monterey,35
+2010,06103,Tehama,06055,Napa,5
+2010,06103,Tehama,06057,Nevada,9
+2010,06103,Tehama,06059,Orange,36
+2010,06103,Tehama,06061,Placer,83
+2010,06103,Tehama,06063,Plumas,59
+2010,06103,Tehama,06065,Riverside,17
+2010,06103,Tehama,06067,Sacramento,211
+2010,06103,Tehama,06071,San Bernardino,39
+2010,06103,Tehama,06077,San Joaquin,37
+2010,06103,Tehama,06081,San Mateo,14
+2010,06103,Tehama,06083,Santa Barbara,5
+2010,06103,Tehama,06085,Santa Clara,16
+2010,06103,Tehama,06089,Shasta,2895
+2010,06103,Tehama,06093,Siskiyou,7
+2010,06103,Tehama,06095,Solano,27
+2010,06103,Tehama,06097,Sonoma,98
+2010,06103,Tehama,06099,Stanislaus,4
+2010,06103,Tehama,06101,Sutter,42
+2010,06103,Tehama,06103,Tehama,16194
+2010,06103,Tehama,06105,Trinity,119
+2010,06103,Tehama,06113,Yolo,15
+2010,06105,Trinity,06007,Butte,5
+2010,06105,Trinity,06017,El Dorado,4
+2010,06105,Trinity,06023,Humboldt,323
+2010,06105,Trinity,06035,Lassen,2
+2010,06105,Trinity,06037,Los Angeles,4
+2010,06105,Trinity,06059,Orange,5
+2010,06105,Trinity,06067,Sacramento,5
+2010,06105,Trinity,06075,San Francisco,3
+2010,06105,Trinity,06077,San Joaquin,18
+2010,06105,Trinity,06089,Shasta,234
+2010,06105,Trinity,06097,Sonoma,5
+2010,06105,Trinity,06105,Trinity,4416
+2010,06105,Trinity,06113,Yolo,14
+2010,06107,Tulare,06001,Alameda,11
+2010,06107,Tulare,06005,Amador,18
+2010,06107,Tulare,06007,Butte,16
+2010,06107,Tulare,06013,Contra Costa,7
+2010,06107,Tulare,06019,Fresno,7592
+2010,06107,Tulare,06029,Kern,5390
+2010,06107,Tulare,06031,Kings,5206
+2010,06107,Tulare,06037,Los Angeles,677
+2010,06107,Tulare,06039,Madera,209
+2010,06107,Tulare,06043,Mariposa,11
+2010,06107,Tulare,06047,Merced,41
+2010,06107,Tulare,06051,Mono,8
+2010,06107,Tulare,06053,Monterey,92
+2010,06107,Tulare,06055,Napa,21
+2010,06107,Tulare,06059,Orange,204
+2010,06107,Tulare,06061,Placer,45
+2010,06107,Tulare,06063,Plumas,13
+2010,06107,Tulare,06065,Riverside,104
+2010,06107,Tulare,06067,Sacramento,114
+2010,06107,Tulare,06069,San Benito,33
+2010,06107,Tulare,06071,San Bernardino,49
+2010,06107,Tulare,06073,San Diego,59
+2010,06107,Tulare,06075,San Francisco,78
+2010,06107,Tulare,06077,San Joaquin,142
+2010,06107,Tulare,06079,San Luis Obispo,88
+2010,06107,Tulare,06081,San Mateo,69
+2010,06107,Tulare,06083,Santa Barbara,82
+2010,06107,Tulare,06085,Santa Clara,133
+2010,06107,Tulare,06087,Santa Cruz,54
+2010,06107,Tulare,06089,Shasta,13
+2010,06107,Tulare,06093,Siskiyou,12
+2010,06107,Tulare,06095,Solano,21
+2010,06107,Tulare,06097,Sonoma,14
+2010,06107,Tulare,06099,Stanislaus,88
+2010,06107,Tulare,06101,Sutter,9
+2010,06107,Tulare,06107,Tulare,140500
+2010,06107,Tulare,06111,Ventura,48
+2010,06107,Tulare,06113,Yolo,49
+2010,06109,Tuolumne,06001,Alameda,177
+2010,06109,Tuolumne,06003,Alpine,22
+2010,06109,Tuolumne,06005,Amador,14
+2010,06109,Tuolumne,06007,Butte,15
+2010,06109,Tuolumne,06009,Calaveras,572
+2010,06109,Tuolumne,06013,Contra Costa,5
+2010,06109,Tuolumne,06017,El Dorado,54
+2010,06109,Tuolumne,06019,Fresno,71
+2010,06109,Tuolumne,06029,Kern,7
+2010,06109,Tuolumne,06039,Madera,19
+2010,06109,Tuolumne,06043,Mariposa,108
+2010,06109,Tuolumne,06047,Merced,94
+2010,06109,Tuolumne,06053,Monterey,44
+2010,06109,Tuolumne,06067,Sacramento,82
+2010,06109,Tuolumne,06069,San Benito,15
+2010,06109,Tuolumne,06071,San Bernardino,23
+2010,06109,Tuolumne,06073,San Diego,2
+2010,06109,Tuolumne,06075,San Francisco,137
+2010,06109,Tuolumne,06077,San Joaquin,385
+2010,06109,Tuolumne,06081,San Mateo,58
+2010,06109,Tuolumne,06085,Santa Clara,99
+2010,06109,Tuolumne,06095,Solano,41
+2010,06109,Tuolumne,06099,Stanislaus,932
+2010,06109,Tuolumne,06103,Tehama,11
+2010,06109,Tuolumne,06107,Tulare,23
+2010,06109,Tuolumne,06109,Tuolumne,17195
+2010,06109,Tuolumne,06111,Ventura,9
+2010,06111,Ventura,06001,Alameda,62
+2010,06111,Ventura,06007,Butte,30
+2010,06111,Ventura,06013,Contra Costa,16
+2010,06111,Ventura,06017,El Dorado,18
+2010,06111,Ventura,06019,Fresno,106
+2010,06111,Ventura,06025,Imperial,26
+2010,06111,Ventura,06029,Kern,387
+2010,06111,Ventura,06037,Los Angeles,66832
+2010,06111,Ventura,06039,Madera,18
+2010,06111,Ventura,06041,Marin,9
+2010,06111,Ventura,06053,Monterey,140
+2010,06111,Ventura,06055,Napa,15
+2010,06111,Ventura,06057,Nevada,15
+2010,06111,Ventura,06059,Orange,1185
+2010,06111,Ventura,06065,Riverside,239
+2010,06111,Ventura,06069,San Benito,17
+2010,06111,Ventura,06071,San Bernardino,437
+2010,06111,Ventura,06073,San Diego,443
+2010,06111,Ventura,06075,San Francisco,82
+2010,06111,Ventura,06079,San Luis Obispo,333
+2010,06111,Ventura,06081,San Mateo,207
+2010,06111,Ventura,06083,Santa Barbara,11360
+2010,06111,Ventura,06085,Santa Clara,253
+2010,06111,Ventura,06087,Santa Cruz,56
+2010,06111,Ventura,06093,Siskiyou,30
+2010,06111,Ventura,06097,Sonoma,37
+2010,06111,Ventura,06099,Stanislaus,23
+2010,06111,Ventura,06111,Ventura,294506
+2010,06111,Ventura,06113,Yolo,32
+2010,06113,Yolo,06001,Alameda,593
+2010,06113,Yolo,06007,Butte,55
+2010,06113,Yolo,06011,Colusa,239
+2010,06113,Yolo,06013,Contra Costa,667
+2010,06113,Yolo,06017,El Dorado,209
+2010,06113,Yolo,06019,Fresno,85
+2010,06113,Yolo,06021,Glenn,10
+2010,06113,Yolo,06037,Los Angeles,163
+2010,06113,Yolo,06041,Marin,120
+2010,06113,Yolo,06045,Mendocino,38
+2010,06113,Yolo,06053,Monterey,58
+2010,06113,Yolo,06055,Napa,171
+2010,06113,Yolo,06057,Nevada,52
+2010,06113,Yolo,06059,Orange,8
+2010,06113,Yolo,06061,Placer,1008
+2010,06113,Yolo,06065,Riverside,12
+2010,06113,Yolo,06067,Sacramento,21844
+2010,06113,Yolo,06069,San Benito,23
+2010,06113,Yolo,06071,San Bernardino,20
+2010,06113,Yolo,06073,San Diego,80
+2010,06113,Yolo,06075,San Francisco,470
+2010,06113,Yolo,06077,San Joaquin,253
+2010,06113,Yolo,06081,San Mateo,159
+2010,06113,Yolo,06085,Santa Clara,263
+2010,06113,Yolo,06087,Santa Cruz,14
+2010,06113,Yolo,06089,Shasta,12
+2010,06113,Yolo,06095,Solano,5046
+2010,06113,Yolo,06097,Sonoma,161
+2010,06113,Yolo,06099,Stanislaus,53
+2010,06113,Yolo,06101,Sutter,283
+2010,06113,Yolo,06113,Yolo,54467
+2010,06113,Yolo,06115,Yuba,69
+2010,06115,Yuba,06001,Alameda,74
+2010,06115,Yuba,06007,Butte,672
+2010,06115,Yuba,06011,Colusa,118
+2010,06115,Yuba,06013,Contra Costa,17
+2010,06115,Yuba,06021,Glenn,26
+2010,06115,Yuba,06023,Humboldt,8
+2010,06115,Yuba,06029,Kern,6
+2010,06115,Yuba,06037,Los Angeles,82
+2010,06115,Yuba,06045,Mendocino,6
+2010,06115,Yuba,06053,Monterey,42
+2010,06115,Yuba,06055,Napa,57
+2010,06115,Yuba,06057,Nevada,476
+2010,06115,Yuba,06061,Placer,2425
+2010,06115,Yuba,06067,Sacramento,3100
+2010,06115,Yuba,06073,San Diego,30
+2010,06115,Yuba,06075,San Francisco,72
+2010,06115,Yuba,06077,San Joaquin,72
+2010,06115,Yuba,06081,San Mateo,15
+2010,06115,Yuba,06085,Santa Clara,42
+2010,06115,Yuba,06089,Shasta,31
+2010,06115,Yuba,06091,Sierra,13
+2010,06115,Yuba,06095,Solano,105
+2010,06115,Yuba,06097,Sonoma,83
+2010,06115,Yuba,06101,Sutter,5401
+2010,06115,Yuba,06113,Yolo,602
+2010,06115,Yuba,06115,Yuba,13032
