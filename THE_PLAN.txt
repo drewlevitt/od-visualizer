@@ -72,4 +72,16 @@ How to associate CSV data with the Leaflet features?
     Why don't I use d3 to filter the full CSV down to only relevant rows, then... create a dictionary so that Leaflet features can efficiently look up their corresponding values in the dictionary? (JS object property lookups are basically O(1).)
     And, what, do I have a dictionary of colors too? No, right? I just have a d3 quantile scale that I wrap in a handler for if the Leaflet feature's value is `undefined`
 
-Do I need to add the GeoJSON layer to the Leaflet map only after loading the flows CSV data - i.e. within the d3.csv() block??
+Do I need to add the GeoJSON layer to the Leaflet map only after loading the flows CSV data - i.e. within the d3.csv() block?? (Seems like yes.)
+
+
+TODO
+Highlight clicked/selected zone
+    Associating certain feature properties with the Leaflet features during load-in of data might help
+Add legend
+Experiment with quantize/naturalBreaks/etc
+Add tooltips
+
+FUTURE FEATURES
+Select multiple zones for aggregate analysis
+D3 bar chart on the side showing top 10-ish flows

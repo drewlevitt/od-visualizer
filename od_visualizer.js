@@ -13,17 +13,31 @@ L.tileLayer(
   }
 ).addTo(map);
 
-// Define a set of colors to use for choropleth mapping.
-// This also defines how many buckets to group the data into!
-var colors = ['#f0f9e8','#bae4bc','#7bccc4','#43a2ca','#0868ac'] // ColorBrewer 5-class GnBu
-var nullColor = 'lightgray'
+var colors;
+var nullColor = 'lightgray';
 
 //Read the data
 d3.csv('flows.csv').then(function(data) {
+  // define an array of parameters to be used to populate the drop-down menus
+  var optionSets = [{ mapFunc: d => d.o_name,
+                      selectString: '#zone',
+                      textFunc: d => d + ' County',
+                      valueFunc: d => d },
+                    { mapFunc: d => d.year,
+                      selectString: '#year',
+                      textFunc: d => d,
+                      valueFunc: d => d },
+                    ];
+
+  // define criteria for filtering the flows table
+  function filterCriteria(d, filterKey) {
+    return (d[filterKey] === params.zone) && (d.year === params.year);
+  }
+  
   // create an initial style in which to draw the polygons
   function style(feature) {
     return {
-      weight: 1.5,
+      weight: 1.25,
       opacity: 1,
       color: 'black',
       fillOpacity: 0.7,
@@ -42,6 +56,7 @@ d3.csv('flows.csv').then(function(data) {
     layer.on({
       click: handleClick,
     });
+    layer.bindTooltip(feature.properties.NAME, { sticky: true });
   }
 
   var geojson = L.geoJson(caCounties, {
@@ -51,22 +66,27 @@ d3.csv('flows.csv').then(function(data) {
 
   map.fitBounds(geojson.getBounds());
 
-  // define an array of parameters to be used to populate the drop-down menus
-  var optionSets = [{ mapFunc: d => d.o_name,
-                      selectString: '#zone',
-                      textFunc: d => d + ' County',
-                      valueFunc: d => d },
-                    { mapFunc: d => d.year,
-                      selectString: '#year',
-                      textFunc: d => d,
-                      valueFunc: d => d },
-                    ];
-      
-  // define criteria for filtering the flows table
-  function filterCriteria(d, filterKey) {
-    return (d[filterKey] === params.zone) && (d.year === params.year);
-  }
-                    
+  var legend = L.control({position: 'bottomright'});
+  legend.onAdd = function(map) {
+    this._div = L.DomUtil.create('div', 'info legend');
+    this.update();
+    return this._div;
+  };
+
+  let noDecimals = { minimumFractionDigits: 0, maximumFractionDigits: 0 };
+
+  legend.update = function(grades) {
+    this._div.innerHTML = `<h4>Trips</h4><i style="background:${nullColor}"></i> 0`;
+    if (grades) {
+      for (var i = 0; i < grades.length - 1; i++) { // grades.length - 1 because I'm going to pass it a grades array 1 longer than colors (so I can show the top value)
+        this._div.innerHTML += `<br><i style="background:${colors[i]}"></i> 
+        ${grades[i].toLocaleString(undefined, noDecimals)}&ndash;${grades[i + 1].toLocaleString(undefined, noDecimals)}`;
+      }
+    }
+  };
+
+  legend.addTo(map);
+
   optionSets.forEach(function(optionSet) {
     // Use Array.map to extract specific attributes, Set to remove duplicate values,
     // and the spread operator to expand the set back into an Array which we then sort.
@@ -78,7 +98,7 @@ d3.csv('flows.csv').then(function(data) {
       .selectAll("d3Option") // none will exist yet; this creates the options! if I'd used "option", that would not add all the new options, just the ones whose indices exceed the current number of options
         .data(options)
       .enter()
-        .append("option")
+      .append("option")
         .text(optionSet.textFunc) // text shown in the menu
         .attr("value", optionSet.valueFunc); // corresponding value returned by the select
   });
@@ -122,11 +142,17 @@ d3.csv('flows.csv').then(function(data) {
       return feature;
     });
 
+    // make sure we don't have more buckets than observations
+    colors = colorbrewer.GnBu[Math.min(currentData.length, 7)];
+
     // Create a quantile color scale based on the relevant rows
     var quantile = d3.scaleQuantile()
         .domain(Object.values(currentValues))
         .range(colors);
 
+    let grades = [Math.min(...quantile.domain()), 
+      ...quantile.quantiles(), 
+      Math.max(...quantile.domain())];
 
     function getColor(feature) {
       if (feature.value === undefined) {
@@ -142,6 +168,12 @@ d3.csv('flows.csv').then(function(data) {
 
     geojson.setStyle(mapStyle);
     // geojson.setStyle(feature => { fillColor: getColor(feature) }); // why doesn't this work??
+
+
+
+    // console.log(grades);
+
+    legend.update(grades);
   }
 
 
