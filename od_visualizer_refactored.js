@@ -70,6 +70,16 @@ function style(feature) {
 }
 
 function handleClick(e) {
+  // first remove any highlighting that may already be present
+  geojson.resetStyle();
+  let layer = e.target;
+
+  layer.setStyle({
+    weight: 4,
+    color: "#f3c722"
+  });
+  layer.bringToFront();
+
   let zone = e.target.feature.id;
   // set the zone drop-down to the id of the just-clicked polygon
   document.getElementById('zone').value = zone;
@@ -91,12 +101,16 @@ var geojson = L.geoJson(caCounties, {
   onEachFeature: onEachFeature,
 });
 // we could bind tooltips within onEachFeature, but doing it here lets us unbind (and therefore modify) them later
-geojson.bindTooltip(layer => `${layer.feature.id} County`, { sticky: true });
+geojson.bindTooltip(layer => `<b>${layer.feature.id} County</b>`, { sticky: true });
 
 // Create an event handler...
 function handleSelectChange(e) {
   if (e.target.id === 'zone') {
     // The easiest way to handle a change to the zone dropdown is to simulate a click on the corresponding polygon
+    if (e.target.value === 'none') { // bit we need to handle the special case where '[select a zone]' is selected
+      geojson.resetStyle();
+      return;
+    }
     geojson.getLayer(e.target.value).fire('click'); 
   } else {
     // Store the just-changed selection in params
@@ -192,7 +206,7 @@ function refreshMap() {
   // geojson.setStyle(feature => { fillColor: getColor(feature) }); // why doesn't this work??
 
   geojson.unbindTooltip();
-  geojson.bindTooltip(layer => `<b>${layer.feature.id} County</b><br>
+  geojson.bindTooltip(layer => `<b>${layer._leaflet_id} County</b><br>
     ${layer.feature.vol.toLocaleString(undefined, noDecimals)} trips
     (${layer.feature.pct.toLocaleString(undefined, percent)} of total)`, { sticky: true });
 }
